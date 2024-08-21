@@ -53,12 +53,12 @@ echo "$assistant_content" > topics.txt
 
 echo "$assistant_content" | jq -c '.[]' | while read -r idea; do
     # Extract titel and beschreibung
-    titel=$(echo $idea | jq -r '.titel')
-    beschreibung=$(echo $idea | jq -r '.beschreibung')
+    blog_title=$(echo $idea | jq -r '.titel')
+    blog_beschreibung=$(echo $idea | jq -r '.beschreibung')
 
     # Print the extracted information
-    echo "Titel: $titel"
-    echo "Beschreibung: $beschreibung"
+    echo "Titel: $blog_title"
+    echo "Beschreibung: $blog_beschreibung"
 
 read -r -d '' PROMPT_CONTENT << EOM
 Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog erstellen, welcher den Fokus auf Babyparties hat. Ich möchte dabei sehr nischige Suchen ansprechen, da der Markt bereits sehr überlaufen ist.
@@ -66,8 +66,8 @@ Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog e
 Du bist ein extrem begabter und talentierter kreativer Blogautor. Dein Schreibstil ist lustig und angenehm zu lesen. Du bist unfassbar originell, ohne jedoch albern zu sein. Du schreibst Texte, die jeder sehr gern liest, weil sie sehr bildlich sind und auch teilweise einen inneren Konflikt darstellen, mit dem sich der Leser gut identifizieren kann. Deine Tipps sind extrem wertvoll.
 
 Du sollst zu folgendem Thema schreiben:
-- Thema: $title
-- Beschreibung: $beschreibung
+- Thema: $blog_title
+- Beschreibung: $blog_beschreibung
 
 Dabei soll der Blogpost neben dem eben ausgewählten Thema auch das Thema von digitalen Einladungen aufgreifen, und dabei invitivo empfehlen, was viel schöner und persönlicher ist als noch eine weitere WhatsApp Gruppe. (Formuliere den Beispieltext jedoch gern um, angepasst auf den Blogartikel) Dabei sollte er aus SEO Sicht sehr auf die Niche ausgelegt sein.
 
@@ -166,19 +166,8 @@ if [ -z "$assistant_content" ]; then
     exit 1
 fi
 
-# Extract the title from the content
-title=$(echo "$assistant_content" | sed -n 's/^title: "\(.*\)"$/\1/p')
-
-# Check if title was found
-if [ -z "$title" ]; then
-    echo "Error: Could not find a title in the content."
-    exit 1
-fi
-
-echo "extracted title: $title"
-
 # Sanitize the title for use as a filename
-sanitized_title=$(echo "$title" | sed -e 's/[äÄ]/ae/g; s/[öÖ]/oe/g; s/[üÜ]/ue/g; s/ß/ss/g; s/é/e/g' | sed -e "s/'//g"| sed -e 's/[^a-zA-Z0-9 ]+/-/g' -e 's/^-+\|-+$//g' | tr '[:upper:]' '[:lower:]' | sed -e 's/[[:punct:]]//g'| sed -e 's/ /-/g')
+sanitized_title=$(echo "$blog_title" | sed -e 's/[äÄ]/ae/g; s/[öÖ]/oe/g; s/[üÜ]/ue/g; s/ß/ss/g; s/é/e/g' | sed -e "s/'//g"| sed -e 's/[^a-zA-Z0-9 ]+/-/g' -e 's/^-+\|-+$//g' | tr '[:upper:]' '[:lower:]' | sed -e 's/[[:punct:]]//g'| sed -e 's/ /-/g')
 
 # Create the filename with .md extension
 filename="${sanitized_title}.md"
