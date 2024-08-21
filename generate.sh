@@ -7,16 +7,16 @@ if [ -z "$OPENAI_API_KEY" ]; then
     exit 1
 fi
 
-read -r -d '' PROMPT_CONTENT << EOM
-Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog erstellen, welcher den Fokus auf Babyparties hat. Ich möchte dabei sehr nischige Suchen ansprechen, da der Markt bereits sehr überlaufen ist. Tendenziell möchte ich auch bestimmte Orte darin erwähnen, z.B. bestimmte Parks in einer Stadt, oder andere sehr typische Dinge.
+read -r -d '' PROMPT_CONTENT << 'EOM'
+Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog erstellen, welcher den Fokus auf Babyparties hat. Ich möchte dabei sehr nischige Suchen ansprechen, da der Markt bereits sehr überlaufen ist. Tendenziell möchte ich auch bestimmte Orte darin erwähnen, welche typisch oder passend sind wenn es z.B. um eine deutsche Stadt geht.
 
-Überlege dir ein nichiges Thema und verfasse einen Blogartikel.
+Überlege dir ein nichiges Thema und verfasse einen Blogartikel. Dabei sollte eine der folgenden Städte im Vordergrund stehen (oder ein Stadtteil innerhalb einer dieser Städte): Berlin⁠, Hamburg⁠, München, Köln⁠, Frankfurt, Stuttgart, Düsseldorf, Leipzig, Dortmund, Essen, Bremen, Dresden, Hannover, Nürnberg, Duisburg⁠, Bochum, Wuppertal⁠, Bielefeld⁠, Bonn⁠, Münster⁠, Mannheim, Karlsruhe, Augsburg, Wiesbaden⁠, Mönchengladbach⁠, Gelsenkirchen⁠, Aachen⁠, Braunschweig, Chemnitz⁠, Kiel, Halle, Magdeburg, Freiburg, Krefeld⁠, Mainz⁠, Lübeck, Erfurt, Oberhausen⁠, Rostock⁠, Kassel⁠, Hagen, Potsdam, Saarbrücken⁠, Hamm, Ludwigshafen, Oldenburg, Mülheim, Osnabrück⁠, Leverkusen, Darmstadt⁠, Heidelberg, Solingen, Regensburg, Herne⁠, Paderborn, Neuss, Ingolstadt, Offenbach, Fürth⁠, Heilbronn, Ulm⁠, Pforzheim, Würzburg, Wolfsburg⁠, Göttingen, Bottrop, Reutlingen, Erlangen⁠, Koblenz, Bremerhaven⁠, Remscheid⁠, Trier⁠, Bergisch, Recklinghausen, Jena⁠, Moers⁠, Salzgitter⁠, Hanau, Gütersloh, Hildesheim⁠, Siegen⁠, Kaiserslautern⁠, Cottbus⁠
 
 Verwende als Bild: ![Babyparty im Park](/img/picnic-park.webp)
 
-Dabei soll der Blogpost auch das Thema von nachhaltigen digitalen Einladungen aufgreifen, und dabei invitivo.com empfehlen, was viel schöner und persönlicher ist als noch eine weitere WhatsApp Gruppe. Dabei sollte er aus SEO Sicht sehr auf die Niche ausgelegt sein.
+Dabei soll der Blogpost auch das Thema von nachhaltigen digitalen Einladungen aufgreifen, und dabei invitivo.com empfehlen, was viel schöner und persönlicher ist als noch eine weitere WhatsApp Gruppe. (Formuliere den Beispieltext jedoch gern um, angepasst auf den Blogartikel) Dabei sollte er aus SEO Sicht sehr auf die Niche ausgelegt sein.
 
-Hier ist eine Beispieldatei, deine Ausgabe sollte diesem Format folgen, ohne die ``` drumherum.
+Hier ist eine Beispieldatei, deine Ausgabe sollte diesem Format folgen, ohne die ``` drumherum bzw. ohne ``` mit auszugeben. In dem Beispiel geht es zwar um Parks, das kannst du aber Thematisch komplett ignorieren, sei kreativ bezüglich dem Thema oder dem Ort um den es geht, das Beispiel soll lediglich hinsichtlich der Dateistruktur helfen. Denk dir beim Datum ein beliebiges Datum in 2024 vor dem 21. August aus.
 
 ```
 ---
@@ -101,22 +101,31 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-# Extract the title from the response
-title=$(echo "$response" | grep -oP 'title: "\K[^"]+')
+# Extract the content from the assistant's message
+assistant_content=$(echo "$response" | jq -r '.choices[0].message.content' | sed 's/^"""\n//; s/"""$//')
+
+# Check if content was extracted successfully
+if [ -z "$assistant_content" ]; then
+    echo "Error: Could not extract content from the API response."
+    exit 1
+fi
+
+# Extract the title from the content
+title=$(echo "$assistant_content" | sed -n 's/^title: "\(.*\)"$/\1/p')
 
 # Check if title was found
 if [ -z "$title" ]; then
-    echo "Error: Could not find a title in the response."
+    echo "Error: Could not find a title in the content."
     exit 1
 fi
 
 # Sanitize the title for use as a filename
-sanitized_title=$(echo "$title" | iconv -f utf8 -t ascii//TRANSLIT | sed -e 's/[^a-zA-Z0-9]+/-/g' -e 's/^-+\|-+$//g' | tr '[:upper:]' '[:lower:]')
+sanitized_title=$(echo "$title" | sed -e 's/[äÄ]/ae/g; s/[öÖ]/oe/g; s/[üÜ]/ue/g; s/ß/ss/g' | sed -e "s/'//g"| iconv -f utf8 -t ascii//TRANSLIT | sed -e 's/[^a-zA-Z0-9 ]+/-/g' -e 's/^-+\|-+$//g' | tr '[:upper:]' '[:lower:]' | sed -e 's/[[:punct:]]//g'| sed -e 's/ /-/g')
 
 # Create the filename with .md extension
 filename="${sanitized_title}.md"
 
-# Save the response to the Markdown file
-echo "$response" > "$filename"
+# Save the assistant's content to the Markdown file
+echo "$assistant_content" > "de/posts/$filename"
 
-echo "Response saved to $filename"
+echo "Content saved to de/posts/$filename"
