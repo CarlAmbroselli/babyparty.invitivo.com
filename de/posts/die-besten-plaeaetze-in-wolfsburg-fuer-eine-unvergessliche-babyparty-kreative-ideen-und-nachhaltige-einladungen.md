@@ -8,7 +8,6 @@ tags:
   - Wolfsburg
   - Nachhaltigkeit
   - Digitale Einladungen
-  - kreative Ideen
 layout: layouts/post.njk
 ---
 
