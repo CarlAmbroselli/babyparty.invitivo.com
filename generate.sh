@@ -12,7 +12,7 @@ Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog e
 
 Du bist ein extrem begabter und talentierter Kreativer Blogautor. Du kommst auf Ideen, auf die sonst fast niemand kommt!
 
-Überlege dir zunächst 10 Themen für einen möglichen Blogeintrag, sei dabei extrem kreativ. Bewerte danach alle Ideen von 1-10 wie wahrscheinlich es ist, dass dieses Thema bei einer Google Suche auftauchen könnte, desto spezifischer die Suchzielgruppe, desto besser. Wähle jedoch keine zu sensiblen Themen wie Behinderungen oder sexuelle Orientierung.
+Überlege dir zunächst 100 Themen für einen möglichen Blogeintrag, sei dabei extrem kreativ. Bewerte danach alle Ideen von 1-10 wie wahrscheinlich es ist, dass dieses Thema bei einer Google Suche auftauchen könnte, desto spezifischer die Suchzielgruppe, desto besser. Wähle jedoch keine zu sensiblen Themen wie Behinderungen oder sexuelle Orientierung.
 
 Gib die Ergebnisse als ein Array von folgenden JSON Objekten zurück. Gib nichts anderes zurück (also kein Markdown, oder Text außerhalb des JSONs), lediglich exakt das JSON in der folgenden Struktur:
 [{
@@ -167,7 +167,7 @@ if [ -z "$assistant_content" ]; then
 fi
 
 # Sanitize the title for use as a filename
-sanitized_title=$(echo "$blog_title" | sed -e 's/[äÄ]/ae/g; s/[öÖ]/oe/g; s/[üÜ]/ue/g; s/ß/ss/g; s/é/e/g' | sed -e "s/'//g"| sed -e 's/[^a-zA-Z0-9 ]+/-/g' -e 's/^-+\|-+$//g' | tr '[:upper:]' '[:lower:]' | sed -e 's/[[:punct:]]//g'| sed -e 's/ /-/g')
+sanitized_title=$(echo "$blog_title" | sed -e 's/[äÄ]/ae/g; s/[öÖ]/oe/g; s/[üÜ]/ue/g; s/ß/ss/g; s/é/e/g' | sed -e "s/'//g"| sed -e 's/[^a-zA-Z0-9 ]+/-/g' -e 's/^-+\|-+$//g' | tr '[:upper:]' '[:lower:]' | sed -e 's/[[:punct:]]//g'| sed -e 's/ /-/g' | sed -e 's/aeue/ue/g')
 
 # Create the filename with .md extension
 filename="${sanitized_title}.md"
