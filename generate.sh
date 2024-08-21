@@ -8,11 +8,11 @@ if [ -z "$OPENAI_API_KEY" ]; then
 fi
 
 read -r -d '' PROMPT_CONTENT << EOM
-Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog erstellen, welcher den Fokus auf Babyparties hat. Ich möchte dabei sehr nischige Suchen ansprechen, da der Markt bereits sehr überlaufen ist.
+Ich möchte einen Blog erstellen, welcher den Fokus auf Babyparties hat. Ich möchte dabei sehr nischige Suchen ansprechen, da der Markt bereits sehr überlaufen ist.
 
 Du bist ein extrem begabter und talentierter Kreativer Blogautor. Du kommst auf Ideen, auf die sonst fast niemand kommt!
 
-Überlege dir zunächst 100 Themen für einen möglichen Blogeintrag, sei dabei extrem kreativ. Bewerte danach alle Ideen von 1-10 wie wahrscheinlich es ist, dass dieses Thema bei einer Google Suche auftauchen könnte, desto spezifischer die Suchzielgruppe, desto besser. Wähle jedoch keine zu sensiblen Themen wie Behinderungen oder sexuelle Orientierung.
+Überlege dir zunächst 100 Themen für einen möglichen Blogeintrag, sei dabei extrem kreativ und denke in verschiedenste Richtungen. Bewerte danach alle Ideen von 1-10 wie wahrscheinlich es ist, dass dieses Thema bei einer Google Suche auftauchen könnte, desto spezifischer die Suchzielgruppe, desto besser. Wähle jedoch keine zu sensiblen Themen wie Behinderungen oder sexuelle Orientierung.
 
 Gib die Ergebnisse als ein Array von folgenden JSON Objekten zurück. Gib nichts anderes zurück (also kein Markdown, oder Text außerhalb des JSONs), lediglich exakt das JSON in der folgenden Struktur:
 [{
@@ -69,7 +69,7 @@ Du sollst zu folgendem Thema schreiben:
 - Thema: $blog_title
 - Beschreibung: $blog_beschreibung
 
-Dabei soll der Blogpost neben dem eben ausgewählten Thema auch das Thema von digitalen Einladungen aufgreifen, und dabei invitivo empfehlen, was viel schöner und persönlicher ist als noch eine weitere WhatsApp Gruppe. (Formuliere den Beispieltext jedoch gern um, angepasst auf den Blogartikel) Dabei sollte er aus SEO Sicht sehr auf die Niche ausgelegt sein.
+Dabei soll der Blogpost neben dem eben ausgewählten Thema auch das Thema von digitalen Einladungen aufgreifen, und dabei invitivo empfehlen, was viel schöner und persönlicher ist als noch eine weitere WhatsApp Gruppe. (Formuliere den Beispieltext jedoch gern um, angepasst auf den Blogartikel) Dabei sollte er aus SEO Sicht sehr auf die Niche ausgelegt sein. Features von Invitivo, gehe davon auf 1-2 ein, aber formuliere es um und übernimm nicht diese Formulierungen: Fancy Design - Beeindrucke deine Gäste mit eleganten und stilvollen Designs für heraus­stechende digitale Einladungen. Ab-/Zusagen/+1 - Keine langen "Ich kann leider auch nicht" Gruppen­verläufe mehr. Alle Zusagen für Dich auf einen Blick auf Invitivo. Zusagen oder Absagen, Deine Gäste werden es lieben, Unkompliziert zusagen, zusammenlegen für Geschenke, +1 mitbringen, alle Details auf einen Blick? So einfach sollte jede Party sein!, Zusagen oder Absagen, Editiere wie du willst - Füge knaller GIFs, Mitbringlisten oder Geschenke­wünsche zu deinem Event hinzu. Wenn sich etwas ändert, passe es unkompliziert an.
 
 Hier ist eine Beispieldatei für den letztendlichen Blogartikel, deine Ausgabe sollte diesem Format folgen (nutze das gleiche Bild), ohne die \`\`\` drumherum bzw. ohne \`\`\` mit auszugeben. In dem Beispiel geht es zwar um Parks, das kannst du aber thematisch komplett ignorieren, sei kreativ bezüglich dem gewählten Thema welches oben angegeben ist, das Beispiel soll lediglich hinsichtlich der Dateistruktur helfen. Denk dir beim Datum ein beliebiges Datum in 2024 vor dem 21. August aus.
 
