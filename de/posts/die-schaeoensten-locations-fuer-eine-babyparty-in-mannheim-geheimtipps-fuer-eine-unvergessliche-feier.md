@@ -1,4 +1,3 @@
-```
 ---
 title: "Die schönsten Locations für eine Babyparty in Mannheim: Geheimtipps für eine unvergessliche Feier"
 description: Entdecke die besten, weniger bekannten Orte in Mannheim für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen kreativ gestal
 Mannheim bietet viele wunderbare und weniger bekannte Locations, die sich ideal für eine Babyparty eignen. Mit der richtigen Auswahl an Orten, kreativen Deko-Ideen und Aktivitäten wird deine Feier zu einem unvergesslichen Erlebnis. Vergiss nicht, deine Einladungen nachhaltig zu gestalten und wähle dazu eine [digitale Einladung](https://invitivo.com). So wird deine Babyparty nicht nur schön, sondern auch umweltfreundlich.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem einzigartigen Erlebnis in der charmanten Stadt Mannheim.
-```

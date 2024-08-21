@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Fürth für eine unvergessliche Babyparty: Geheimtipps und nachhaltige Einladungen"
 description: Entdecke die charmantesten Orte in Fürth für eine Babyparty, die nicht nur unvergesslich ist, sondern auch nachhaltig gestaltet werden kann – inklusive Tipps für digitale Einladungen.
@@ -61,4 +60,3 @@ Lass deiner Kreativität freien Lauf und gestalte deine Einladungen mit individu
 Fürth bietet viele charmante Orte, die sich perfekt für eine Babyparty eignen. Mit kreativen Dekorationsideen und nachhaltigen Einladungen wird deine Feier zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen umweltfreundlich zu gestalten und eine [digitale Einladung](https://invitivo.com) zu verschicken, um den besonderen Anlass gebührend zu feiern.
 
 Planst du deine nächste Babyparty in Fürth? Lass dich von unseren Tipps inspirieren und schaffe unvergessliche Erinnerungen in dieser schönen Stadt!
-```

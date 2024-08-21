@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babyparty-Ideen in Jena: Ein unvergessliches Fest im Grünen"
 description: Entdecke kreative und nachhaltige Ideen für eine Babyparty in Jena, inklusive Tipps für digitale Einladungen und umweltfreundliche Dekoration.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du kreative Designs auswählen, die
 Jena bietet eine Vielzahl von wunderschönen Orten, die sich perfekt für eine nachhaltige Babyparty eignen. Mit kreativen Deko-Ideen, Aktivitäten im Freien und umweltfreundlichen Einladungen wird deine Feier zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen über [Invitivo](https://invitivo.com) zu gestalten, um sicherzustellen, dass deine Babyparty nicht nur schön, sondern auch nachhaltig ist.
 
 Planst du eine Babyparty in Jena? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Ereignis inmitten der Natur!
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Locations in Hannover für eine unvergessliche Babyparty: Nischige Tipps und nachhaltige Ideen"
 description: Entdecke die charmantesten, weniger bekannten Orte in Hannover für eine unvergessliche Babyparty, inklusive Tipps für nachhaltige Dekoration und personalisierte digitale Einladungen.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell an
 Hannover bietet viele charmante und weniger bekannte Locations für eine unvergessliche Babyparty. Mit der richtigen Wahl des Ortes, kreativen Deko-Ideen und Aktivitäten im Freien wird deine Feier zu einem einmaligen Erlebnis. Denk auch daran, deine Einladungen nachhaltig zu gestalten und eine [digitale Einladung](https://invitivo.com) zu verschicken. So trägst du dazu bei, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich wird.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und gestalte deine Feier zu einem unvergesslichen Ereignis in der schönen Stadt Hannover.
-```

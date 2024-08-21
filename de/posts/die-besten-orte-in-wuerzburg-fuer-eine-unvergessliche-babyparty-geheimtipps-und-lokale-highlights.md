@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Würzburg für eine unvergessliche Babyparty: Geheimtipps und lokale Highlights"
 description: Entdecke die charmantesten und weniger bekannten Locations in Würzburg für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du kreative Designs wählen und dei
 Würzburg bietet viele charmante und weniger bekannte Orte, die sich für eine unvergessliche Babyparty eignen. Mit der richtigen Location, kreativen Dekorationsideen und Aktivitäten wird deine Feier zu einem besonderen Erlebnis. Denk daran, deine Einladungen nachhaltig zu gestalten und entscheide dich für eine [digitale Einladung](https://invitivo.com). So sorgst du dafür, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty in Würzburg? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis in dieser wunderschönen Stadt.
-```

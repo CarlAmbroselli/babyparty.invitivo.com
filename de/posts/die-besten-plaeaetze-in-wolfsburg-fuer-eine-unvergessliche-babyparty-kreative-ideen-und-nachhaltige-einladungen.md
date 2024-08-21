@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Plätze in Wolfsburg für eine unvergessliche Babyparty: Kreative Ideen und nachhaltige Einladungen"
 description: Entdecke einzigartige Locations in Wolfsburg für deine Babyparty, inklusive Tipps zur nachhaltigen Feier und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Die digitalen Einladungen von [Invitivo](https://invitivo.com/) ermöglichen es 
 Wolfsburg bietet zahlreiche kreative Möglichkeiten für eine unvergessliche Babyparty. Von der Autostadt über den Stadtpark bis hin zum Kunstmuseum – jede Location hat ihren eigenen Charme und bietet die ideale Kulisse für deine Feier. Denke daran, deine Einladungen nachhaltig zu gestalten und eine [digitale Einladung](https://invitivo.com) zu versenden. So wird deine Babyparty nicht nur zu einem besonderen Erlebnis, sondern auch umweltfreundlich und stilvoll.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis in Wolfsburg!
-```

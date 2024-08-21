@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Lübeck für eine unvergessliche Babyparty: Geheimtipps und lokale Favoriten"
 description: Entdecke die charmantesten und weniger bekannten Orte in Lübeck für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen ganz nach dein
 Lübeck bietet viele charmante und weniger bekannte Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und unterhaltsamen Aktivitäten wird deine Babyparty zu einem unvergesslichen Erlebnis. Denk daran, auch bei den Einladungen nachhaltig zu denken und wähle eine [digitale Einladung](https://invitivo.com) von Invitivo. So wird deine Babyparty nicht nur schön, sondern auch umweltbewusst.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Ereignis in der charmanten Stadt Lübeck.
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babypartys in Rostock: Tipps für eine unvergessliche Feier"
 description: Entdecke kreative Ideen für eine Babyparty in Rostock, inklusive nachhaltiger Dekoration und digitaler Einladungen von invitivo.com.
@@ -52,4 +51,3 @@ Die Einladungen auf invitivo.com bieten dir die Möglichkeit, kreativ zu sein �
 Rostock bietet viele einzigartige Möglichkeiten, um eine Babyparty zu gestalten, die sowohl unterhaltsam als auch nachhaltig ist. Mit kreativen Ideen für Dekoration und Aktivitäten sowie der Verwendung von digitalen Einladungen über [Invitivo](https://invitivo.com) wird deine Feier zu einem unvergesslichen Erlebnis. 
 
 Planst du eine Babyparty in Rostock? Lass dich von unseren Tipps inspirieren und verwandle deine Feier in ein wunderbares Fest, das die werdenden Eltern und ihre Gäste noch lange in Erinnerung behalten werden.
-```

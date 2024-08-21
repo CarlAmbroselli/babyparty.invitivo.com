@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Hildesheim für eine unvergessliche Babyparty: Kreative Ideen und lokale Schätze"
 description: Entdecke die schönsten und weniger bekannten Orte in Hildesheim für eine einzigartige Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Hildesheim bietet viele wunderbare, kreative Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten wird deine Babyparty zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen nachhaltig zu gestalten und verschicke dazu eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty in Hildesheim? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – inmitten der charmanten Kulissen dieser Stadt.
-```

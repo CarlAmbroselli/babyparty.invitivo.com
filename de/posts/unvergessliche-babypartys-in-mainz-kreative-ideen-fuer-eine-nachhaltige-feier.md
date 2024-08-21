@@ -1,4 +1,3 @@
-```
 ---
 title: "Unvergessliche Babypartys in Mainz: Kreative Ideen für eine nachhaltige Feier"
 description: Entdecke die besten Tipps für eine Babyparty in Mainz, inklusive einzigartiger Locations, nachhaltiger Dekoration und persönlichen digitalen Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du individuelle Designs erstellen, 
 Mainz bietet viele kreative und nachhaltige Möglichkeiten, um eine unvergessliche Babyparty zu feiern. Von malerischen Locations bis hin zu umweltfreundlichen Dekorationen und digitalen Einladungen kannst du sicherstellen, dass dein Fest sowohl schön als auch verantwortungsbewusst ist. Lass dich von unseren Tipps inspirieren und mache deine Babyparty zu einem unvergesslichen Erlebnis in dieser charmanten Stadt am Rhein.
 
 Planst du deine nächste Babyparty in Mainz? Nutze unsere Ideen und achte darauf, dass deine Einladung nachhaltig und persönlich ist – mit [Invitivo](https://invitivo.com).
-```

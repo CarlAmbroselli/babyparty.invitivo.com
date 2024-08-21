@@ -1,4 +1,3 @@
-```
 ---
 title: "Die schönsten Orte in Göttingen für eine unvergessliche Babyparty: Geheimtipps und lokale Highlights"
 description: Entdecke die besten, weniger bekannten Orte in Göttingen für eine einzigartige Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -51,4 +50,3 @@ Diese Einladungen bieten eine ansprechende Gestaltung und eine persönliche Note
 Göttingen hat viele bezaubernde, weniger bekannte Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Dekorationstipps und spannenden Aktivitäten wird deine Feier zu einem unvergesslichen Erlebnis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und nutze dazu die Möglichkeiten von [Invitivo](https://invitivo.com). So wird deine Babyparty nicht nur schön, sondern auch umweltfreundlich.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Ereignis in Göttingen.
-```

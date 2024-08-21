@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babyparty in Freiburg: Geheimtipps für ein unvergessliches Fest"
 description: Entdecke die besten Orte in Freiburg für eine nachhaltige Babyparty, inklusive kreativer Deko-Ideen und personalisierten digitalen Einladungen von invitivo.com.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) hast du die Möglichkeit, deine Einladunge
 Freiburg bietet viele versteckte Juwelen, die sich ideal für eine nachhaltige Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und unterhaltsamen Aktivitäten wird dein Fest zu einem unvergesslichen Erlebnis. Vergiss nicht, deine Einladungen nachhaltig zu gestalten und wähle eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich ist.
 
 Bist du bereit, deine nächste Babyparty in Freiburg zu planen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis in dieser charmanten Stadt.
-```

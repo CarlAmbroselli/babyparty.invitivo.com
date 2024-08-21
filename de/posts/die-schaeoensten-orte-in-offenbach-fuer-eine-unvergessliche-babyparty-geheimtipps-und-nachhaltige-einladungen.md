@@ -1,4 +1,3 @@
-```
 ---
 title: "Die schönsten Orte in Offenbach für eine unvergessliche Babyparty: Geheimtipps und nachhaltige Einladungen"
 description: Entdecke die besten, weniger bekannten Locations in Offenbach für eine außergewöhnliche Babyparty, inklusive Ideen für nachhaltige Dekoration und digitalen Einladungen.
@@ -59,4 +58,3 @@ Die digitalen Einladungen von Invitivo bieten nicht nur eine ansprechende Gestal
 Offenbach hat viele wunderbare, weniger bekannte Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten wird deine Feier zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen nachhaltig zu gestalten und nutze dafür eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty in Offenbach? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Ereignis – inmitten der charmanten Kulissen dieser Stadt.
-```

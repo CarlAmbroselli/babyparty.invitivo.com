@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Locations für eine Babyparty in Moers: Geheimtipps für ein unvergessliches Fest"
 description: Entdecke die besten, weniger bekannten Locations in Moers für eine einzigartige Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) hast du die Möglichkeit, deine Einladunge
 Moers bietet viele wunderschöne, weniger bekannte Locations, die sich ideal für eine Babyparty eignen. Mit der richtigen Auswahl an Orten, kreativen Dekorationsideen und Aktivitäten im Freien wird deine Babyparty zu einem unvergesslichen Ereignis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und nutze dafür eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Feier nicht nur schön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty in Moers? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – in einer der charmanten Locations, die diese Stadt zu bieten hat.
-```

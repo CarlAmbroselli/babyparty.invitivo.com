@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Spielplätze in Berlin für eine unvergessliche Babyparty: Kreative Ideen und lokale Geheimtipps"
 description: Entdecke die besten, weniger bekannten Spielplätze in Berlin für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Im Vergleich zu einer einfachen Nachricht auf dem Smartphone bieten diese Einlad
 Berlin bietet eine Vielzahl von versteckten Spielplätzen, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten wird deine Feier zu einem unvergesslichen Erlebnis. Denke auch daran, deine Einladungen nachhaltig zu gestalten, indem du eine [digitale Einladung](https://invitivo.com) verschickst. So wird deine Babyparty nicht nur wunderschön, sondern auch umweltfreundlich.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – in einem der versteckten Juwelen Berlins.
-```

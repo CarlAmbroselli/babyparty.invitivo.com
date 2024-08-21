@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babyparty in Reutlingen: Die besten Locations und digitale Einladungen"
 description: Entdecke die charmantesten Orte in Reutlingen für eine unvergessliche Babyparty, inklusive Tipps für nachhaltige Dekoration und personalisierte digitale Einladungen von invitivo.com.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Reutlingen bietet viele charmante und nachhaltige Möglichkeiten für eine Babyparty, die nicht nur Spaß macht, sondern auch umweltfreundlich ist. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten im Freien wird deine Babyparty zu einem unvergesslichen Ereignis. Denk daran, deine Einladungen nachhaltig zu gestalten und eine [digitale Einladung](https://invitivo.com) zu verschicken. So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltbewusst ist.
 
 Planst du deine nächste Babyparty in Reutlingen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Erlebnis – inmitten der charmanten Ecken dieser Stadt.
-```

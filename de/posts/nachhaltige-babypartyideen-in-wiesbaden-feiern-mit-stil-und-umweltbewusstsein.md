@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babyparty-Ideen in Wiesbaden: Feiern mit Stil und Umweltbewusstsein"
 description: Entdecke kreative und umweltfreundliche Ideen für deine Babyparty in Wiesbaden, inklusive nachhaltiger Dekoration und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell an
 Wiesbaden bietet viele wunderschöne Locations für eine nachhaltige Babyparty. Mit den richtigen Ideen und einer umweltbewussten Herangehensweise wird deine Feier zu einem unvergesslichen Erlebnis. Vergiss nicht, auch bei den Einladungen auf Nachhaltigkeit zu achten und wähle eine [digitale Einladung](https://invitivo.com), um deinem Fest eine persönliche Note zu geben.
 
 Bist du bereit, deine nächste Babyparty zu planen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Ereignis im Herzen Wiesbadens.
-```

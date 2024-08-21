@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Krefeld für eine nachhaltige Babyparty: Geheimtipps für unvergessliche Feiern"
 description: Entdecke die charmantesten, weniger bekannten Orte in Krefeld für eine umweltfreundliche Babyparty, inklusive kreativer Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Krefeld bietet viele charmante und weniger bekannte Orte, die sich ideal für eine nachhaltige Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und unterhaltsamen Aktivitäten wird deine Babyparty zu einem unvergesslichen Erlebnis. Denk daran, deine Einladungen umweltfreundlich zu gestalten und eine [digitale Einladung](https://invitivo.com) zu verschicken. So wird deine Feier nicht nur schön, sondern auch nachhaltig.
 
 Planst du deine nächste Babyparty in Krefeld? Lass dich von unseren Tipps inspirieren und mache dein Fest zu einem besonderen Ereignis – mitten in der Natur, an einem der versteckten Orte Krefelds.
-```

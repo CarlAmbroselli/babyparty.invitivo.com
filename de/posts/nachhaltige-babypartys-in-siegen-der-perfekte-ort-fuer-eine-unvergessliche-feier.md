@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babypartys in Siegen: Der perfekte Ort für eine unvergessliche Feier"
 description: Entdecke die besten Ideen für eine Babyparty in Siegen, von nachhaltigen Dekorationstipps bis hin zu digitalen Einladungen für ein persönliches Erlebnis.
@@ -50,4 +49,3 @@ Die Einladungen von [Invitivo](https://invitivo.com/) sind nicht nur optisch ans
 ### **Fazit**
 
 Siegen bietet zahlreiche Möglichkeiten, eine nachhaltige und unvergessliche Babyparty zu feiern. Mit der richtigen Location, kreativen Ideen für Dekoration und Aktivitäten sowie der Verwendung von digitalen Einladungen von [Invitivo](https://invitivo.com) kannst du sicherstellen, dass deine Feier sowohl schön als auch umweltfreundlich ist. Lass dich von unseren Tipps inspirieren und mache deine Babyparty zu einem einzigartigen Erlebnis im Herzen von Siegen.
-```

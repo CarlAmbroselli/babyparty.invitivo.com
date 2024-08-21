@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Plätze für eine Babyparty in Augsburg: Geheimtipps für eine unvergessliche Feier"
 description: Entdecke die versteckten Juwelen in Augsburg für eine besondere Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -59,4 +58,3 @@ Mit Invitivo kannst du deine Einladungen individuell gestalten – inklusive hü
 Augsburg hat viele versteckte Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Dekorationsideen und unterhaltsamen Aktivitäten wird deine Feier zu einem unvergesslichen Erlebnis. Denk auch daran, deine Einladungen nachhaltig zu gestalten und nutze dafür [Invitivo](https://invitivo.com). So wird deine Babyparty nicht nur schön, sondern auch umweltfreundlich.
 
 Bist du bereit, deine nächste Babyparty in Augsburg zu planen? Lass dich von unseren Tipps inspirieren und mache dein Fest zu einem unvergesslichen Erlebnis – mitten in der Natur, an einem der wunderschönen Plätze der Stadt.
-```

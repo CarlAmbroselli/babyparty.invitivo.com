@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Kaiserslautern für eine unvergessliche Babyparty: Nischige Ideen und lokale Schätze"
 description: Entdecke die charmantesten, weniger bekannten Plätze in Kaiserslautern für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Kaiserslautern bietet viele charmante, weniger bekannte Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und spannenden Aktivitäten wird deine Babyparty zu einem unvergesslichen Erlebnis. Denke auch daran, deine Einladungen nachhaltig zu gestalten – mit einer [digitalen Einladung](https://invitivo.com) von Invitivo. So kannst du sicherstellen, dass deine Feier nicht nur schön, sondern auch umweltbewusst ist.
 
 Planst du deine nächste Babyparty in Kaiserslautern? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Ereignis, das in Erinnerung bleibt.
-```

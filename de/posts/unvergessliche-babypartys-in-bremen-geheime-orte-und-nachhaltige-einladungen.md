@@ -1,4 +1,3 @@
-```
 ---
 title: "Unvergessliche Babypartys in Bremen: Geheime Orte und nachhaltige Einladungen"
 description: Entdecke die besten versteckten Locations in Bremen für eine unvergessliche Babyparty, inklusive Tipps für nachhaltige Dekoration und digitale Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Bremen hat viele versteckte Orte, die sich ideal für eine Babyparty eignen. Egal, ob du die Wallanlagen, die Schlachte oder den Bürgerpark wählst, mit den richtigen Dekorationen und Aktivitäten wird deine Feier unvergesslich. Denke auch daran, deine Einladungen nachhaltig zu gestalten und wähle eine [digitale Einladung](https://invitivo.com) für deine Gäste. So wird deine Babyparty nicht nur schön, sondern auch umweltfreundlich.
 
 Planst du deine nächste Babyparty in Bremen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Erlebnis – umgeben von der grünen und historischen Schönheit Bremens.
-```

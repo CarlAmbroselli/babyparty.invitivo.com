@@ -1,4 +1,3 @@
-```
 ---
 title: "Eine unvergessliche Babyparty in Hagen: Geheimtipps und nachhaltige Einladungen"
 description: Entdecke kreative Ideen für eine Babyparty in Hagen, inklusive lokaler Geheimtipps und Tipps für nachhaltige digitale Einladungen, die deiner Feier eine persönliche Note verleihen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com) kannst du deine Einladungen ganz nach deine
 Hagen hat viele schöne Orte zu bieten, die sich ideal für eine Babyparty eignen. Mit kreativen Ideen, einer persönlichen Dekoration und nachhaltigen Einladungen wird deine Feier zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen über [Invitivo](https://invitivo.com) zu gestalten, um den nachhaltigen Aspekt deiner Feier zu unterstreichen.
 
 Bist du bereit, deine nächste Babyparty in Hagen zu planen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Ereignis in dieser wunderbaren Stadt!
-```

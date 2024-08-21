@@ -1,4 +1,3 @@
-```
 ---
 title: "Unvergessliche Babypartys in Hamburg: Entdecke die besten Orte und nachhaltige Einladungen"
 description: Finde heraus, wie du eine einzigartige Babyparty in Hamburg gestalten kannst, von geheimen Locations bis hin zu nachhaltigen, digitalen Einladungen.
@@ -60,4 +59,3 @@ Die Einladungen lassen sich ganz einfach anpassen – von der Auswahl des Design
 Hamburg bietet viele einzigartige Orte, die sich perfekt für eine Babyparty eignen. Ob am Wasser, in ruhiger Natur oder in einem blühenden Park – die Stadt hat für jeden Geschmack etwas zu bieten. Kombiniert mit nachhaltigen, digitalen Einladungen von [Invitivo](https://invitivo.com) sorgt deine Babyparty nicht nur für unvergessliche Erinnerungen, sondern schont auch die Umwelt.
 
 Planst du deine nächste Babyparty in Hamburg? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Erlebnis – umgeben von der atemberaubenden Natur dieser faszinierenden Stadt.
-```

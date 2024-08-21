@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Neuss für eine nachhaltige Babyparty: Geheimtipps und lokale Favoriten"
 description: Entdecke die charmantesten, weniger bekannten Locations in Neuss für eine unvergessliche Babyparty, inklusive kreativen Dekorationstipps und nachhaltigen digitalen Einladungen.
@@ -54,4 +53,3 @@ Deine Gäste erhalten eine Einladung, die sie mit nur einem Klick annehmen könn
 Neuss bietet eine Vielzahl von charmanten Orten, die sich ideal für eine Babyparty eignen. Mit den richtigen Ideen zur Dekoration und Aktivitäten im Freien wird deine Feier zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen nachhaltig zu gestalten und wähle dafür eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich wird.
 
 Bist du bereit, deine nächste Babyparty zu planen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis in Neuss – einer Stadt voller Möglichkeiten!
-```

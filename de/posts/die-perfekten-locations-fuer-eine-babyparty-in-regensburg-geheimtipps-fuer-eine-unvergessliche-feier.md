@@ -1,4 +1,3 @@
-```
 ---
 title: "Die perfekten Locations für eine Babyparty in Regensburg: Geheimtipps für eine unvergessliche Feier"
 description: Entdecke die besten, weniger bekannten Orte in Regensburg für eine kreative Babyparty, inklusive nachhaltiger Deko-Ideen und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Im Vergleich zu einer einfachen Nachricht auf deinem Smartphone bieten digitale 
 Regensburg hat viele versteckte Juwelen, die sich perfekt für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten wird deine Feier zu einem unvergesslichen Erlebnis. Vergiss nicht, deine Einladungen nachhaltig zu gestalten und nutze dafür eine [digitale Einladung](https://invitivo.com). So wird deine Babyparty nicht nur schön, sondern auch umweltfreundlich.
 
 Planst du eine Babyparty in Regensburg? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Ereignis – umgeben von der charmanten Kulisse dieser wunderschönen Stadt.
-```

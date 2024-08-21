@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Dortmund für eine unvergessliche Babyparty: Nischige Geheimtipps für werdende Eltern"
 description: Entdecke die versteckten Juwelen in Dortmund für eine einzigartige Babyparty, inklusive nachhaltiger Dekorationstipps und digitalen Einladungen für deinen besonderen Anlass.
@@ -52,4 +51,3 @@ Die Einladungen von Invitivo bieten eine ansprechende Gestaltung und sind eine w
 Dortmund hat viele versteckte Juwelen, die sich perfekt für eine unvergessliche Babyparty eignen. Mit der richtigen Location, kreativen Dekorationsideen und Aktivitäten im Freien wird deine Feier zu einem besonderen Erlebnis. Denke daran, deine Einladungen nachhaltig zu gestalten und nutze dazu [Invitivo](https://invitivo.com) für deine digitalen Einladungen. So sorgst du dafür, dass deine Babyparty nicht nur schön, sondern auch umweltbewusst ist.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis in den schönen Ecken Dortmunds.
-```

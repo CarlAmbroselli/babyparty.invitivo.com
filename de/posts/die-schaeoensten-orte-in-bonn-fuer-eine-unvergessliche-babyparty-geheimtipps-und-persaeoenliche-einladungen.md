@@ -1,4 +1,3 @@
-```
 ---
 title: "Die schönsten Orte in Bonn für eine unvergessliche Babyparty: Geheimtipps und persönliche Einladungen"
 description: Entdecke die bezauberndsten, weniger bekannten Locations in Bonn für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Bonn bietet viele wunderschöne, weniger bekannte Orte, die sich perfekt für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten im Freien wird deine Babyparty zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen nachhaltig zu gestalten und verschicke dazu eine [digitale Einladung](https://invitivo.com). So wird deine Babyparty nicht nur wunderschön, sondern auch umweltfreundlich.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – in der charmanten Stadt Bonn.
-```

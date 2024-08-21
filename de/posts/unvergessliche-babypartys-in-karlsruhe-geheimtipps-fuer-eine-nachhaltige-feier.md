@@ -1,4 +1,3 @@
-```
 ---
 title: "Unvergessliche Babypartys in Karlsruhe: Geheimtipps für eine nachhaltige Feier"
 description: Entdecke die besten Orte in Karlsruhe für eine unvergessliche Babyparty, inklusive nachhaltiger Ideen für Dekoration und digitalen Einladungen von invitivo.com.
@@ -59,4 +58,3 @@ Die Einladungen von [Invitivo](https://invitivo.com/) bieten eine ansprechende G
 Karlsruhe bietet viele charmante Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten im Freien wird deine Feier zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen nachhaltig zu gestalten und nutze dazu eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur wunderschön, sondern auch umweltfreundlich ist.
 
 Hast du bereits Pläne für deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Ereignis in Karlsruhe!
-```

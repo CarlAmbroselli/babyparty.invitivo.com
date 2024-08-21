@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty in Oldenburg: Ein unvergessliches Fest im historischen Ambiente"
 description: Entdecke, wie du eine unvergessliche Babyparty in Oldenburg planst, mit einem Fokus auf nachhaltige digitale Einladungen und einzigartigen Locations.
@@ -52,4 +51,3 @@ Statt Papierabfall zu produzieren, verschickst du eine digitale Einladung, die d
 Oldenburg bietet zahlreiche wunderschöne Möglichkeiten, um eine Babyparty zu feiern. Ob im Schlossgarten, Bürgerpark oder im Stadtwald – die Stadt hat für jeden Geschmack etwas zu bieten. Denke daran, deine Einladungen nachhaltig zu gestalten und wähle eine [digitale Einladung](https://invitivo.com), um die Vorfreude auf das Event zu teilen. So wird deine Babyparty nicht nur unvergesslich, sondern auch umweltfreundlich!
 
 Planst du deine nächste Babyparty in Oldenburg? Lass dich von unseren Tipps inspirieren und mach dein Fest zu einem besonderen Erlebnis in dieser zauberhaften Stadt.
-```

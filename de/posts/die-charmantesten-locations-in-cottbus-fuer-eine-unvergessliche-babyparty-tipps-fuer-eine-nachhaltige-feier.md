@@ -1,4 +1,3 @@
-```
 ---
 title: "Die charmantesten Locations in Cottbus für eine unvergessliche Babyparty: Tipps für eine nachhaltige Feier"
 description: Entdecke die besten, weniger bekannten Orte in Cottbus für eine Babyparty, die nachhaltig und persönlich gestaltet ist – inklusive schöner digitaler Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) hast du die Möglichkeit, deine Einladunge
 Cottbus bietet zahlreiche charmante Locations für eine unvergessliche Babyparty. Mit der richtigen Wahl des Ortes, kreativen Deko-Ideen und unterhaltsamen Aktivitäten wird die Feier zu einem unvergesslichen Ereignis. Denke daran, deine Einladungen nachhaltig zu gestalten, indem du eine [digitale Einladung](https://invitivo.com) versendest. So wird deine Babyparty nicht nur schön, sondern auch umweltbewusst.
 
 Planst du deine nächste Babyparty in Cottbus? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Erlebnis – inmitten der wunderschönen Natur und dem einzigartigen Flair dieser Stadt.
-```

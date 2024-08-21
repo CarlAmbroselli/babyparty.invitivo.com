@@ -1,4 +1,3 @@
-```
 ---
 title: "Die schönsten Orte in Koblenz für eine unvergessliche Babyparty: Geheimtipps und lokale Highlights"
 description: Entdecke die besten, weniger bekannten Locations in Koblenz für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Koblenz bietet viele charmante Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten im Freien wird deine Babyparty zu einem unvergesslichen Erlebnis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und verschicke dazu eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur wunderschön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – mitten in der Natur, in den versteckten Juwelen Koblenz’.
-```

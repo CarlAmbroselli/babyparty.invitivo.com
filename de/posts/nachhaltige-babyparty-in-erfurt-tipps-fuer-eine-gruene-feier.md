@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babyparty in Erfurt: Tipps für eine grüne Feier"
 description: Entdecke, wie du in Erfurt eine unvergessliche, nachhaltige Babyparty planst, mit kreativen Ideen und persönlichen, digitalen Einladungen von invitivo.com.
@@ -52,4 +51,3 @@ Mit invitivo.com kannst du deine Einladungen individuell anpassen, mit schönen 
 Erfurt bietet viele zauberhafte Orte für eine nachhaltige Babyparty. Mit kreativen Deko-Ideen, Aktivitäten im Freien und der Wahl umweltfreundlicher Einladungen wird deine Feier zu einem unvergesslichen Erlebnis. Denk daran, deine Einladungen nachhaltig zu gestalten und eine [digitale Einladung](https://invitivo.com) zu nutzen, um dein Event umweltfreundlich und stilvoll zu gestalten.
 
 Planst du deine nächste Babyparty in Erfurt? Lass dich von unseren Tipps inspirieren und mache diesen besonderen Tag zu einem unvergesslichen Erlebnis für alle Beteiligten!
-```

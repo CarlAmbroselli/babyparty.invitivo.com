@@ -1,4 +1,3 @@
-```
 ---
 title: "Die charmantesten Orte für eine Babyparty in Recklinghausen: Unentdeckte Schätze und nachhaltige Ideen"
 description: Entdecke die besten, weniger bekannten Locations in Recklinghausen für eine unvergessliche Babyparty, inklusive nachhaltiger Einladungen und kreativer Dekorationstipps.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Recklinghausen bietet viele charmante, weniger bekannte Orte, die sich hervorragend für eine Babyparty eignen. Mit der richtigen Location und kreativen Ideen wird deine Feier zu einem unvergesslichen Erlebnis. Vergiss nicht, deine Einladungen nachhaltig zu gestalten und eine [digitale Einladung](https://invitivo.com) zu verschicken. So wird deine Babyparty nicht nur schön, sondern auch umweltfreundlich.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache dein Fest zu einem unvergesslichen Erlebnis – mitten im Charme von Recklinghausen.
-```

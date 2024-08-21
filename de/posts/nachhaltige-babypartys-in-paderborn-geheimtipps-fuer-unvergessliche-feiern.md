@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babypartys in Paderborn: Geheimtipps für unvergessliche Feiern"
 description: Entdecke kreative Ideen für eine nachhaltige Babyparty in Paderborn, inklusive der besten Orte und der Verwendung von digitalen Einladungen für ein persönliches Erlebnis.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du individuelle und ansprechende di
 Paderborn bietet viele wunderschöne Orte und kreative Ideen für eine nachhaltige Babyparty. Mit der richtigen Dekoration, Aktivitäten und besonders durch die Verwendung von digitalen Einladungen kannst du sicherstellen, dass dein Event nicht nur unvergesslich, sondern auch umweltbewusst ist. Lass dich inspirieren und mache deine Babyparty zu einem Feier, die in Erinnerung bleibt – ganz im Sinne der Nachhaltigkeit!
 
 Planst du deine nächste Babyparty in Paderborn? Nutze unsere Tipps und erfreue dich an einem unvergesslichen Erlebnis in der Natur.
-```

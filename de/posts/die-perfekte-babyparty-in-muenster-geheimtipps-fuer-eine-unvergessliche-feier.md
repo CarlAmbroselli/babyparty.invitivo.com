@@ -1,4 +1,3 @@
-```
 ---
 title: "Die perfekte Babyparty in Münster: Geheimtipps für eine unvergessliche Feier"
 description: Entdecke die besten Orte in Münster für eine Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -54,4 +53,3 @@ Münster hat viele versteckte Juwelen, die sich perfekt für eine Babyparty eign
 Denke daran, deine Einladungen umweltfreundlich zu gestalten und nutze dafür [Invitivo](https://invitivo.com). So wird deine Feier nicht nur schön, sondern auch nachhaltig.
 
 Planst du deine nächste Babyparty in Münster? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – mitten in der Natur, in einer der schönsten Städte Deutschlands.
-```

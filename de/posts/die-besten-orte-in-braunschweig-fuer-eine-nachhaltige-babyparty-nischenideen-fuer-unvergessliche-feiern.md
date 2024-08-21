@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Braunschweig für eine nachhaltige Babyparty: Nischenideen für unvergessliche Feiern"
 description: Entdecke die charmantesten, wenig bekannten Orte in Braunschweig für eine nachhaltige Babyparty und erfahre, wie du digitale Einladungen verwenden kannst, um umweltfreundlich und persönlich zu feiern.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell an
 Braunschweig bietet viele charmante und weniger bekannte Orte, die sich hervorragend für eine nachhaltige Babyparty eignen. Mit der richtigen Location, kreativen Dekorationen und Aktivitäten im Freien wird deine Feier zu einem unvergesslichen Erlebnis. Vergiss nicht, deine Einladungen umweltfreundlich zu gestalten und wähle dafür eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch nachhaltig ist.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – inmitten der wunderschönen Natur Braunschweigs.
-```

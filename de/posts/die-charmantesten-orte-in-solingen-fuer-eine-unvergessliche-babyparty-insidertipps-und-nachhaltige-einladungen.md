@@ -1,4 +1,3 @@
-```
 ---
 title: "Die charmantesten Orte in Solingen für eine unvergessliche Babyparty: Insider-Tipps und nachhaltige Einladungen"
 description: Entdecke die besten, weniger bekannten Locations in Solingen für eine einzigartige Babyparty, inklusive umweltfreundlicher Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Solingen hat viele charmante, weniger bekannte Orte, die ideal für eine Babyparty sind. Mit der richtigen Location, kreativen Deko-Ideen und spannenden Aktivitäten wird deine Feier zu einem unvergesslichen Erlebnis. Vergiss nicht, deine Einladungen nachhaltig zu gestalten und eine [digitale Einladung](https://invitivo.com) zu versenden. So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty in Solingen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – umgeben von der Natur und in den versteckten Juwelen dieser Stadt.
-```

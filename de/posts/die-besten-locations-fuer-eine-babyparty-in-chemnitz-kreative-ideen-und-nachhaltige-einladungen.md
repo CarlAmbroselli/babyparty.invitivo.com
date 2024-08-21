@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Locations für eine Babyparty in Chemnitz: Kreative Ideen und nachhaltige Einladungen"
 description: Entdecke die einzigartigen und weniger bekannten Orte in Chemnitz für eine unvergessliche Babyparty, inklusive Tipps für nachhaltige Dekoration und personalisierte digitale Einladungen.
@@ -52,4 +51,3 @@ Im Gegensatz zu einer simplen Nachricht auf dem Smartphone bieten diese Einladun
 Chemnitz bietet zahlreiche kreative und weniger bekannte Orte, die sich perfekt für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten im Freien wird deine Feier zu einem unvergesslichen Ereignis. Und vergiss nicht, deine Einladungen nachhaltig zu gestalten - eine [digitale Einladung](https://invitivo.com) ist nicht nur schön, sondern auch umweltfreundlich.
 
 Hast du bereits deine nächste Babyparty in Chemnitz geplant? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Erlebnis – ganz im Zeichen der Natur und der Liebe.
-```

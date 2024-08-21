@@ -1,4 +1,3 @@
-```
 ---
 title: "Die schönsten Orte in Mülheim für eine nachhaltige Babyparty: Geheimtipps für dein Fest"
 description: Entdecke die besten, weniger bekannten Locations in Mülheim für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Im Vergleich zu einer simplen Nachricht auf dem Smartphone bieten diese Einladun
 Mülheim bietet viele charmante und weniger bekannte Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location und kreativen Dekorationsideen wird dein Fest zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen nachhaltig zu gestalten und nutze dafür eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty in Mülheim? Lass dich von unseren Tipps inspirieren und gestalte dein Fest in einer der versteckten Oasen dieser Stadt.
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Ulm für eine unvergessliche Babyparty: Geheimtipps und nachhaltige Ideen"
 description: Entdecke die charmantesten, weniger bekannten Locations in Ulm für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Im Vergleich zu einer einfachen Nachricht auf dem Smartphone bietet eine digital
 Ulm hat viele charmante, weniger bekannte Orte, die sich hervorragend für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und unterhaltsamen Aktivitäten wird deine Feier zu einem unvergesslichen Ereignis. Vergiss nicht, auch deine Einladungen nachhaltig zu gestalten und eine [digitale Einladung](https://invitivo.com) zu versenden. So wird deine Babyparty nicht nur schön, sondern auch umweltbewusst.
 
 Planst du deine nächste Babyparty in Ulm? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Erlebnis – umgeben von der schönen Natur und dem einzigartigen Flair dieser Stadt.
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Unvergessliche Babypartys in Düsseldorf: Kreative Ideen für eine nachhaltige Feier"
 description: Entdecke einzigartige Möglichkeiten für eine Babyparty in Düsseldorf, einschließlich nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, individuell gesta
 Düsseldorf bietet viele kreative Möglichkeiten, um eine unvergessliche Babyparty zu feiern. Ob im Stadtgarten, an der Rheinpromenade oder im Alten Botanischen Garten – mit der richtigen Dekoration und nachhaltigen Ideen wird deine Feier zu einem besonderen Ereignis. Vergiss nicht, deine Einladungen nachhaltig zu gestalten und probiere die [digitalen Einladungen](https://invitivo.com/) von Invitivo aus. So wird deine Babyparty ein echtes Highlight – sowohl für dich als auch für deine Gäste.
 
 Planst du eine Babyparty in Düsseldorf? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis in dieser schönen Stadt!
-```

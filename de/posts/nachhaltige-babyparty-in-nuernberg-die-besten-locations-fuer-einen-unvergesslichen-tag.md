@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babyparty in Nürnberg: Die besten Locations für einen unvergesslichen Tag"
 description: Entdecke die besten, weniger bekannten Orte in Nürnberg für eine nachhaltige Babyparty, inklusive Tipps für digitale Einladungen und umweltfreundliche Dekoration.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen ganz nach dein
 Nürnberg bietet viele charmante und weniger bekannte Locations für eine nachhaltige Babyparty. Mit sorgfältiger Planung und kreativen Ideen wird deine Feier zu einem unvergesslichen Erlebnis für alle Beteiligten. Vergiss nicht, deine Einladungen nachhaltig zu gestalten und nutze dafür [Invitivo](https://invitivo.com) für eine persönliche Note.
 
 Planst du eine Babyparty in Nürnberg? Lass dich von unseren Ideen inspirieren und mache deinen besonderen Tag zu einem ökologischen und unvergesslichen Erlebnis.
-```

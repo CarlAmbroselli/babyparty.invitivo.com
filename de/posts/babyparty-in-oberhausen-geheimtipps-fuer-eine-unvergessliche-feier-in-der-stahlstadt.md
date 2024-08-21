@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty in Oberhausen: Geheimtipps für eine unvergessliche Feier in der Stahlstadt"
 description: Entdecke die besten Orte und Ideen für eine nachhaltige Babyparty in Oberhausen, inklusive personalisierten digitalen Einladungen für ein unvergessliches Erlebnis.
@@ -51,4 +50,3 @@ Mit [Invitivo](https://invitivo.com) kannst du deine Einladungen nach deinen Vor
 Oberhausen und die umliegenden Gebiete bieten viele kreative und weniger bekannte Orte für eine unvergessliche Babyparty. Mit der richtigen Location, kreativen Dekorationsideen und Aktivitäten wird deine Feier zu einem besonderen Erlebnis. Denke auch daran, deine Einladungen nachhaltig zu gestalten – mit [Invitivo](https://invitivo.com) wird deine Einladung nicht nur schön, sondern auch umweltfreundlich.
 
 Planst du eine Babyparty in Oberhausen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis in einer der vielen grünen Oasen der Stadt.
-```

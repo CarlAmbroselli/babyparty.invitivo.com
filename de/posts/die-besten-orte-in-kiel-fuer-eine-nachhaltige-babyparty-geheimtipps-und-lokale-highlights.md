@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Kiel für eine nachhaltige Babyparty: Geheimtipps und lokale Highlights"
 description: Entdecke die charmantesten, weniger bekannten Orte in Kiel für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Im Gegensatz zu einer simplen Nachricht auf dem Smartphone bieten diese Einladun
 Kiel hat viele wunderschöne, weniger bekannte Orte, die sich ideal für eine Babyparty eignen. Mit den richtigen Ideen für Location, Dekoration und Aktivitäten wird deine Babyparty zu einem unvergesslichen Erlebnis. Denke daran, auch bei den Einladungen auf Nachhaltigkeit zu setzen und verschicke eine [digitale Einladung](https://invitivo.com). So wird deine Feier nicht nur schön, sondern auch umweltbewusst.
 
 Planst du deine nächste Babyparty in Kiel? Lass dich von unseren Tipps inspirieren und mache deine Feier in dieser charmanten Stadt zu einem unvergesslichen Ereignis!
-```

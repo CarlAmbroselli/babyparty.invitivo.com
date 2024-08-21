@@ -1,4 +1,3 @@
-```
 ---
 title: "Unvergessliche Babypartys in Wuppertal: Geheimtipps für eine nachhaltige Feier"
 description: Entdecke die besten Orte in Wuppertal für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -51,4 +50,3 @@ Die Einladungen bieten eine ansprechende Gestaltung und sind viel bedeutungsvoll
 Wuppertal bietet zahlreiche kreative Möglichkeiten, um eine unvergessliche Babyparty zu feiern. Egal ob im Zoo, im Botanischen Garten oder bei einem einzigartigen Schwebebahn-Picknick – mit der richtigen Planung und nachhaltigen Ideen wird deine Babyparty ein ganz besonderes Ereignis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und nutze [digitale Einladungen](https://invitivo.com), um einen umweltfreundlichen Beitrag zu leisten.
 
 Planst du eine Babyparty in Wuppertal? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – mit einer Kombination aus Natur, Spaß und Nachhaltigkeit!
-```

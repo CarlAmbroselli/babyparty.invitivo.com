@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte für eine nachhaltige Babyparty in Potsdam: Geheimtipps für ein unvergessliches Fest"
 description: Entdecke die charmantesten Locations in Potsdam für eine nachhaltige Babyparty, inklusive kreativer Deko-Ideen und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen kreativ gestal
 Potsdam bietet eine Vielzahl von charmanten und weniger bekannten Orten, die sich ideal für eine nachhaltige Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten wird deine Feier zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen nachhaltig zu gestalten und entscheide dich für eine [digitale Einladung](https://invitivo.com), um umweltbewusst zu feiern.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Ereignis in der schönen Kulisse von Potsdam.
-```

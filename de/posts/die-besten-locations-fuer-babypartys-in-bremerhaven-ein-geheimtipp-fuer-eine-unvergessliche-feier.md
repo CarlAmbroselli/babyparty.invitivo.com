@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Locations für Babypartys in Bremerhaven: Ein Geheimtipp für eine unvergessliche Feier"
 description: Entdecke die idealen Orte in Bremerhaven für eine einzigartige Babyparty, mit nachhaltigen Dekorationstipps und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Gestalte deine Einladungen individuell, einschließlich schöner Grafiken und Te
 Bremerhaven bietet viele charmante Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und unterhaltsamen Aktivitäten wird deine Babyparty zu einem unvergesslichen Ereignis. Denke daran, deine Einladungen nachhaltig zu gestalten und verschicke dazu eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltbewusst ist.
 
 Planst du deine nächste Babyparty in Bremerhaven? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Erlebnis – umgeben von der einzigartigen Atmosphäre dieser maritimen Stadt.
-```

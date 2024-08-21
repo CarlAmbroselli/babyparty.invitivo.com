@@ -1,4 +1,3 @@
-```
 ---
 title: "Die perfekte Babyparty in Bottrop: Geheimtipps für eine unvergessliche Feier"
 description: Entdecke kreative Ideen und besondere Orte in Bottrop für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladung kreativ gestalte
 Bottrop bietet viele kreative und besondere Orte, die sich hervorragend für eine Babyparty eignen. Mit durchdachten Dekorationen und unterhaltsamen Aktivitäten wird deine Feier zu einem unvergesslichen Erlebnis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und sende eine [digitale Einladung](https://invitivo.com). So wird deine Babyparty nicht nur schön, sondern auch umweltbewusst.
 
 Planst du deine nächste Babyparty in Bottrop? Lass dich von unseren Ideen inspirieren und mache deine Feier zu einem unvergesslichen Ereignis!
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Unvergessliche Babypartys in Stuttgart: Geheimtipps für eine nachhaltige Feier"
 description: Entdecke kreative Ideen für eine Babyparty in Stuttgart, die sowohl einzigartig als auch nachhaltig sind, inklusive personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Diese Einladungen bieten eine hochwertige Gestaltung und kommen mit einem persö
 Stuttgart bietet viele wunderbare Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten im Freien wird deine Feier zu einem unvergesslichen Erlebnis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und verschicke dazu eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur wunderschön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Ereignis – in der charmanten Umgebung Stuttgarts.
-```

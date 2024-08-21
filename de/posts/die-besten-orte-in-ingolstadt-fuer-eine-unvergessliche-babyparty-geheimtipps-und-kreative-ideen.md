@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Ingolstadt für eine unvergessliche Babyparty: Geheimtipps und kreative Ideen"
 description: Entdecke die charmantesten, weniger bekannten Orte in Ingolstadt für eine einzigartige Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Im Gegensatz zu einer einfachen Nachricht auf dem Smartphone bieten diese Einlad
 Ingolstadt bietet viele charmante Orte, die sich perfekt für eine unvergessliche Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und lustigen Aktivitäten wird deine Feier zu einem besonderen Erlebnis. Vergiss nicht, deine Einladungen nachhaltig zu gestalten und nutze dafür eine [digitale Einladung](https://invitivo.com). So wird deine Babyparty nicht nur schön, sondern auch umweltfreundlich.
 
 Bist du bereit, deine nächste Babyparty zu planen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis in der wunderschönen Stadt Ingolstadt.
-```

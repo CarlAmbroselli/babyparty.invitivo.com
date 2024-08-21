@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Gelsenkirchen für eine unvergessliche Babyparty: Geheimtipps und lokale Highlights"
 description: Entdecke die charmantesten und weniger bekannten Locations in Gelsenkirchen für eine kreative Babyparty, einschließlich nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) hast du die Möglichkeit, deine Einladunge
 Gelsenkirchen bietet viele charmante Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Dekorationsideen und nachhaltigen Einladungen wird deine Feier zu einem unvergesslichen Ereignis. Lass dich von unseren Tipps inspirieren und gestalte deine Babyparty zu einem besonderen Erlebnis, das sowohl schön als auch umweltbewusst ist.
 
 Bist du bereit, deine Babyparty in Gelsenkirchen zu planen? Nutze unsere Tipps und mache diesen besonderen Tag zu einem unvergesslichen Fest im Herzen der Stadt!
-```

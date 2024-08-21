@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babyparty in Mönchengladbach: Ein kreativer Leitfaden für unvergessliche Feiern"
 description: Entdecke, wie du eine nachhaltige Babyparty in Mönchengladbach planst, inklusive Tipps für einzigartige Locations, kreative Ideen und digitale Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen nach deinen Vo
 Mönchengladbach bietet zahlreiche Möglichkeiten, eine nachhaltige und kreative Babyparty zu feiern. Ob im Stadtgarten, im alten Schlachthof oder im Botanischen Garten – mit der richtigen Location und kreativen Ideen wird deine Feier ein voller Erfolg. Denke daran, deine Einladungen umweltfreundlich zu gestalten und nutze dafür die Plattform [Invitivo](https://invitivo.com), um deine Gäste stilvoll zu informieren.
 
 Bist du bereit, deine Babyparty zu planen? Lass dich von unseren Tipps inspirieren und mache diesen besonderen Tag zu einem unvergesslichen Erlebnis in Mönchengladbach!
-```

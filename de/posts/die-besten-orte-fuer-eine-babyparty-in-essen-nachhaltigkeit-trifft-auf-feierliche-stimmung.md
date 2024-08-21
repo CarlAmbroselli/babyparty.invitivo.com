@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte für eine Babyparty in Essen: Nachhaltigkeit trifft auf feierliche Stimmung"
 description: Entdecke die besten Plätze in Essen für eine unvergessliche Babyparty mit nachhaltigen Ideen und kreativen digitalen Einladungen.
@@ -51,4 +50,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell an
 Essen bietet viele wunderbare Orte für eine Babyparty, von der Natur bis zur eleganten Villa. Mit kreativen Deko-Ideen und Aktivitäten wird deine Feier zu einem unvergesslichen Erlebnis. Denke an die Umwelt und gestalte deine Einladungen nachhaltig mit einer [digitalen Einladung](https://invitivo.com). So wird deine Babyparty nicht nur schön, sondern auch umweltfreundlich.
 
 Planst du eine Babyparty in Essen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Anlass – umgeben von der Schönheit der Stadt und ihrer Natur.
-```

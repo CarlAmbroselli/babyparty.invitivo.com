@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Köln für eine unvergessliche Babyparty: Geheimtipps für eine nachhaltige Feier"
 description: Entdecke die besten, weniger bekannten Locations in Köln für eine einzigartige Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Köln bietet viele wunderschöne, weniger bekannte Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten im Freien wird deine Babyparty zu einem unvergesslichen Ereignis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und verschicke dazu eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – mitten in der Natur, in einem der versteckten Schätze Kölns.
-```

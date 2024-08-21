@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babypartys in Pforzheim: Ideen für ein unvergessliches Fest im Grünen"
 description: Entdecke kreative Ideen für eine nachhaltige Babyparty in Pforzheim, inklusive Tipps zur Dekoration und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Pforzheim bietet zahlreiche wunderschöne Locations für eine nachhaltige Babyparty. Mit der richtigen Wahl des Ortes, kreativen Dekorationen und umweltfreundlichen Einladungen wird deine Feier zu einem unvergesslichen Ereignis. Nutze die Gelegenheit, um deine Gäste in die Natur einzuladen und gleichzeitig einen Beitrag zur Nachhaltigkeit zu leisten.
 
 Planst du deine nächste Babyparty in Pforzheim? Lass dich von unseren Ideen inspirieren und mache dein Fest zu einem besonderen Erlebnis in der Natur!
-```

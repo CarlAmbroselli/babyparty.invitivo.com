@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in München für eine unvergessliche Babyparty: Geheimtipps und lokale Highlights"
 description: Entdecke die charmantesten, weniger bekannten Orte in München für eine unvergessliche Babyparty, inklusive nachhaltiger Ideen für digitale Einladungen und Dekoration.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen ganz individue
 München hat viele versteckte Orte, die sich hervorragend für eine Babyparty eignen. Mit der richtigen Location, kreativen Dekorationen und spannenden Aktivitäten wird deine Feier unvergesslich. Vergiss nicht, deine Einladungen nachhaltig zu gestalten und eine [digitale Einladung](https://invitivo.com) zu verschicken. So wird deine Babyparty nicht nur schön, sondern auch umweltfreundlich.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mach deine Feier zu einem besonderen Erlebnis – mitten in der Natur, an einem der versteckten Juwelen Münchens!
-```

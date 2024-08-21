@@ -1,4 +1,3 @@
-```
 ---
 title: "Unvergessliche Babypartys in Leverkusen: Geheimtipps für einen besonderen Tag"
 description: Entdecke die besten, weniger bekannten Orte in Leverkusen für eine unvergessliche Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Diese Einladungen bieten eine ansprechende Gestaltung, die dem besonderen Anlass
 Leverkusen hat viele versteckte Ecken, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Dekorationsideen und unterhaltsamen Aktivitäten wird deine Feier zu einem unvergesslichen Erlebnis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und verschicke dazu eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Ereignis – in den charmanten Ecken von Leverkusen!
-```

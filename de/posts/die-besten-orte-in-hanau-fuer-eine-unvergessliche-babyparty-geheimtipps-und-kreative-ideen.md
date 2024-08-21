@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Hanau für eine unvergessliche Babyparty: Geheimtipps und kreative Ideen"
 description: Entdecke die versteckten Juwelen in Hanau für eine unvergessliche Babyparty, einschließlich nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell an
 Hanau bietet viele charmante, weniger bekannte Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Dekorationsideen und unterhaltsamen Aktivitäten wird deine Babyparty zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen nachhaltig zu gestalten und nutze dafür eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltbewusst ist.
 
 Planst du deine nächste Babyparty in Hanau? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Erlebnis in dieser märchenhaften Stadt.
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Die charmantesten Orte in Kassel für eine unvergessliche Babyparty: Nachhaltige Ideen und digitale Einladungen"
 description: Entdecke die besten, weniger bekannten Locations in Kassel für eine bezaubernde Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen von invitivo.com.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du Einladungen gestalten, die perfe
 Kassel bietet viele charmante, weniger bekannte Orte, die sich hervorragend für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten im Freien wird dein Fest zu einem unvergesslichen Erlebnis. Denke daran, auch deine Einladungen nachhaltig zu gestalten und nutze dazu eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Erlebnis – umgeben von der Natur und dem Charme Kassels.
-```

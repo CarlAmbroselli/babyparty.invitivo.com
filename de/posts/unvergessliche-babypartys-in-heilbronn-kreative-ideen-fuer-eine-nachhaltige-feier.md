@@ -1,4 +1,3 @@
-```
 ---
 title: "Unvergessliche Babypartys in Heilbronn: Kreative Ideen für eine nachhaltige Feier"
 description: Entdecke innovative Konzepte für Babypartys in Heilbronn, die umweltfreundlich sind und persönliche digitale Einladungen beinhalten.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Heilbronn bietet zahlreiche Möglichkeiten, um eine kreative und nachhaltige Babyparty zu feiern. Ob im Botanischen Garten, im Stadtpark oder im eigenen Garten – mit der richtigen Planung und Dekoration wird deine Feier unvergesslich. Denke daran, auch bei den Einladungen auf Nachhaltigkeit zu setzen und nutze dazu die [digitalen Einladungen von Invitivo](https://invitivo.com). So sorgst du dafür, dass deine Babyparty nicht nur schön, sondern auch umweltbewusst ist.
 
 Planst du eine Babyparty in Heilbronn? Lass dich von unseren Ideen inspirieren und mache dein Fest zu einem besonderen Ereignis im Herzen deiner Stadt.
-```

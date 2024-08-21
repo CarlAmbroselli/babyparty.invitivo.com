@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte in Duisburg für eine unvergessliche Babyparty: Geheimtipps für eine nachhaltige Feier"
 description: Entdecke die schönsten, weniger bekannten Orte in Duisburg für eine Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Duisburg bietet viele versteckte Schätze, die sich hervorragend für eine Babyparty eignen. Mit der richtigen Location, kreativen Dekorationsideen und unterhaltsamen Aktivitäten wird deine Babyparty zu einem unvergesslichen Erlebnis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und wähle eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Feier nicht nur schön, sondern auch umweltfreundlich ist.
 
 Bist du bereit, deine nächste Babyparty zu planen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – mitten in der Natur, in einem der verborgenen Juwelen Duisburgs.
-```

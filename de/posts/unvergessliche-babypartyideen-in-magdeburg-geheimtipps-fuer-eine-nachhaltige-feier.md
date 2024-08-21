@@ -1,4 +1,3 @@
-```
 ---
 title: "Unvergessliche Babyparty-Ideen in Magdeburg: Geheimtipps für eine nachhaltige Feier"
 description: Entdecke die besten Orte und kreativen Ideen für eine Babyparty in Magdeburg, inklusive Tipps für nachhaltige digitale Einladungen und umweltfreundliche Deko.
@@ -52,4 +51,3 @@ Statt einer einfachen Nachricht auf dem Smartphone erhältst du eine Einladung, 
 Magdeburg bietet viele charmante Orte, die sich ideal für eine Babyparty eignen. Mit kreativen Dekorationen, spannenden Aktivitäten und nachhaltigen Einladungen wird deine Feier zu einem unvergesslichen Erlebnis für alle Beteiligten. Denke daran, deine Einladungen umweltfreundlich zu gestalten und nutze dafür die Möglichkeiten von [Invitivo](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch nachhaltig ist.
 
 Bist du bereit, deine persönliche Babyparty in Magdeburg zu planen? Lass dich von unseren Ideen inspirieren und mache dein Fest zu einem besonderen Erlebnis in der Natur!
-```

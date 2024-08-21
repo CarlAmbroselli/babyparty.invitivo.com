@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babypartys in Erlangen: Tipps für eine unvergessliche Feier im Grünen"
 description: Entdecke kreative Ideen für eine nachhaltige Babyparty in Erlangen und erfahre, wie du mit digitalen Einladungen von invitivo.com eine persönliche Note hinzufügen kannst.
@@ -52,4 +51,3 @@ Durch die Nutzung von Invitivo kannst du die Einladungen individuell gestalten, 
 Erlangen bietet viele wunderschöne Orte, die sich perfekt für eine nachhaltige Babyparty eignen. Mit kreativen Dekorationsideen, unterhaltsamen Aktivitäten und der richtigen Location wird dein Fest unvergesslich. Vergiss nicht, deine Einladungen nachhaltig zu gestalten und nutze dazu die Möglichkeit einer [digitalen Einladung](https://invitivo.com). So schaffst du nicht nur eine schöne Feier, sondern auch einen positiven Einfluss auf die Umwelt.
 
 Planst du eine Babyparty in Erlangen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Erlebnis in der Natur!
-```

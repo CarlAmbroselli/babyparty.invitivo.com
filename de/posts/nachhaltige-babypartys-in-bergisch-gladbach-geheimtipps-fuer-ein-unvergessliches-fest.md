@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babypartys in Bergisch Gladbach: Geheimtipps für ein unvergessliches Fest"
 description: Entdecke kreative Ideen für nachhaltige Babypartys in Bergisch Gladbach, inklusive einzigartiger Locations und digitalen Einladungen von Invitivo.
@@ -52,4 +51,3 @@ Im Vergleich zu einfachen Nachrichten auf dem Smartphone bieten diese Einladunge
 Bergisch Gladbach hat viele traumhafte Orte zu bieten, die sich ideal für eine nachhaltige Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten im Freien wird deine Feier zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen nachhaltig zu gestalten und nutze dazu eine [digitale Einladung](https://invitivo.com). So schaffst du nicht nur eine wunderschöne Feier, sondern tust auch etwas Gutes für die Umwelt.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis in der Natur, hier in Bergisch Gladbach.
-```

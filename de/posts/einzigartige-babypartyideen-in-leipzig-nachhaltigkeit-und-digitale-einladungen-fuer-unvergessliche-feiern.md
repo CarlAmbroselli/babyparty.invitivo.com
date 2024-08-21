@@ -1,4 +1,3 @@
-```
 ---
 title: "Einzigartige Babyparty-Ideen in Leipzig: Nachhaltigkeit und digitale Einladungen für unvergessliche Feiern"
 description: Erlebe kreative und nachhaltige Möglichkeiten für deine Babyparty in Leipzig, inklusive Tipps für persönliche digitale Einladungen und lokale Hotspots.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen kreativ gestal
 Leipzig bietet viele kreative und nachhaltige Möglichkeiten für eine unvergessliche Babyparty. Mit den richtigen Locations, Dekorationstipps und Aktivitäten im Freien wird deine Feier zu einem besonderen Erlebnis. Denke daran, auch deine Einladungen nachhaltig zu gestalten und nutze dazu eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich ist.
 
 Bist du bereit, deine nächste Babyparty in Leipzig zu planen? Lass dich von unseren kreativen Ideen inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – umgeben von der einzigartigen Atmosphäre dieser wunderbaren Stadt.
-```

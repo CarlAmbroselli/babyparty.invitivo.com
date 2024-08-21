@@ -1,4 +1,3 @@
-```
 ---
 title: "Die charmantesten Orte in Aachen für eine unvergessliche Babyparty: Geheimtipps und lokale Highlights"
 description: Entdecke die besten, weniger bekannten Orte in Aachen für eine einzigartige Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Die Einladungen von [Invitivo](https://invitivo.com/) bieten eine hochwertige Ge
 Aachen bietet viele charmante und weniger bekannte Orte, die sich ideal für eine Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten wird dein Fest zu einem unvergesslichen Erlebnis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und verschicke dazu eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur wunderschön, sondern auch umweltbewusst ist.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – in den versteckten Juwelen Aachens.
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Locations für eine Babyparty in Bochum: Kreative Ideen und nachhaltige Einladungen"
 description: Entdecke die einzigartigen Möglichkeiten für eine Babyparty in Bochum, von charmanten Cafés bis hin zu besonderen Veranstaltungslokalen, inklusive Tipps für nachhaltige digitale Einladungen.
@@ -52,4 +51,3 @@ Vergiss die unpersönlichen Massen-Nachrichten und entscheide dich für eine Ein
 Bochum bietet zahlreiche kreative und einzigartige Locations für eine unvergessliche Babyparty. Ob in einem gemütlichen Café, einem historischen Museum oder im Freien im Stadtpark – mit den richtigen Deko-Ideen und Aktivitäten wird deine Feier garantiert ein Hit. Vergiss nicht, deine Einladungen nachhaltig zu gestalten und wähle eine [digitale Einladung](https://invitivo.com) von Invitivo, um einen umweltfreundlichen Akzent zu setzen.
 
 Planst du deine nächste Babyparty in Bochum? Lass dich von unseren Tipps inspirieren und kreiere ein unvergessliches Erlebnis für die werdende Familie und ihre Freunde!
-```

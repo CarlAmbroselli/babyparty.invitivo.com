@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Orte für eine Babyparty in Trier: Einzigartige Ideen für eine unvergessliche Feier"
 description: Entdecke die charmantesten Locations in Trier für eine Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell an
 Trier bietet eine Vielzahl an einzigartigen Orten, die sich perfekt für eine Babyparty eignen. Mit den richtigen Ideen für Dekoration und Aktivitäten wird deine Feier unvergesslich. Denk daran, deine Einladungen nachhaltig zu gestalten und nutze dafür [digitale Einladungen](https://invitivo.com). So wird deine Babyparty nicht nur schön, sondern auch umweltfreundlich.
 
 Bist du bereit, deine Babyparty in Trier zu planen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Erlebnis – umgeben von der historischen Schönheit der ältesten Stadt Deutschlands.
-```

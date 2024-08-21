@@ -1,4 +1,3 @@
-```
 ---
 title: "Die charmantesten Locations in Darmstadt für eine unvergessliche Babyparty: Insider-Tipps und nachhaltige Ideen"
 description: Entdecke die besten, weniger bekannten Orte in Darmstadt für eine einzigartige Babyparty, inklusive nachhaltiger Deko-Tipps und personalisierten digitalen Einladungen.
@@ -62,4 +61,3 @@ Dank [Invitivo](https://invitivo.com/) können deine Gäste mit nur einem Klick 
 Darmstadt bietet viele charmante und weniger bekannte Locations, die sich ideal für eine Babyparty eignen. Mit der richtigen Wahl der Location, kreativen Deko-Ideen und spannenden Aktivitäten wird deine Babyparty zu einem unvergesslichen Erlebnis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und verschicke dazu eine [digitale Einladung](https://invitivo.com). So wird deine Feier nicht nur schön, sondern auch umweltfreundlich.
 
 Bist du bereit, deine nächste Babyparty in Darmstadt zu planen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu etwas ganz Besonderem – in einer der versteckten Perlen dieser wunderbaren Stadt.
-```

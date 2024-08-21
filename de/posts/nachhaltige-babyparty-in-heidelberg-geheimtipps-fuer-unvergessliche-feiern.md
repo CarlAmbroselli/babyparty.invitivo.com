@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babyparty in Heidelberg: Geheimtipps für unvergessliche Feiern"
 description: Entdecke kreative Ideen und nachhaltige digitale Einladungen für deine Babyparty in Heidelberg, inklusive lokaler Empfehlungen.
@@ -52,4 +51,3 @@ Mit Invitivo kannst du deine Einladungen individuell anpassen, mit schönen Desi
 Heidelberg bietet zahlreiche charmante Orte, die sich perfekt für eine Babyparty eignen. Ob im Schlossgarten, auf dem Philosophienweg oder an der Neckarwiese – mit den richtigen Ideen und nachhaltigen Einladungen wird deine Feier unvergesslich. Denke daran, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten, um sicherzustellen, dass deine Babyparty nicht nur schön, sondern auch umweltfreundlich ist.
 
 Planst du eine Babyparty in Heidelberg? Lass dich von unseren Tipps inspirieren und mache das besondere Ereignis zu einem unvergesslichen Erlebnis für alle!
-```
