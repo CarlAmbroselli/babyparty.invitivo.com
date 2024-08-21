@@ -27,30 +27,15 @@ jobs:
         node-version: [20.x]
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm install
-
-      - name: Install svgexport
-        run: npm install -g svgexport
-      - name: Install ImageMagick
-        run: sudo apt-get install -y imagemagick
-      - name: Build site
-        run: npm run build
-      - name: Generate favicons
-        run: |
-          svgexport _site/favicon.svg _site/img/favicon/favicon-16x16.png 16:16
-          svgexport _site/favicon.svg _site/img/favicon/favicon-32x32.png 32:32
-          svgexport _site/favicon.svg _site/img/favicon/favicon-96x96.png 96:96
-          svgexport _site/favicon.svg _site/img/favicon/favicon-192x192.png 192:192
-          svgexport _site/favicon.svg _site/img/favicon/favicon-512x512.png 512:512
-          convert _site/img/favicon/favicon-16x16.png _site/img/favicon/favicon-32x32.png _site/img/favicon/favicon-96x96.png _site/img/favicon/favicon.ico
-          svgexport _site/favicon.svg _site/img/favicon/apple-touch-icon.png 180:180
+      - run: npm run build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: "_site"
 
