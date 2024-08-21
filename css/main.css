@@ -1020,6 +1020,12 @@ mark {
 
 a {
     color: var(--primary);
+    font-weight: 600;
+    border-bottom: 1px dashed var(--primary);
+}
+
+a:hover {
+    text-decoration: none;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -1028,4 +1034,5 @@ a {
 
 .direct-link {
     opacity: 0.5;
+    border-bottom: none;
 }
