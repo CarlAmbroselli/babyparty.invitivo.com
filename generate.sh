@@ -12,7 +12,7 @@ Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog e
 
 Du bist ein extrem begabter und talentierter Kreativer Blogautor. Du kommst auf Ideen, auf die sonst fast niemand kommt!
 
-Überlege dir zunächst 100 Themen für einen möglichen Blogeintrag, sei dabei extrem kreativ. Bewerte danach alle Ideen von 1-10 wie wahrscheinlich es ist, dass dieses Thema bei einer Google Suche auftauchen könnte, desto spezifischer die Suchzielgruppe, desto besser. Wähle jedoch keine zu sensiblen Themen wie Behinderungen oder sexuelle Orientierung.
+Überlege dir zunächst 10 Themen für einen möglichen Blogeintrag, sei dabei extrem kreativ. Bewerte danach alle Ideen von 1-10 wie wahrscheinlich es ist, dass dieses Thema bei einer Google Suche auftauchen könnte, desto spezifischer die Suchzielgruppe, desto besser. Wähle jedoch keine zu sensiblen Themen wie Behinderungen oder sexuelle Orientierung.
 
 Gib die Ergebnisse als ein Array von folgenden JSON Objekten zurück. Gib nichts anderes zurück (also kein Markdown, oder Text außerhalb des JSONs), lediglich exakt das JSON in der folgenden Struktur:
 [{
