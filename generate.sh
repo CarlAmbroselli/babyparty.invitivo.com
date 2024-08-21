@@ -129,7 +129,7 @@ if [ -z "$title" ]; then
 fi
 
 # Sanitize the title for use as a filename
-sanitized_title=$(echo "$title" | sed -e 's/[äÄ]/ae/g; s/[öÖ]/oe/g; s/[üÜ]/ue/g; s/ß/ss/g' | sed -e "s/'//g"| iconv -sc -f utf8 -t ascii//TRANSLIT | sed -e 's/[^a-zA-Z0-9 ]+/-/g' -e 's/^-+\|-+$//g' | tr '[:upper:]' '[:lower:]' | sed -e 's/[[:punct:]]//g'| sed -e 's/ /-/g')
+sanitized_title=$(echo "$title" | sed -e 's/[äÄ]/ae/g; s/[öÖ]/oe/g; s/[üÜ]/ue/g; s/ß/ss/g; s/é/e/g' | sed -e "s/'//g"| sed -e 's/[^a-zA-Z0-9 ]+/-/g' -e 's/^-+\|-+$//g' | tr '[:upper:]' '[:lower:]' | sed -e 's/[[:punct:]]//g'| sed -e 's/ /-/g')
 
 # Create the filename with .md extension
 filename="${sanitized_title}.md"
