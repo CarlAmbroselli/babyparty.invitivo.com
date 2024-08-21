@@ -7,10 +7,19 @@ if [ -z "$OPENAI_API_KEY" ]; then
     exit 1
 fi
 
-read -r -d '' PROMPT_CONTENT << 'EOM'
+# Check if a parameter has been supplied
+if [ $# -eq 0 ]; then
+    echo "Error: No variable provided. Please run the script with a certain topic/city as a parameter."
+    exit 1
+fi
+
+# Store the first parameter in a variable
+VARIABLE="$1"
+
+read -r -d '' PROMPT_CONTENT << EOM
 Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog erstellen, welcher den Fokus auf Babyparties hat. Ich möchte dabei sehr nischige Suchen ansprechen, da der Markt bereits sehr überlaufen ist. Tendenziell möchte ich auch bestimmte Orte darin erwähnen, welche typisch oder passend sind wenn es z.B. um eine deutsche Stadt geht.
 
-Überlege dir ein nichiges Thema und verfasse einen Blogartikel. Dabei sollte eine der folgenden Städte im Vordergrund stehen (oder ein Stadtteil innerhalb einer dieser Städte): Berlin⁠, Hamburg⁠, München, Köln⁠, Frankfurt, Stuttgart, Düsseldorf, Leipzig, Dortmund, Essen, Bremen, Dresden, Hannover, Nürnberg, Duisburg⁠, Bochum, Wuppertal⁠, Bielefeld⁠, Bonn⁠, Münster⁠, Mannheim, Karlsruhe, Augsburg, Wiesbaden⁠, Mönchengladbach⁠, Gelsenkirchen⁠, Aachen⁠, Braunschweig, Chemnitz⁠, Kiel, Halle, Magdeburg, Freiburg, Krefeld⁠, Mainz⁠, Lübeck, Erfurt, Oberhausen⁠, Rostock⁠, Kassel⁠, Hagen, Potsdam, Saarbrücken⁠, Hamm, Ludwigshafen, Oldenburg, Mülheim, Osnabrück⁠, Leverkusen, Darmstadt⁠, Heidelberg, Solingen, Regensburg, Herne⁠, Paderborn, Neuss, Ingolstadt, Offenbach, Fürth⁠, Heilbronn, Ulm⁠, Pforzheim, Würzburg, Wolfsburg⁠, Göttingen, Bottrop, Reutlingen, Erlangen⁠, Koblenz, Bremerhaven⁠, Remscheid⁠, Trier⁠, Bergisch, Recklinghausen, Jena⁠, Moers⁠, Salzgitter⁠, Hanau, Gütersloh, Hildesheim⁠, Siegen⁠, Kaiserslautern⁠, Cottbus⁠
+Überlege dir ein nichiges Thema und berichte über folgende Stadt: $VARIABLE
 
 Verwende als Bild: ![Babyparty im Park](/img/picnic-park.webp)
 
@@ -18,7 +27,7 @@ Dabei soll der Blogpost auch das Thema von nachhaltigen digitalen Einladungen au
 
 Hier ist eine Beispieldatei, deine Ausgabe sollte diesem Format folgen, ohne die ``` drumherum bzw. ohne ``` mit auszugeben. In dem Beispiel geht es zwar um Parks, das kannst du aber Thematisch komplett ignorieren, sei kreativ bezüglich dem Thema oder dem Ort um den es geht, das Beispiel soll lediglich hinsichtlich der Dateistruktur helfen. Denk dir beim Datum ein beliebiges Datum in 2024 vor dem 21. August aus.
 
-```
+\`\`\`
 ---
 title: "Die besten Parks in Berlin für eine Outdoor-Babyparty: Geheimtipps und lokale Favoriten"
 description: Entdecke die schönsten, weniger bekannten Parks in Berlin für eine unvergessliche Outdoor-Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -80,7 +89,7 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Berlin bietet viele wunderschöne, weniger bekannte Parks, die sich ideal für eine Outdoor-Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten im Freien wird deine Babyparty zu einem unvergesslichen Ereignis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und verschicke dazu eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur wunderschön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – mitten im Grünen, in einem der verborgenen Juwelen Berlins.
-```
+\`\`\`
 EOM
 
 # Escape the prompt content for JSON
