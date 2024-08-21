@@ -7,25 +7,71 @@ if [ -z "$OPENAI_API_KEY" ]; then
     exit 1
 fi
 
-# Check if a parameter has been supplied
-if [ $# -eq 0 ]; then
-    echo "Error: No variable provided. Please run the script with a certain topic/city as a parameter."
+read -r -d '' PROMPT_CONTENT << EOM
+Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog erstellen, welcher den Fokus auf Babyparties hat. Ich möchte dabei sehr nischige Suchen ansprechen, da der Markt bereits sehr überlaufen ist.
+
+Du bist ein extrem begabter und talentierter Kreativer Blogautor. Du kommst auf Ideen, auf die sonst fast niemand kommt!
+
+Überlege dir zunächst 100 Themen für einen möglichen Blogeintrag, sei dabei extrem kreativ. Bewerte danach alle Ideen von 1-10 wie wahrscheinlich es ist, dass dieses Thema bei einer Google Suche auftauchen könnte, desto spezifischer die Suchzielgruppe, desto besser. Wähle jedoch keine zu sensiblen Themen wie Behinderungen oder sexuelle Orientierung.
+
+Gib die Ergebnisse als ein Array von folgenden JSON Objekten zurück. Gib nichts anderes zurück (also kein Markdown, oder Text außerhalb des JSONs), lediglich exakt das JSON in der folgenden Struktur:
+[{
+  "titel": <titel>,
+  "beschreibung": <Bescheibung>,
+  "bewertung": <Bewertung>
+}]
+EOM
+
+# Escape the prompt content for JSON
+ESCAPED_CONTENT=$(echo "$PROMPT_CONTENT" | jq -Rs .)
+# Execute curl and save the response
+response=$(curl https://api.openai.com/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -d "{
+     \"model\": \"gpt-4o-mini\",
+     \"messages\": [{\"role\": \"user\", \"content\": $ESCAPED_CONTENT}],
+     \"temperature\": 0.7
+   }")
+
+# Check if curl command was successful
+if [ $? -ne 0 ]; then
+    echo "Error: Failed to get a response from the API."
     exit 1
 fi
 
-# Store the first parameter in a variable
-VARIABLE="$1"
+# Extract the content from the assistant's message
+assistant_content=$(echo "$response" | jq -r '.choices[0].message.content')
+
+# Check if content was extracted successfully
+if [ -z "$assistant_content" ]; then
+    echo "Error: Could not extract content from the API response."
+    exit 1
+fi
+
+echo "$assistant_content" > topics.txt
+
+echo "$assistant_content" | jq -c '.[]' | while read -r idea; do
+    # Extract titel and beschreibung
+    titel=$(echo $idea | jq -r '.titel')
+    beschreibung=$(echo $idea | jq -r '.beschreibung')
+
+    # Print the extracted information
+    echo "Titel: $titel"
+    echo "Beschreibung: $beschreibung"
 
 read -r -d '' PROMPT_CONTENT << EOM
-Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog erstellen, welcher den Fokus auf Babyparties hat. Ich möchte dabei sehr nischige Suchen ansprechen, da der Markt bereits sehr überlaufen ist. Tendenziell möchte ich auch bestimmte Orte darin erwähnen, welche typisch oder passend sind wenn es z.B. um eine deutsche Stadt geht.
+Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog erstellen, welcher den Fokus auf Babyparties hat. Ich möchte dabei sehr nischige Suchen ansprechen, da der Markt bereits sehr überlaufen ist.
 
-Überlege dir ein nichiges Thema und berichte über folgende Stadt: $VARIABLE
+Du bist ein extrem begabter und talentierter kreativer Blogautor. Dein Schreibstil ist lustig und angenehm zu lesen. Du bist unfassbar originell, ohne jedoch albern zu sein. Du schreibst Texte, die jeder sehr gern liest, weil sie sehr bildlich sind und auch teilweise einen inneren Konflikt darstellen, mit dem sich der Leser gut identifizieren kann. Deine Tipps sind extrem wertvoll.
 
-Verwende als Bild: ![Babyparty im Park](/img/picnic-park.webp)
+Du sollst zu folgendem Thema schreiben:
+- Thema: $title
+- Beschreibung: $beschreibung
 
-Dabei soll der Blogpost auch das Thema von nachhaltigen digitalen Einladungen aufgreifen, und dabei invitivo.com empfehlen, was viel schöner und persönlicher ist als noch eine weitere WhatsApp Gruppe. (Formuliere den Beispieltext jedoch gern um, angepasst auf den Blogartikel) Dabei sollte er aus SEO Sicht sehr auf die Niche ausgelegt sein.
+Dabei soll der Blogpost neben dem eben ausgewählten Thema auch das Thema von digitalen Einladungen aufgreifen, und dabei invitivo empfehlen, was viel schöner und persönlicher ist als noch eine weitere WhatsApp Gruppe. (Formuliere den Beispieltext jedoch gern um, angepasst auf den Blogartikel) Dabei sollte er aus SEO Sicht sehr auf die Niche ausgelegt sein.
 
-Hier ist eine Beispieldatei, deine Ausgabe sollte diesem Format folgen, ohne die ``` drumherum bzw. ohne ``` mit auszugeben. In dem Beispiel geht es zwar um Parks, das kannst du aber Thematisch komplett ignorieren, sei kreativ bezüglich dem Thema oder dem Ort um den es geht, das Beispiel soll lediglich hinsichtlich der Dateistruktur helfen. Denk dir beim Datum ein beliebiges Datum in 2024 vor dem 21. August aus.
+Hier ist eine Beispieldatei für den letztendlichen Blogartikel, deine Ausgabe sollte diesem Format folgen (nutze das gleiche Bild), ohne die \`\`\` drumherum bzw. ohne \`\`\` mit auszugeben. In dem Beispiel geht es zwar um Parks, das kannst du aber thematisch komplett ignorieren, sei kreativ bezüglich dem gewählten Thema welches oben angegeben ist, das Beispiel soll lediglich hinsichtlich der Dateistruktur helfen. Denk dir beim Datum ein beliebiges Datum in 2024 vor dem 21. August aus.
 
 \`\`\`
 ---
@@ -92,6 +138,7 @@ Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und 
 \`\`\`
 EOM
 
+
 # Escape the prompt content for JSON
 ESCAPED_CONTENT=$(echo "$PROMPT_CONTENT" | jq -Rs .)
 # Execute curl and save the response
@@ -111,7 +158,7 @@ if [ $? -ne 0 ]; then
 fi
 
 # Extract the content from the assistant's message
-assistant_content=$(echo "$response" | jq -r '.choices[0].message.content' | sed 's/^"""\n//; s/"""$//')
+assistant_content=$(echo "$response" | jq -r '.choices[0].message.content')
 
 # Check if content was extracted successfully
 if [ -z "$assistant_content" ]; then
@@ -128,6 +175,8 @@ if [ -z "$title" ]; then
     exit 1
 fi
 
+echo "extracted title: $title"
+
 # Sanitize the title for use as a filename
 sanitized_title=$(echo "$title" | sed -e 's/[äÄ]/ae/g; s/[öÖ]/oe/g; s/[üÜ]/ue/g; s/ß/ss/g; s/é/e/g' | sed -e "s/'//g"| sed -e 's/[^a-zA-Z0-9 ]+/-/g' -e 's/^-+\|-+$//g' | tr '[:upper:]' '[:lower:]' | sed -e 's/[[:punct:]]//g'| sed -e 's/ /-/g')
 
@@ -138,3 +187,6 @@ filename="${sanitized_title}.md"
 echo "$assistant_content" > "de/posts/$filename"
 
 echo "Content saved to de/posts/$filename"
+echo "--------"
+
+done
