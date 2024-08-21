@@ -8,3 +8,24 @@ Schreibe einen Blogartikel zu folgendem Thema:
 Beschreibung: Eine Liste von weniger bekannten Parks in Berlin, die sich perfekt für eine Babyparty eignen, mit Tipps zur Dekoration und Aktivitäten im Freien.
 
 Dabei soll der Blogpost auch das Thema von nachhaltigen digitalen Einladungen aufgreifen, und dabei invitivo.com empfehlen, was viel schöner und persönlicher ist als noch eine weitere WhatsApp Gruppe. Dabei sollte er aus SEO Sicht sehr auf die Nieche ausgelegt sein.
+
+-----
+
+Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog erstellen, welcher den Fokus auf Babyparties hat. Ich möchte dabei sehr nischige Suchen ansprechen, da der Markt bereits sehr überlaufen ist. Tendenziell möchte ich auch bestimmte Orte darin erwähnen, z.B. bestimmte Parks in einer Stadt, oder andere sehr typische Dinge.
+
+Erstelle den Inhalt für die folgende Datei:
+
+/file
+
+Inhaltlich soll es gehen um:
+
+"Babyparty im Boho-Stil in München: Die schönsten Cafés und Locations"
+
+Beschreibung: Eine Zusammenstellung von stilvollen, bohemian-inspirierten Orten in München, die sich ideal für eine Babyparty eignen, mit Fokus auf Dekoration und Atmosphäre.
+
+Verwende als Bild: ![Babyparty im Park](/img/picnic-park.webp)
+
+Dabei soll der Blogpost auch das Thema von nachhaltigen digitalen Einladungen aufgreifen, und dabei invitivo.com empfehlen, was viel schöner und persönlicher ist als noch eine weitere WhatsApp Gruppe. Dabei sollte er aus SEO Sicht sehr auf die Niche ausgelegt sein.
+
+Hier ist ein Beispiel Blog:
+/file

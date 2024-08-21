@@ -1,3 +1,24 @@
+#!/bin/bash
+
+# Check if OPENAI_API_KEY is set
+if [ -z "$OPENAI_API_KEY" ]; then
+    echo "Error: OPENAI_API_KEY environment variable is not set."
+    echo "Please set it using: export OPENAI_API_KEY='your-api-key-here'"
+    exit 1
+fi
+
+read -r -d '' PROMPT_CONTENT << EOM
+Ich habe eine Website für digitale Einladungen. Dafür möchte ich einen Blog erstellen, welcher den Fokus auf Babyparties hat. Ich möchte dabei sehr nischige Suchen ansprechen, da der Markt bereits sehr überlaufen ist. Tendenziell möchte ich auch bestimmte Orte darin erwähnen, z.B. bestimmte Parks in einer Stadt, oder andere sehr typische Dinge.
+
+Überlege dir ein nichiges Thema und verfasse einen Blogartikel.
+
+Verwende als Bild: ![Babyparty im Park](/img/picnic-park.webp)
+
+Dabei soll der Blogpost auch das Thema von nachhaltigen digitalen Einladungen aufgreifen, und dabei invitivo.com empfehlen, was viel schöner und persönlicher ist als noch eine weitere WhatsApp Gruppe. Dabei sollte er aus SEO Sicht sehr auf die Niche ausgelegt sein.
+
+Hier ist eine Beispieldatei, deine Ausgabe sollte diesem Format folgen, ohne die ``` drumherum.
+
+```
 ---
 title: "Die besten Parks in Berlin für eine Outdoor-Babyparty: Geheimtipps und lokale Favoriten"
 description: Entdecke die schönsten, weniger bekannten Parks in Berlin für eine unvergessliche Outdoor-Babyparty, inklusive nachhaltiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -59,3 +80,43 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell ge
 Berlin bietet viele wunderschöne, weniger bekannte Parks, die sich ideal für eine Outdoor-Babyparty eignen. Mit der richtigen Location, kreativen Deko-Ideen und Aktivitäten im Freien wird deine Babyparty zu einem unvergesslichen Ereignis. Denke auch daran, deine Einladungen nachhaltig zu gestalten und verschicke dazu eine [digitale Einladung](https://invitivo.com). So kannst du sicherstellen, dass deine Babyparty nicht nur wunderschön, sondern auch umweltfreundlich ist.
 
 Planst du deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis – mitten im Grünen, in einem der verborgenen Juwelen Berlins.
+```
+EOM
+
+# Escape the prompt content for JSON
+ESCAPED_CONTENT=$(echo "$PROMPT_CONTENT" | jq -Rs .)
+# Execute curl and save the response
+response=$(curl https://api.openai.com/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -d "{
+     \"model\": \"gpt-4o-mini\",
+     \"messages\": [{\"role\": \"user\", \"content\": $ESCAPED_CONTENT}],
+     \"temperature\": 0.7
+   }")
+
+# Check if curl command was successful
+if [ $? -ne 0 ]; then
+    echo "Error: Failed to get a response from the API."
+    exit 1
+fi
+
+# Extract the title from the response
+title=$(echo "$response" | grep -oP 'title: "\K[^"]+')
+
+# Check if title was found
+if [ -z "$title" ]; then
+    echo "Error: Could not find a title in the response."
+    exit 1
+fi
+
+# Sanitize the title for use as a filename
+sanitized_title=$(echo "$title" | iconv -f utf8 -t ascii//TRANSLIT | sed -e 's/[^a-zA-Z0-9]+/-/g' -e 's/^-+\|-+$//g' | tr '[:upper:]' '[:lower:]')
+
+# Create the filename with .md extension
+filename="${sanitized_title}.md"
+
+# Save the response to the Markdown file
+echo "$response" > "$filename"
+
+echo "Response saved to $filename"
