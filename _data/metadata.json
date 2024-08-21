@@ -1,0 +1,25 @@
+{
+  "title": "Invitivo | Tipps für deine Babyparty",
+  "url": "https://babyparty.invitivo.com",
+  "domain": "babyparty.invitivo.com",
+  "description": "Tipps und Ideen für deine Baby Party",
+  "genre": "Blog",
+  "googleAnalyticsId": "G-T0YKSY8DZX",
+  "sendWebVitals": false,
+  "feed": {
+    "subtitle": "Baby Party Tipps",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://babyparty.invitivo.com"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://babyparty.invitivo/feed/feed.json"
+  },
+  "author": {
+    "name": "Invitivo"
+  },
+  "publisher": {
+    "name": "Invitivo Studios"
+  }
+}
