@@ -787,19 +787,21 @@ header nav {
     font-weight: 200;
     text-align: right;
 }
-header nav h1 {
+header nav p {
     float: left;
     font-size: inherit;
     line-height: inherit;
     margin: 0;
     text-align: left;
 }
-header nav a {
+header nav a,
+header nav p a {
     font-weight: 700;
     text-decoration: none;
     font-family: var(--font-family);
     color: #181818;
     margin-left: 1.5em;
+    border-bottom: none;
 }
 header nav a:first-of-type {
     margin-left: auto;
