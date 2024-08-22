@@ -1,6 +1,6 @@
 ---
 title: "Die besten DIY-Platzkarten für deine Babyparty: Kreativ und persönlich gestalten"
-description: Entdecke kreative DIY-Ideen für Platzkarten auf deiner Babyparty, die nicht nur schön aussehen, sondern auch eine persönliche Note verleihen. Plus: Warum digitale Einladungen der perfekte Start sind!
+description: "Entdecke kreative DIY-Ideen für Platzkarten auf deiner Babyparty, die nicht nur schön aussehen, sondern auch eine persönliche Note verleihen. Plus - Warum digitale Einladungen der perfekte Start sind!"
 date: 2024-06-15
 scheduled: 2024-06-15
 tags:

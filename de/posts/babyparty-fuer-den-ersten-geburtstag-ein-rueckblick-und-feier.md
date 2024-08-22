@@ -7,7 +7,7 @@ tags:
   - Babyparty
   - erster Geburtstag
   - Feierideen
-  - digitale Einladungen
+  - Digitale Einladungen
 layout: layouts/post.njk
 ---
 
@@ -37,7 +37,7 @@ Ein gutes Buffet ist das A und O jeder Feier. Achte darauf, dass es eine bunte M
 
 Wenn es um Einladungen geht, ist der persönliche Touch entscheidend! Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht auf eine digitale Einladung setzen? Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, individuelle Einladungen gestalten, die perfekt zu deinem Motto passen. So haben deine Gäste nicht nur eine praktische Übersicht über das Event, sondern auch etwas, das sie wirklich begeistert.
 
-Stell dir vor, wie schön es ist, eine stilvolle Einladung zu erhalten, die alle wichtigen Infos auf einen Blick präsentiert. Mit der Möglichkeit, kinderleicht Rückmeldungen zu erhalten, bleibt dir der Stress von langen Nachrichtensträngen erspart – und deine Gäste werden die einfache Handhabung lieben. 
+Stell dir vor, wie schön es ist, eine stilvolle Einladung zu erhalten, die alle wichtigen Infos auf einen Blick präsentiert. Mit der Möglichkeit, kinderleicht Rückmeldungen zu erhalten, bleibt dir der Stress von langen Nachrichtensträngen erspart – und deine Gäste werden die einfache Handhabung lieben.
 
 ### **Fazit**
 

@@ -1,6 +1,6 @@
 ---
 title: "Die besten Babyparty-Mottos für kreative Köpfe: Von Einhörnern bis hin zu Astronauten"
-description: Entdecke kreative und außergewöhnliche Mottos für Babypartys, die deine Feier zu einem unvergesslichen Erlebnis machen. Plus: Personalisiere deine Einladungen mit einem besonderen Touch!
+description: "Entdecke kreative und außergewöhnliche Mottos für Babypartys, die deine Feier zu einem unvergesslichen Erlebnis machen. Plus - Personalisiere deine Einladungen mit einem besonderen Touch!"
 date: 2024-06-15
 scheduled: 2024-06-15
 tags:
