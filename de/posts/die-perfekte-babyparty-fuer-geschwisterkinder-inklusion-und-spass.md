@@ -1,4 +1,3 @@
-```
 ---
 title: "Die perfekte Babyparty für Geschwisterkinder: Inklusion und Spaß für alle"
 description: Entdecke kreative Ideen, wie du Geschwisterkinder in die Babyparty integrierst und dabei unvergessliche digitale Einladungen gestaltest, die das Event besonders machen.
@@ -48,4 +47,3 @@ Mit Invitivo kannst du die Einladungen ganz nach deinem Stil anpassen – von fr
 Eine Babyparty für Geschwisterkinder kann ein wunderbares Erlebnis werden, wenn du sie aktiv in die Feierlichkeiten einbeziehst. Mit kreativen Ideen, einer speziellen Zone für sie und einer einladenden Atmosphäre wird deine Babyparty ein Hit für die ganze Familie. Denke daran, deine Einladungen traditionell zu gestalten – aber digital! Mit [Invitivo](https://invitivo.com) kannst du jedem Gast das Gefühl geben, dass sein Kommen wichtig ist.
 
 Hast du schon Pläne für deine nächste Babyparty? Lass dich von unseren Tipps inspirieren und mache diesen besonderen Tag zu einem unvergesslichen Erlebnis für alle – besonders für die Geschwisterkinder!
-```

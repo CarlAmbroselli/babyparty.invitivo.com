@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty-Spiele für Erwachsene: Spaß, der die Kleinen in den Schatten stellt"
 description: Entdecke ungewöhnliche Babyparty-Spiele, die nicht nur Kinder, sondern auch Erwachsene begeistern. Dazu Tipps für kreative digitale Einladungen, die deine Gäste in Staunen versetzen werden.
@@ -51,4 +50,3 @@ Mit Invitivo kannst du deine Einladungen so gestalten, dass sie die Erwartungen 
 Eine Babyparty sollte für alle ein Erlebnis sein – und das schließt die Erwachsenen definitiv ein! Mit kreativen und lustigen Spielen sorgst du dafür, dass die Feier unvergesslich wird. Vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten, um einen bleibenden Eindruck zu hinterlassen und deine Gäste auf das bevorstehende Fest einzustimmen. 
 
 Mach deine Babyparty zu einem Ort des Lachens und der Freude – und sorge dafür, dass auch die Erwachsenen großartigen Spaß haben!
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Ungewöhnliche Babyparty-Orte: Kreative Ideen für das besondere Event"
 description: Entdecke inspirierende und ungewöhnliche Locations für eine unvergessliche Babyparty, abseits des typischen Gartenfestes, inklusive Tipps für digitale Einladungen.
@@ -51,4 +50,3 @@ Deine Gäste werden die Möglichkeit lieben, ganz unkompliziert ihre Zusagen zu 
 Eine Babyparty muss nicht im eigenen Garten stattfinden! Ob im nostalgischen Bahnhof, in einem inspirierenden Kunststudio oder im lebendigen Gewächshaus – die Welt der ungewöhnlichen Locations ist voller Möglichkeiten. Lass deiner Kreativität freien Lauf und kreiere einen unvergesslichen Tag für die werdende Mutter und ihre Gäste. Und vergiss nicht, deinen Einladungen mit [Invitivo](https://invitivo.com) den letzten Schliff zu geben, um das Event noch persönlicher zu gestalten.
 
 Bereit, deinen eigenen besonderen Ort für die nächste Babyparty zu finden? Lass dich von unseren Ideen inspirieren und mache dieses Ereignis zu einem unvergesslichen Erlebnis!
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "DIY-Babyparty-Geschenke: Kreative Ideen zum Selbermachen, die Herzen erobern"
 description: Entdecke einzigartige DIY-Geschenkideen für die Babyparty und erfahre, wie du persönliche digitale Einladungen mit Invitivo gestalten kannst.
@@ -46,4 +45,3 @@ Mit der Möglichkeit, deine Einladungen nach deinen Wünschen zu gestalten – e
 DIY-Geschenke sind eine wunderbare Möglichkeit, der Babyparty eine persönliche Note zu verleihen. Von kuscheligen Decken bis hin zu kreativen Spielen – deiner Fantasie sind keine Grenzen gesetzt. Vergiss nicht, auch deine digitalen Einladungen mit [Invitivo](https://invitivo.com/) zu gestalten, um das Event stilvoll zu beginnen. So wird deine Babyparty zu einem unvergesslichen Erlebnis für alle Beteiligten!
 
 Bereit, kreativ zu werden? Lass dich von unseren Ideen inspirieren und mache die Babyparty zu einem besonderen Tag voller Lachen, Liebe und unvergesslicher Momente.
-```

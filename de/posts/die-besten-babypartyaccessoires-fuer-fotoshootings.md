@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Babyparty-Accessoires für unvergessliche Fotoshootings: Kreative Ideen für deine Feier"
 description: Entdecke die originellsten Accessoires für dein Babyparty-Fotoshooting und erfahre, wie digitale Einladungen von Invitivo den perfekten Rahmen schaffen.
@@ -52,4 +51,3 @@ Mit Invitivo kannst du deine Einladungen individuell gestalten und sie mit hübs
 Mit den richtigen Accessoires wird dein Babyparty-Fotoshooting zu einem unvergesslichen Erlebnis. Nutze kreative Ideen und persönliche Details, um die Atmosphäre und die Erinnerungen festzuhalten. Und vergesse nicht, deine Einladungen mit einem Hauch von Stil zu versehen – mit einer digitalen Einladung von [Invitivo](https://invitivo.com) schaffst du eine wunderbare Basis für deine Feier. 
 
 Bist du bereit, deine Babyparty zu planen? Lass dich von unseren kreativen Tipps inspirieren und mache deine Feier zu einem unvergesslichen Ereignis, das sowohl visuell als auch emotional begeistert!
-```

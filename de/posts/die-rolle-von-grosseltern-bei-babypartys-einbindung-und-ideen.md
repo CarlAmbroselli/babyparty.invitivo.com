@@ -1,4 +1,3 @@
-```
 ---
 title: "Die wunderbare Rolle der Großeltern bei Babypartys: Ideen zur Einbindung und digitale Einladungen mit Herz"
 description: Entdecke, wie Großeltern aktiv in die Planung und Durchführung von Babypartys einbezogen werden können, und lass dich von kreativen Ideen und digitalen Einladungen inspirieren.
@@ -45,4 +44,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du das Design ganz nach deinem Gesc
 Die Rolle der Großeltern bei Babypartys kann nicht hoch genug geschätzt werden. Indem du sie aktiv in die Planung und Durchführung einbindest, schaffst du nicht nur ein unvergessliches Event, sondern stärkst auch die familiären Bande. Vergiss nicht, die Einladungen stilvoll und persönlich zu gestalten – mit einer digitalen Einladung von [Invitivo](https://invitivo.com) wird deine Babyparty nicht nur schön, sondern auch unvergesslich.
 
 Planst du bald eine Babyparty? Lass dich von unseren Ideen inspirieren und mache dieses besondere Ereignis zu einem feierlichen Zusammensein für die ganze Familie – mit den Großeltern ganz vorne mit dabei!
-```

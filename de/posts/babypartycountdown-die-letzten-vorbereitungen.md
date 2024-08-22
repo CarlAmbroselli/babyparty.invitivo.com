@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty-Countdown: Die letzten Vorbereitungen für die perfekte Feier"
 description: Entdecke wertvolle Tipps für die letzten Tage vor deiner Babyparty und erfahre, wie du mit digitalen Einladungen von Invitivo den Überblick behältst.
@@ -48,4 +47,3 @@ Die letzten Tage vor der Babyparty sind aufregend und können auch etwas stressi
 Denke daran, dass es nicht nur um die perfekte Dekoration oder das beste Essen geht. Es geht darum, Erinnerungen zu schaffen, die ein Leben lang halten. Lass dich von der Vorfreude mitreißen und genieße das Abenteuer der Vorbereitung!
 
 Bereit für deine Babyparty? Lass uns gemeinsam dafür sorgen, dass sie unvergesslich wird!
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Eine doppelte Feier: Kreative Ideen für deine Babyparty und Gender Reveal"
 description: Entdecke, wie du eine unvergessliche Babyparty mit Gender Reveal kombinierst, inklusive besonderer Dekorationstipps und personalisierten digitalen Einladungen.
@@ -50,4 +49,3 @@ Stell dir vor: Anstatt einer schnöden Textnachricht erhält jeder deiner Gäste
 Die Kombination aus Babyparty und Gender Reveal ist eine wunderbare Möglichkeit, die Vorfreude auf das neue Leben zu feiern. Mit kreativen Ideen für die Dekoration, spannende Aktivitäten und einer einzigartigen Enthüllung schaffst du Erinnerungen, die ein Leben lang bleiben. Denk daran, deine Einladungen digital zu gestalten und setze auf [Invitivo](https://invitivo.com/) für eine persönliche Note, die deine Gäste begeistern wird.
 
 Bist du bereit, deine doppelte Feier zu planen? Lass dich von unseren Tipps inspirieren und mache deine Babyparty und Gender Reveal zu einem unvergesslichen Erlebnis voller Freude und Lachen!
-```

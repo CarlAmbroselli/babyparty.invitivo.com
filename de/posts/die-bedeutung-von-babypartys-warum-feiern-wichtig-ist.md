@@ -1,4 +1,3 @@
-```
 ---
 title: "Die Bedeutung von Babypartys: Warum Feiern wichtig ist und wie digitale Einladungen den Unterschied machen"
 description: Entdecke die kulturelle und emotionale Bedeutung von Babypartys und wie digitale Einladungen von Invitivo deinem Fest eine persönliche Note verleihen können.
@@ -43,4 +42,3 @@ Die Möglichkeit, Einladungen individuell zu gestalten, macht Invitivo zu einer 
 Babypartys sind weit mehr als nur Feiern; sie sind Ausdruck von Liebe, Unterstützung und Tradition. Sie schaffen eine wertvolle Gemeinschaft, die das bevorstehende Abenteuer der Elternschaft umso schöner macht. Und während du darüber nachdenkst, wie du deine Babyparty gestalten möchtest, vergiss nicht, dass die Einladungen einen entscheidenden Unterschied machen können. Mit Invitivo hast du die Möglichkeit, deine Einladungen so einzigartig zu gestalten wie die Feier selbst. 
 
 Mach deine Babyparty zu einem unvergesslichen Erlebnis – für dich und deine Gäste. Feiere das Leben, die Liebe und die Vorfreude auf das, was kommt!
-```

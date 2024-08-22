@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Babyparty-Spiele für kreative Eltern: Spaß und Fantasie für kleine Gäste"
 description: Entdecke die originellsten Spiele für Babypartys, die Kreativität anregen und die Vorfreude auf den neuen Erdenbürger steigern – inklusive Tipps für personalisierte digitale Einladungen.
@@ -51,4 +50,3 @@ Ein großer Vorteil von Invitivo ist die einfache Handhabung. Deine Gäste könn
 Eine Babyparty sollte voller Kreativität, Spaß und unvergesslicher Momente sein. Mit den richtigen Spielen und einer persönlichen Note bei den Einladungen steht dem perfekten Fest nichts mehr im Weg. Nutze die oben genannten Ideen, um deine Gäste zu begeistern, und vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten. So wird deine Babyparty nicht nur ein Fest der Vorfreude, sondern auch ein nachhaltiges und stilvolles Event!
 
 Bereit, deine Babyparty zu planen? Lass deiner Kreativität freien Lauf und schaffe ein unvergessliches Erlebnis für alle Beteiligten – die Vorfreude auf das neue Baby ist schließlich der beste Grund zu feiern!
-```

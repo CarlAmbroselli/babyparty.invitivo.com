@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty-Accessoires: Must-Haves für eine unvergessliche Feier"
 description: Entdecke die unverzichtbaren Accessoires für deine Babyparty, die für strahlende Augen sorgen und erlebe, wie digitale Einladungen von Invitivo das Ganze perfektionieren.
@@ -48,4 +47,3 @@ Statt einer schnöden WhatsApp-Gruppe kannst du eine ansprechende Einladung vers
 Die richtigen Accessoires können eine Babyparty von nett zu unvergesslich verwandeln. Von bunten Ballons über kreative Fotowände bis hin zu praktischen Mitbring-Listen – mit diesen Must-Haves wird deine Feier ein voller Erfolg. Vergiss nicht, deine Einladungen mit einem Hauch von Stil und Persönlichkeit zu versehen, indem du die digitalen Einladungen von [Invitivo](https://invitivo.com) nutzt. So sorgst du dafür, dass deine Babyparty nicht nur schön, sondern auch gut organisiert ist.
 
 Bist du bereit, deine Babyparty zu planen? Lass dich von unseren Tipps inspirieren und mach dieses besondere Ereignis zu einem unvergesslichen Fest voller Freude und Lachen!
-```

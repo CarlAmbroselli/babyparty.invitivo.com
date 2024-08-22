@@ -1,4 +1,3 @@
-```
 ---
 title: "Tischkarten für die Babyparty: Kreative Ideen zur Personalisierung, die Herzen erobern"
 description: Entdecke, wie du Tischkarten für die Babyparty gestalten kannst, die jedem Gast ein Lächeln ins Gesicht zaubern – inklusive digitaler Einladungen, die mehr als nur eine Nachricht sind.
@@ -46,4 +45,3 @@ Mit Invitivo kannst du nicht nur wunderschöne Designs auswählen, sondern auch 
 Die Tischkarten für deine Babyparty können ganz einfach zu einem kreativen Teil deiner Feier werden. Egal, ob du Fotos, DIY-Designs oder umweltfreundliche Pflanzen nutzt – wichtig ist, dass sie die Freude und Vorfreude widerspiegeln, die mit der Ankunft eines neuen Lebens verbunden ist. Und vergiss nicht, mit einer liebevoll gestalteten [digitalen Einladung](https://invitivo.com/) den ersten Eindruck zu hinterlassen. 
 
 Mach deine Babyparty zu einem unvergesslichen Erlebnis, das nicht nur die Gäste begeistert, sondern auch in liebevoller Erinnerung bleibt – und das alles mit ein wenig Kreativität und einer Prise Spaß!
-```

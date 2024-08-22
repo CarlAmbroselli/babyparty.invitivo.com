@@ -1,4 +1,3 @@
-```
 ---
 title: "Die zeitlosesten Babyparty-Einladungen: Vintage-Designs für einen unvergesslichen Start ins Leben"
 description: Entdecke, wie du Einladungen im Vintage-Stil gestaltest, die nie aus der Mode kommen, und warum digitale Einladungen der neue Trend sind!
@@ -46,4 +45,3 @@ Ein weiterer großer Vorteil von digitalen Einladungen ist ihre Nachhaltigkeit. 
 Vintage-Designs bringen eine zeitlose Eleganz in jede Babyparty, und die Kombination mit digitalen Einladungen macht das Ganze nicht nur schöner, sondern auch praktischer. Mit [Invitivo](https://invitivo.com) kannst du die perfekte Einladung erstellen, die die Vorfreude auf das neue Leben stilvoll verkörpert. 
 
 Lass dich von den sanften Farben und nostalgischen Motiven inspirieren, und mache deine Babyparty zu einem unvergesslichen Erlebnis. Denke daran: Die besten Feiern beginnen mit einer liebevoll gestalteten Einladung – ganz gleich, ob in der Post oder digital in den Herzen deiner Gäste.
-```

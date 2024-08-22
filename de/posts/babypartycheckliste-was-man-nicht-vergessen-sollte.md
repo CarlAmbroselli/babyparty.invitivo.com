@@ -1,4 +1,3 @@
-```
 ---
 title: "Die ultimative Babyparty-Checkliste: Alles, was du nicht vergessen darfst!"
 description: Eine umfassende Checkliste für die perfekte Babyparty, inklusive wertvoller Tipps und kreativer Ideen für digitale Einladungen, die deinen Gästen ein Lächeln ins Gesicht zaubern.
@@ -61,4 +60,3 @@ Eine Babyparty zu planen kann stressig sein, aber deine Einladungen müssen es n
 Mit dieser Babyparty-Checkliste bist du bestens gerüstet, um eine unvergessliche Feier zu planen. Vergiss nicht, die digitale Einladung zu nutzen, um die Stimmung bereits vor der Feier zu setzen. Die Vorfreude auf das Baby kann nun beginnen – und mit den richtigen Vorbereitungen wird es ein Tag voller Freude, Lachen und unvergesslicher Momente.
 
 Bist du bereit, deine perfekte Babyparty zu planen? Lass dich von unseren Tipps inspirieren und mache diesen besonderen Tag zu einem unvergesslichen Erlebnis für alle Beteiligten!
-```

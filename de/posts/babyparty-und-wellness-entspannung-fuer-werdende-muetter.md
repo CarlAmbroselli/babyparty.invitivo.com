@@ -1,4 +1,3 @@
-```
 ---
 title: "Wellness für werdende Mütter: Die perfekte Babyparty zum Entspannen"
 description: Entdecke, wie du eine entspannende Babyparty mit Wellness-Elementen gestalten kannst, inklusive Tipps für digitale Einladungen, die den besonderen Anlass unterstreichen.
@@ -56,4 +55,3 @@ Eine Wellness-Babyparty ist eine hervorragende Möglichkeit, werdenden Müttern 
 Denke daran, auch bei den Einladungen auf eine persönliche Note zu setzen. Mit [Invitivo](https://invitivo.com/) kannst du digitale Einladungen gestalten, die den besonderen Anlass würdigen – ganz ohne Papierabfall. 
 
 Mach dich bereit, deine Babyparty in ein Wellness-Wochenende zu verwandeln, das nicht nur feierlich, sondern auch erholsam ist. Lass uns die Vorfreude auf das neue Leben feiern – mit Stil, Entspannung und jeder Menge Liebe.
-```

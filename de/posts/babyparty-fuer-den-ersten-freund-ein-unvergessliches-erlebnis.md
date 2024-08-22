@@ -1,4 +1,3 @@
-```
 ---
 title: "Die perfekte Babyparty für die erste Freundschaft: Tipps für ein unvergessliches Erlebnis"
 description: Entdecke, wie du eine unvergessliche Babyparty für das erste Freundschaftsband deines Kindes organisierst, inklusive kreativer Ideen und personalisierten digitalen Einladungen.
@@ -51,4 +50,3 @@ Statt die Einladungen in einer WhatsApp-Gruppe zu verschicken, solltest du die V
 Eine Babyparty für die erste Freundschaft ist eine wunderbare Gelegenheit, die ersten sozialen Bindungen deines Kindes zu feiern. Mit einer kreativen Location, hübschen digitalen Einladungen von [Invitivo](https://invitivo.com/) und unterhaltsamen Aktivitäten wird diese Feier zu einem unvergesslichen Erlebnis. Lass dich inspirieren und plane eine Feier, die in die Herzen aller Gäste eingeht!
 
 Bist du bereit, die erste Freundschaft deines Kindes gebührend zu feiern? Lass deiner Kreativität freien Lauf und mache aus der Babyparty ein großartiges Fest, das alle in bester Erinnerung behalten werden!
-```

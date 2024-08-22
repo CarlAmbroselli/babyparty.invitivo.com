@@ -1,4 +1,3 @@
-```
 ---
 title: "Von digital zu handgemacht: Kreative Einladungen für die Babyparty, die in Erinnerung bleibt"
 description: Entdecke kreative Ideen für digitale und handgemachte Einladungen für die perfekte Babyparty, die deine Gäste begeistern werden!
@@ -44,4 +43,3 @@ Warum sich entscheiden, wenn man beides haben kann? Du könntest eine digitale E
 Egal, ob du dich für digitale Einladungen von [Invitivo](https://invitivo.com/) oder für handgemachte Kunstwerke entscheidest – wichtig ist, dass die Einladung die Freude und Aufregung widerspiegelt, die mit der bevorstehenden Babyparty verbunden sind. Lass deiner Kreativität freien Lauf und sorge dafür, dass deine Gäste sich auf ein unvergessliches Ereignis freuen!
 
 Bist du bereit, deine Einladungen zu gestalten? Lass dich von unseren Ideen inspirieren und mache die bevorstehende Babyparty zu einem unvergesslichen Erlebnis für alle!
-```

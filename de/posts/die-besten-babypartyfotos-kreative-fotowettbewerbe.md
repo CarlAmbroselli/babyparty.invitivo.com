@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Fotowettbewerbe für deine Babyparty: Kreative Ideen für unvergessliche Erinnerungen"
 description: Entdecke originelle Fotowettbewerbe, die deiner Babyparty einen besonderen Touch verleihen, und erfahre, wie digitale Einladungen von Invitivo das Erlebnis perfektionieren.
@@ -45,4 +44,3 @@ Mit Invitivo kannst du kreative, digitale Einladungen gestalten, die die Vorfreu
 Ein Fotowettbewerb auf deiner Babyparty ist eine großartige Möglichkeit, Erinnerungen zu schaffen, die für immer bleiben. Mit ein wenig Kreativität, einer Prise Humor und der richtigen Planung wird deine Babyparty zu einem unvergesslichen Erlebnis für alle Gäste. Denke daran, deinen Gästen die besten digital gestalteten Einladungen zu senden – so wird der Start in das Abenteuer noch schöner.
 
 Bist du bereit, deine Babyparty zu planen? Lass dich von unseren Ideen inspirieren und mache deine Feier zu einem besonderen Moment voller Lachen, Kreativität und unvergesslicher Erinnerungen!
-```

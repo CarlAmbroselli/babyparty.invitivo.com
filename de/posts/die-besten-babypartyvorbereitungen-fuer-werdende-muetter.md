@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Vorbereitungen für deine eigene Babyparty: Tipps für werdende Mütter"
 description: Liebe werdende Mütter, hier sind die besten Tipps für die Vorbereitung auf eure eigene Babyparty – von kreativen Ideen bis hin zu digitalen Einladungen, die den besonderen Moment unterstreichen.
@@ -54,4 +53,3 @@ Die Verpflegung darf natürlich nicht fehlen! Überlege dir, ob du ein Buffet mi
 Mit diesen Tipps bist du bestens gewappnet, um deine eigene Babyparty zu organisieren und deinen besonderen Tag unvergesslich zu machen. Und vergiss nicht, die Einladungen stilvoll mit [Invitivo](https://invitivo.com/) zu versenden – für ein einzigartiges Erlebnis, das deine Gäste begeistern wird! 
 
 Also, schnapp dir dein Lieblingsnotizbuch und leg los! Es ist an der Zeit, das Babybauch-Glück zu feiern und all die aufregenden neuen Abenteuer, die vor dir liegen. Du hast das verdient!
-```

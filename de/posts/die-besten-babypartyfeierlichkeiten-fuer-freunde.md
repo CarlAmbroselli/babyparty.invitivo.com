@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Babyparty-Feierlichkeiten für Freunde: So planst du das perfekte Event"
 description: Entdecke kreative Ideen und persönliche digitale Einladungen für die beste Babyparty, die dein Baby und seine Freunde je erlebt haben.
@@ -46,4 +45,3 @@ Die Einladungen sind nicht nur optisch ansprechend, sondern auch praktisch. Die 
 Eine Babyparty für die Freunde deines Babys kann ein liebevolles und fröhliches Event werden, das alle in Feierlaune versetzt. Mit einem kreativen Thema, einer gut durchdachten Location und köstlichem Essen sorgst du dafür, dass sowohl die kleinen als auch die großen Gäste eine wundervolle Zeit haben. Und vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten – so wird schon der erste Eindruck deiner Feier etwas ganz Besonderes.
 
 Bereit, die besten Freunde deines Babys zusammenzubringen und eine unvergessliche Babyparty zu schmeißen? Lass dich von unseren Tipps inspirieren und kreiere ein Fest, das alle in den Bann zieht und die Vorfreude auf das neue Leben feiert!
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty ohne Plastik: Nachhaltige Alternativen für eine umweltfreundliche Feier"
 description: Entdecke kreative Ideen für eine nachhaltige Babyparty ohne Plastik, inklusive Tipps für digitale Einladungen, die persönlicher sind als eine WhatsApp-Gruppe.
@@ -43,4 +42,3 @@ Mit Invitivo kannst du deiner Einladung eine persönliche Note verleihen, indem 
 Eine Babyparty ohne Plastik ist nicht nur möglich, sondern macht auch viel Spaß! Mit ein paar kreativen Ideen und dem Einsatz von nachhaltigen Materialien kannst du ein unvergessliches Fest für die werdende Mutter und ihre Gäste organisieren. Denke daran, auch deine Einladungen umweltfreundlich zu gestalten und nutze dazu eine digitale Lösung wie [Invitivo](https://invitivo.com). So wird deine Babyparty nicht nur zu einem Fest voller Freude, sondern auch zu einem Beitrag für eine bessere Umwelt.
 
 Bist du bereit, deine Babyparty nachhaltig zu gestalten? Lass dich von unseren Tipps inspirieren und feiere ein Event, das nicht nur den neuen Lebensabschnitt ehrt, sondern auch unseren Planeten schützt!
-```

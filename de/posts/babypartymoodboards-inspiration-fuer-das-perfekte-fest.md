@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty-Moodboards: So kreierst du die perfekte Inspirationsquelle für dein Fest"
 description: Entdecke, wie du Moodboards für deine Babyparty erstellst und finde heraus, warum digitale Einladungen von Invitivo der perfekte Begleiter für dein Event sind.
@@ -50,4 +49,3 @@ Stell dir vor, deine Einladungen sind nicht nur ein simples „Komm vorbei“, s
 Moodboards sind eine fantastische Möglichkeit, um deine Ideen für die Babyparty zu visualisieren und zu organisieren. Sie helfen dir, die perfekte Stimmung zu kreieren und alles von der Dekoration bis zu den Snacks im Blick zu behalten. Und wenn es darum geht, deine Gäste einzuladen, ist Invitivo der perfekte Partner, um deine digitale Einladung zu gestalten und die Rückmeldungen mühelos zu verwalten.
 
 Mach dich bereit, deine Babyparty zu einem unvergesslichen Erlebnis zu machen – mit dem richtigen Moodboard und den zauberhaften digitalen Einladungen von Invitivo wird deine Feier ein voller Erfolg! Lass deiner Kreativität freien Lauf und genieße die Vorfreude auf dein Fest!
-```

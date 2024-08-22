@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Babyparty-Desserts: Süßes für einen unvergesslichen Tag"
 description: Entdecke kreative Rezepte und Ideen für Desserts, die auf jeder Babyparty ein Hit sind – inklusive Tipps für personalisierte digitale Einladungen.
@@ -49,4 +48,3 @@ Stell dir vor, wie deine Gäste überrascht sein werden, wenn sie eine kunstvoll
 ### **Fazit**
 
 Mit diesen süßen Dessert-Ideen wird deine Babyparty garantiert ein voller Erfolg. Und vergiss nicht, auch bei den Einladungen für einen WOW-Effekt zu sorgen! Nutze [Invitivo](https://invitivo.com), um deinen Gästen ein einzigartiges Erlebnis zu bieten, das sie nicht so schnell vergessen werden. Planst du deine nächste Babyparty? Lass dich von unseren Vorschlägen inspirieren und mache deinen besonderen Tag zu einem unvergesslichen Erlebnis voller süßer Leckereien und wunderschöner Erinnerungen!
-```

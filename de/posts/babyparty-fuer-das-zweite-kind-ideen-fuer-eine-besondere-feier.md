@@ -1,4 +1,3 @@
-```
 ---
 title: "Die perfekte Babyparty für das zweite Kind: Ideen für eine unvergessliche Feier"
 description: Entdecke kreative Ideen für eine Babyparty für das zweite Kind, die trotz Routine besonders wird, inklusive Tipps für persönliche digitale Einladungen.
@@ -48,4 +47,3 @@ Eine Babyparty für das zweite Kind kann genauso besonders und aufregend sein wi
 Denke daran, dass es nicht nur um das Baby geht, sondern auch um die ganze Familie und die neue Dynamik, die entsteht. Lass dich von unseren Ideen inspirieren und plane eine Feier, die alle begeistert – und vergiss nicht, die Einladungen über [Invitivo](https://invitivo.com) zu versenden, um deine Gäste stilvoll und nachhaltig einzuladen.
 
 Bereit für eine unvergessliche Babyparty? Lass die Vorfreude beginnen!
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Babyparty-Karten: Wünsche für das neue Leben"
 description: Entdecke kreative Ideen für Babyparty-Karten, die werdenden Eltern Glück und Freude wünschen, und wie digitale Einladungen von Invitivo das Feiern einfacher und persönlicher machen.
@@ -46,4 +45,3 @@ Stell dir vor, deine Gäste erhalten eine Einladung, die nicht nur schön aussie
 Die perfekten Babyparty-Karten sind eine wunderbare Möglichkeit, den werdenden Eltern Glück und Freude zu wünschen. Ob mit humorvollen Sprüchen oder kreativen Designs – der persönliche Touch macht den Unterschied. Und vergiss nicht: Digitale Einladungen von [Invitivo](https://invitivo.com) bringen nicht nur Stil, sondern auch praktische Vorteile mit sich. 
 
 Mach deine Babyparty zu einem unvergesslichen Erlebnis, indem du kreative Karten gestaltest und deine Einladungen modern und umweltfreundlich versendest. Lass uns gemeinsam feiern und die Vorfreude auf das neue Leben zelebrieren!
-```

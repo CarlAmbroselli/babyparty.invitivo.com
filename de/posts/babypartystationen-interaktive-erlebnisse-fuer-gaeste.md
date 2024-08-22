@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty-Stationen: Interaktive Erlebnisse für deine Gäste"
 description: Entdecke kreative Stationen für eine unvergessliche Babyparty, die deine Gäste aktiv einbeziehen und für Unterhaltung sorgen – inklusive Tipps für persönliche digitale Einladungen.
@@ -46,4 +45,3 @@ Mit Invitivo kannst du deine Einladungen so gestalten, dass sie das Thema deiner
 Interaktive Stationen sind ein fantastischer Weg, um deine Babyparty zu einem unvergesslichen Erlebnis zu machen. Sie bringen die Gäste zusammen, fördern die Kreativität und sorgen für jede Menge Spaß. Denke auch daran, deine Einladungen persönlich und ansprechend zu gestalten – eine digitale Einladung von [Invitivo](https://invitivo.com/) ist der perfekte Start für deine Feier.
 
 Mit diesen Tipps wird deine Babyparty nicht nur ein Hit, sondern auch eine liebevolle Feier, die alle Beteiligten in ihren Bann zieht. Plane deine Stationen, gestalte deine Einladungen und freue dich auf ein unvergessliches Fest voller Lachen, Freude und Vorfreude auf das neue Leben!
-```

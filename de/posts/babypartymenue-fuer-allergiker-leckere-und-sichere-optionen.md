@@ -1,4 +1,3 @@
-```
 ---
 title: "Das perfekte Babyparty-Menü für Allergiker: Leckere, sichere Optionen für alle"
 description: Entdecke kreative und allergiefreundliche Rezepte für deine Babyparty, die alle Gäste glücklich machen und erfahre, wie digitale Einladungen den Planungsstress minimieren.
@@ -51,4 +50,3 @@ Stell dir vor: Jeder deiner Gäste erhält eine stilvolle Einladung, die sie mit
 Eine Babyparty für Allergiker muss nicht langweilig oder kompliziert sein. Mit köstlichen, allergiefreundlichen Speisen und einer durchdachten Planung kannst du sicherstellen, dass alle Gäste – unabhängig von ihren Unverträglichkeiten – eine tolle Zeit haben. Und vergiss nicht, deine Einladungen über [Invitivo](https://invitivo.com) zu versenden, um den Planungsstress zu minimieren und eine persönliche Note hinzuzufügen.
 
 Mach deine Babyparty zu einem unvergesslichen Erlebnis für alle, mit einem Menü, das wirklich jedem schmeckt. Schließlich zählt am Ende nicht nur das Essen, sondern auch die Freude, die du mit deinen Lieben teilst!
-```

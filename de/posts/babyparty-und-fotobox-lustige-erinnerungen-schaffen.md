@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty und Fotobox: Lustige Erinnerungen für die Ewigkeit festhalten"
 description: Entdecke, wie du eine Fotobox in deine Babyparty integrieren kannst, um unvergessliche Momente festzuhalten und deinen Gästen eine personalisierte digitale Einladung zu senden.
@@ -42,4 +41,3 @@ Die Kombination aus einer Fotobox und einer durchdachten digitalen Einladung ist
 Eine Babyparty ist die perfekte Gelegenheit, um mit Familie und Freunden zu feiern und unvergessliche Erinnerungen zu schaffen. Eine Fotobox bringt jeden zum Lachen und sorgt dafür, dass die besten Momente festgehalten werden. Ergänzt durch persönliche digitale Einladungen über Invitivo wird deine Babyparty zu einem Highlight für alle Beteiligten.
 
 Plane deine Babyparty mit diesen kreativen Ideen und mache sie zu einem unvergesslichen Erlebnis – für dich und deine Gäste. Und denke daran: Die besten Erinnerungen sind die, die man teilen kann – also lass die Fotobox für sich sprechen!
-```

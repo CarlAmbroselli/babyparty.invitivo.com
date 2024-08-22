@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty mit lokalem Flair: So feierst du nachhaltig und persönlich!"
 description: Entdecke die Vorteile, regionale Anbieter für Catering, Dekoration und Geschenke bei deiner Babyparty zu nutzen. Plus: Warum digitale Einladungen von Invitivo das i-Tüpfelchen sind!
@@ -46,4 +45,3 @@ Warum sich mit einer schnöden Nachricht zufriedengeben, wenn du mit Invitivo ei
 Eine Babyparty mit lokalem Flair ist nicht nur nachhaltig, sondern auch eine wunderbare Möglichkeit, die Gemeinschaft zu unterstützen und einzigartige Erlebnisse zu schaffen. Nutze regionale Produkte und Dienstleistungen für Catering, Dekoration und Geschenke, um deiner Feier eine persönliche Note zu verleihen. Und vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com) zu verschicken, um sicherzustellen, dass alles reibungslos abläuft.
 
 Bist du bereit, deine Babyparty zu planen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis, das die Vorfreude auf das neue Leben perfekt einfängt!
-```

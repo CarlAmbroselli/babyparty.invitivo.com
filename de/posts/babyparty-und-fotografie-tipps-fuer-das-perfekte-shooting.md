@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty-Fotografie: So fängst du die schönsten Momente ein!"
 description: Entdecke kreative Tipps für atemberaubende Fotos während deiner Babyparty und wie digitale Einladungen von Invitivo dein Event unvergesslich machen.
@@ -46,4 +45,3 @@ Stelle dir vor, wie deine Freunde und Familie begeistert die Einladung öffnen �
 Mit den richtigen Tipps zur Fotografie und der Wahl schöner digitaler Einladungen wird deine Babyparty zu einem unvergesslichen Erlebnis. Kreiere eine Atmosphäre, die Freude und Liebe ausstrahlt, und halte die schönsten Momente mit kreativen Bildern fest. Lass die Magie des Augenblicks in jeder Aufnahme erstrahlen und beginne die Feier mit stilvollen Einladungen von [Invitivo](https://invitivo.com/).
 
 Hast du Fragen oder benötigst du mehr Inspiration für deine Babyparty? Lass dich von unseren Tipps leiten und mache deine Feier zu einem unvergesslichen Fest voller Lachen, Liebe und Erinnerungen!
-```
