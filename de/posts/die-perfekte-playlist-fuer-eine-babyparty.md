@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist der perfekte Anlass, um die Vorfreude auf das neue Familienmitglied mit Freunden und Familie zu teilen. Wenn die Luft voller Freude und Aufregung ist, braucht es nur noch die richtige Musik, um die Stimmung auf das nächste Level zu heben. Aber keine Sorge, wir haben die perfekte Playlist für dich zusammengestellt – und dazu noch einige geniale Tipps für digitale Einladungen, die deine Gäste begeistern werden!
 
-![Musik für die Babyparty](/img/babyparty-music.webp)
+![Musik für die Babyparty](/img/picnic-park.webp)
 
 ### 1. **Die Basics: Gute Laune und Vorfreude**
 

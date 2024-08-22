@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist wie eine große Umarmung für die werdende Mutter und ein herzliches Willkommen für das kleine Wunder, das bald das Licht der Welt erblickt. Sie ist ein Fest der Freude, der Farben und der ungehemmten Begeisterung – und was wäre eine solche Feier ohne die perfekten Accessoires? In diesem Artikel zeigen wir dir, welche Must-Haves deine Babyparty in ein unvergessliches Erlebnis verwandeln und wie du mit digitalen Einladungen von Invitivo den ersten Schritt in Richtung einer stilvollen Feier machst.
 
-![Babyparty-Accessoires](/img/babyparty-accessories.webp)
+![Babyparty-Accessoires](/img/picnic-park.webp)
 
 ### 1. **Ballon-Bouquets – Der Himmel ist das Limit!**
 
@@ -36,9 +36,9 @@ Eine Mitbring-Liste ist nicht nur praktisch, sondern sorgt auch dafür, dass jed
 
 ### **Digitale Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Bevor du all diese tollen Accessoires besorgst, denk daran, wie wichtig die Einladung ist. Sie ist das erste, was deine Gäste sehen, und sollte den Ton für die gesamte Feier setzen. Mit [Invitivo](https://invitivo.com) kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur stilvoll sind, sondern auch praktisch. 
+Bevor du all diese tollen Accessoires besorgst, denk daran, wie wichtig die Einladung ist. Sie ist das erste, was deine Gäste sehen, und sollte den Ton für die gesamte Feier setzen. Mit [Invitivo](https://invitivo.com) kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur stilvoll sind, sondern auch praktisch.
 
-Statt einer schnöden WhatsApp-Gruppe kannst du eine ansprechende Einladung versenden, die alle wichtigen Informationen auf einen Blick bietet. Deine Gäste können direkt auf die Einladung antworten und haben die Möglichkeit, Geschenke einzutragen oder sogar zu sehen, was andere mitbringen möchten. 
+Statt einer schnöden WhatsApp-Gruppe kannst du eine ansprechende Einladung versenden, die alle wichtigen Informationen auf einen Blick bietet. Deine Gäste können direkt auf die Einladung antworten und haben die Möglichkeit, Geschenke einzutragen oder sogar zu sehen, was andere mitbringen möchten.
 
 **Tipp für die Gestaltung:** Füge coole GIFs oder hübsche Bilder hinzu, die das Thema deiner Babyparty unterstreichen. Und wenn sich etwas ändert – kein Problem! Mit Invitivo kannst du deine Einladung jederzeit anpassen und alle Gäste schnell informieren.
 

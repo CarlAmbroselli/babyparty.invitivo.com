@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyshower ist mehr als nur eine Feier – es ist ein Fest der Vorfreude, eine liebevolle Umarmung für das neue Leben, das bald das Licht der Welt erblickt. Aber bevor die Geschenke ausgepackt und die Spiele gespielt werden, gibt es eine große Aufgabe: die Einladungen! Warum mit einer langweiligen WhatsApp-Gruppe beginnen, wenn du deine Gäste mit einer kreativen, digitalen Einladung überraschen kannst? Hier sind 10 unkonventionelle Ideen, die deine Babyshower zu einem unvergesslichen Ereignis machen!
 
-![Kreative Babyshower-Einladung](/img/babyshower-invitation.webp)
+![Kreative Babyshower-Einladung](/img/picnic-park.webp)
 
 ### 1. **Die Flaschenpost – Ein Hauch von Abenteuer**
 
@@ -58,6 +58,6 @@ Warum nicht die kreative Einladung gleich mit einem hervorragenden Tool umsetzen
 
 ### **Fazit**
 
-Mit diesen 10 unkonventionellen Ideen wird deine Babyshower-Einladung garantiert zum Gesprächsthema. Lass deiner Kreativität freien Lauf und mache den ersten Schritt zu einem unvergesslichen Fest. Und vergiss nicht: Mit Invitivo hast du nicht nur eine stilvolle Einladung, sondern auch eine einfache Möglichkeit, die Rückmeldungen deiner Gäste im Blick zu behalten. Mach deine Babyshower zu einem einmaligen Erlebnis – und das fängt schon mit der Einladung an! 
+Mit diesen 10 unkonventionellen Ideen wird deine Babyshower-Einladung garantiert zum Gesprächsthema. Lass deiner Kreativität freien Lauf und mache den ersten Schritt zu einem unvergesslichen Fest. Und vergiss nicht: Mit Invitivo hast du nicht nur eine stilvolle Einladung, sondern auch eine einfache Möglichkeit, die Rückmeldungen deiner Gäste im Blick zu behalten. Mach deine Babyshower zu einem einmaligen Erlebnis – und das fängt schon mit der Einladung an!
 
 Bereit, deine Gäste zu überraschen? Lass uns gemeinsam das Abenteuer beginnen!

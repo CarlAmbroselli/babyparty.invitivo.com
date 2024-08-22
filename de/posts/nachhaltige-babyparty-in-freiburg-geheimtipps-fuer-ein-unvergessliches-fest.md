@@ -50,7 +50,7 @@ Die Zähringer Burg, die über Freiburg thront, bietet nicht nur einen einmalige
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um deine Babyparty nachhaltig zu gestalten, solltest du auch bei den Einladungen auf Umweltfreundlichkeit achten. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, wie wäre es mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/)? Auf Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch einen persönlichen Touch haben. 
+Um deine Babyparty nachhaltig zu gestalten, solltest du auch bei den Einladungen auf Umweltfreundlichkeit achten. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, wie wäre es mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/)? Auf Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch einen persönlichen Touch haben.
 
 Mit [Invitivo](https://invitivo.com/) hast du die Möglichkeit, deine Einladungen ganz nach deinem Geschmack zu gestalten. Deine Gäste können die Einladung mit nur einem Klick annehmen, und das alles ohne Papierabfall und unnötigen CO2-Fußabdruck.
 

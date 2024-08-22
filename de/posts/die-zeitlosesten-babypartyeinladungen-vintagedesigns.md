@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty zu planen, ist wie das Erstellen eines kleinen Meisterwerks – jeder Pinselstrich, jede Entscheidung, jede Einladung trägt zur Magie des Moments bei. Wenn du auf der Suche nach einem Stil bist, der niemals aus der Mode kommt, dann lass dich von der Nostalgie des Vintage-Designs inspirieren. Vintage ist nicht nur ein Trend, sondern ein zeitloser Klassiker, der deinen Gästen ein Lächeln ins Gesicht zaubert. Also schnapp dir deine besten Ideen und lass uns eintauchen in die Welt der charmanten Einladungen!
 
-![Vintage Babyparty Einladung](/img/vintage-babyparty.webp)
+![Vintage Babyparty Einladung](/img/picnic-park.webp)
 
 ### 1. **Die Farben der Nostalgie: Sanfte Töne und Pastellträume**
 
@@ -24,7 +24,7 @@ Vintage-Designs leben von sanften Farben und zarten Mustern. Denke an Pastelltö
 
 ### 2. **Papierliebe oder digitale Eleganz?**
 
-Traditionell wurden Einladungen auf schönem Papier verschickt – aber in der heutigen Zeit gibt es eine umweltfreundliche und ebenso stilvolle Alternative: digitale Einladungen. Warum also nicht den Vintage-Stil mit moderner Technologie verbinden? Digitale Einladungen bieten die Möglichkeit, das nostalgische Design mit einem Hauch von Innovation zu kombinieren. 
+Traditionell wurden Einladungen auf schönem Papier verschickt – aber in der heutigen Zeit gibt es eine umweltfreundliche und ebenso stilvolle Alternative: digitale Einladungen. Warum also nicht den Vintage-Stil mit moderner Technologie verbinden? Digitale Einladungen bieten die Möglichkeit, das nostalgische Design mit einem Hauch von Innovation zu kombinieren.
 
 Mit [Invitivo](https://invitivo.com/create) kannst du wunderschöne digitale Einladungen im Vintage-Stil erstellen, die nicht nur umweltfreundlich sind, sondern auch eine ganz persönliche Note haben. Sie sind einfach zu gestalten, und deine Gäste werden die liebevolle Kreativität zu schätzen wissen.
 
@@ -42,6 +42,6 @@ Ein weiterer großer Vorteil von digitalen Einladungen ist ihre Nachhaltigkeit. 
 
 ### **Fazit**
 
-Vintage-Designs bringen eine zeitlose Eleganz in jede Babyparty, und die Kombination mit digitalen Einladungen macht das Ganze nicht nur schöner, sondern auch praktischer. Mit [Invitivo](https://invitivo.com) kannst du die perfekte Einladung erstellen, die die Vorfreude auf das neue Leben stilvoll verkörpert. 
+Vintage-Designs bringen eine zeitlose Eleganz in jede Babyparty, und die Kombination mit digitalen Einladungen macht das Ganze nicht nur schöner, sondern auch praktischer. Mit [Invitivo](https://invitivo.com) kannst du die perfekte Einladung erstellen, die die Vorfreude auf das neue Leben stilvoll verkörpert.
 
 Lass dich von den sanften Farben und nostalgischen Motiven inspirieren, und mache deine Babyparty zu einem unvergesslichen Erlebnis. Denke daran: Die besten Feiern beginnen mit einer liebevoll gestalteten Einladung – ganz gleich, ob in der Post oder digital in den Herzen deiner Gäste.

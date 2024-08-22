@@ -34,7 +34,7 @@ Ein Picknick im Stadtpark von Heilbronn ist eine weitere großartige Option für
 
 ### 3. **Feier im eigenen Garten – Persönlich und individuell**
 
-Wenn du einen eigenen Garten hast, nutze diesen Raum für eine intime Babyparty. Dekoriere deinen Garten mit Lichtern, Laternen und bunten Ballons, um eine festliche Stimmung zu schaffen. 
+Wenn du einen eigenen Garten hast, nutze diesen Raum für eine intime Babyparty. Dekoriere deinen Garten mit Lichtern, Laternen und bunten Ballons, um eine festliche Stimmung zu schaffen.
 
 **Tipp für die Dekoration:** Nutze nachhaltige Materialien wie recycelte Pappteller und biologisch abbaubare Ballons, um die Umwelt zu schonen.
 
@@ -42,7 +42,7 @@ Wenn du einen eigenen Garten hast, nutze diesen Raum für eine intime Babyparty.
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um deine Babyparty nachhaltig zu gestalten, solltest du auch bei den Einladungen auf Umweltfreundlichkeit achten. Anstelle einer weiteren WhatsApp-Gruppe kannst du wunderschöne [digitale Einladungen erstellen](https://invitivo.com/), die nicht nur nachhaltig sind, sondern auch eine persönliche Note haben. 
+Um deine Babyparty nachhaltig zu gestalten, solltest du auch bei den Einladungen auf Umweltfreundlichkeit achten. Anstelle einer weiteren WhatsApp-Gruppe kannst du wunderschöne [digitale Einladungen erstellen](https://invitivo.com/), die nicht nur nachhaltig sind, sondern auch eine persönliche Note haben.
 
 Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell gestalten – von der Farbwahl bis zu den Texten, die genau zu deiner Babyparty passen. Deine Gäste erhalten eine ansprechende Einladung, die sie mit nur einem Klick annehmen können. So vermeidest du Papierabfall und schaffst gleichzeitig ein einzigartiges Erlebnis.
 

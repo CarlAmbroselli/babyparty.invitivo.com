@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur eine Feier, sondern ein magisches Ereignis, das den Beginn einer neuen Reise markiert. Es ist der Moment, in dem sich Freunde und Familie versammeln, um das Leben zu feiern, das bald das Licht der Welt erblicken wird. Doch wie hält man all diese kostbaren Augenblicke fest? Hier sind einige kreative Tipps, um die besten Fotos während deiner Babyparty zu machen und gleichzeitig den perfekten Rahmen für digitale Einladungen zu schaffen.
 
-![Babyparty-Fotoshooting](/img/babyparty-photoshoot.webp)
+![Babyparty-Fotoshooting](/img/picnic-park.webp)
 
 ### 1. **Die richtige Location – Licht ist alles!**
 

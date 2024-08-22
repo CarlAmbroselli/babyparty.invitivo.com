@@ -34,7 +34,7 @@ Für eine etwas außergewöhnliche Babyparty könnte ein Ausflug zu den Wiblinge
 
 ### 3. **Der Reutlinger Wochenmarkt – Kulinarische Köstlichkeiten und lokale Anbieter**
 
-Ein Besuch auf dem Reutlinger Wochenmarkt kann eine kreative Möglichkeit sein, deine Babyparty zu gestalten. Die bunten Stände mit frischen Produkten und lokalen Köstlichkeiten bieten eine fantastische Kulisse für ein Fest. 
+Ein Besuch auf dem Reutlinger Wochenmarkt kann eine kreative Möglichkeit sein, deine Babyparty zu gestalten. Die bunten Stände mit frischen Produkten und lokalen Köstlichkeiten bieten eine fantastische Kulisse für ein Fest.
 
 **Tipp für die Dekoration:** Setze auf eine bunte Marktbude mit natürlichen Materialien und frischen Blumen, um die Atmosphäre des Marktes zu unterstreichen.
 

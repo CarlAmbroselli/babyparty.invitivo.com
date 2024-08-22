@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 München, die Hauptstadt Bayerns, bietet nicht nur traditionelle Biergärten, sondern auch eine Vielzahl an stilvollen, bohemian-inspirierten Locations, die sich perfekt für eine trendige Babyparty eignen. In diesem Blogpost stellen wir dir die schönsten Cafés und Orte vor, die den Boho-Chic perfekt einfangen und deiner Babyparty einen einzigartigen Touch verleihen.
 
-![Boho-Stil Babyparty in München](/img/boho-babyparty-muenchen.webp)
+![Boho-Stil Babyparty in München](/img/picnic-park.webp)
 
 ### 1. **Café Jasmin – Vintage-Charme im Herzen Münchens**
 

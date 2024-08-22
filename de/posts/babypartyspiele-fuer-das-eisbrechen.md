@@ -11,9 +11,9 @@ tags:
 layout: layouts/post.njk
 ---
 
-Eine Babyparty ist der perfekte Anlass, um das bevorstehende Abenteuer der Elternschaft zu feiern. Doch wie sorgt man dafür, dass die Stimmung gleich zu Beginn richtig fröhlich wird? Die Antwort liegt in den richtigen Eisbrecher-Spielen! Diese unterhaltsamen Aktivitäten bringen die Gäste zusammen und helfen, etwaige Nervosität in Lachen und Freude zu verwandeln. 
+Eine Babyparty ist der perfekte Anlass, um das bevorstehende Abenteuer der Elternschaft zu feiern. Doch wie sorgt man dafür, dass die Stimmung gleich zu Beginn richtig fröhlich wird? Die Antwort liegt in den richtigen Eisbrecher-Spielen! Diese unterhaltsamen Aktivitäten bringen die Gäste zusammen und helfen, etwaige Nervosität in Lachen und Freude zu verwandeln.
 
-![Babyparty-Spiele](/img/babyparty-games.webp)
+![Babyparty-Spiele](/img/picnic-park.webp)
 
 ### 1. **Die Baby-Bingo-Challenge**
 

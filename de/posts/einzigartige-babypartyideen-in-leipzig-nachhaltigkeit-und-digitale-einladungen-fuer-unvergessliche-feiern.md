@@ -42,7 +42,7 @@ Der Leipziger Auwald ist ein wahres Naturparadies, ideal für eine Babyparty in 
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty in Leipzig ist eine wunderbare Gelegenheit, nachhaltig zu feiern. Warum also nicht auch bei den Einladungen umweltfreundlich denken? Anstatt eine weitere WhatsApp-Gruppe zu erstellen, solltest du die Möglichkeit in Betracht ziehen, eine [digitale Einladung für deine Babyparty](https://invitivo.com/) zu gestalten. Invitivo bietet dir die Möglichkeit, wunderschöne, personalisierte digitale Einladungen zu erstellen, die nicht nur umweltfreundlich sind, sondern auch eine individuelle Note haben. 
+Eine Babyparty in Leipzig ist eine wunderbare Gelegenheit, nachhaltig zu feiern. Warum also nicht auch bei den Einladungen umweltfreundlich denken? Anstatt eine weitere WhatsApp-Gruppe zu erstellen, solltest du die Möglichkeit in Betracht ziehen, eine [digitale Einladung für deine Babyparty](https://invitivo.com/) zu gestalten. Invitivo bietet dir die Möglichkeit, wunderschöne, personalisierte digitale Einladungen zu erstellen, die nicht nur umweltfreundlich sind, sondern auch eine individuelle Note haben.
 
 Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen kreativ gestalten, inklusive ansprechender Designs, GIFs und Texten, die genau zu deiner Babyparty passen. So erhalten deine Gäste eine Einladung, die sie mit nur einem Klick annehmen können – und das alles ohne Papierabfall.
 

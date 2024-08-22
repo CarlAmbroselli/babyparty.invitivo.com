@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur eine Feier, sondern auch eine Gelegenheit, Erinnerungen zu schaffen, die ein Leben lang halten. Was könnte da besser sein, als ein kreativer Fotowettbewerb, der alle Gäste zum Lachen bringt und gleichzeitig unvergessliche Momente festhält? Hier sind einige spannende Ideen, wie du den perfekten Fotowettbewerb für deine Babyparty organisieren kannst.
 
-![Babyparty Fotos](/img/babyparty-fotos.webp)
+![Babyparty Fotos](/img/picnic-park.webp)
 
 ### 1. **„Baby-Momente“ – Schnapp dir das perfekte Bild!**
 

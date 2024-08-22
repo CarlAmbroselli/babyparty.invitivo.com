@@ -13,17 +13,17 @@ layout: layouts/post.njk
 
 Eine Babyparty zu feiern ist wie das erste Kapitel in einem wunderschönen Buch, das du mit deiner Familie und Freunden schreibst. Die Vorfreude, das Lachen und die kleinen Freudentränen schaffen Erinnerungen, die ein Leben lang halten. Doch wenn die letzte Torte gegessen und die Dekoration abgebaut ist, stellt sich die Frage: Was nun? Wie bleibst du nach der Babyparty organisiert und hältst die unvergesslichen Momente fest? Hier sind einige erprobte Tipps für die Nachbereitung deiner Babyparty!
 
-![Babyparty Erinnerungen](/img/babyparty-memories.webp)
+![Babyparty Erinnerungen](/img/picnic-park.webp)
 
 ### 1. **Erinnerungen festhalten: Das perfekte Album erstellen**
 
-Nachdem der letzte Gast nach Hause gegangen ist, ist es Zeit, die vielen Fotos und Videos zu sichten! Erstelle ein digitales Album, das die schönsten Momente deiner Babyparty festhält. Sortiere die Bilder in Kategorien – von den Dekorationen über die Spiele bis hin zu den herzlichen Momenten mit Familie und Freunden. Du kannst sogar kleine Notizen hinzufügen, um die Geschichten hinter den Bildern festzuhalten. 
+Nachdem der letzte Gast nach Hause gegangen ist, ist es Zeit, die vielen Fotos und Videos zu sichten! Erstelle ein digitales Album, das die schönsten Momente deiner Babyparty festhält. Sortiere die Bilder in Kategorien – von den Dekorationen über die Spiele bis hin zu den herzlichen Momenten mit Familie und Freunden. Du kannst sogar kleine Notizen hinzufügen, um die Geschichten hinter den Bildern festzuhalten.
 
 **Tipp für die Gestaltung:** Nutze Online-Tools oder Apps, um ein kreatives Fotobuch zu gestalten. So hast du ein wunderschönes Andenken, das du mit deinem Baby teilen kannst, wenn es älter wird.
 
 ### 2. **Dankeskarten: Die persönliche Note**
 
-Die Babyparty ist vorbei, aber das Dankeschön steht noch aus! Setze dich mit einem Glas Sekt und einer Liste deiner Gäste hin und schreibe persönliche Dankeskarten. Das zeigt Wertschätzung und hinterlässt einen bleibenden Eindruck. 
+Die Babyparty ist vorbei, aber das Dankeschön steht noch aus! Setze dich mit einem Glas Sekt und einer Liste deiner Gäste hin und schreibe persönliche Dankeskarten. Das zeigt Wertschätzung und hinterlässt einen bleibenden Eindruck.
 
 **Tipp für die Einladungen:** Warum nicht auch hier auf digitale Einladungen zurückgreifen? Mit [Invitivo](https://invitivo.com/) kannst du nicht nur deine Einladungen gestalten, sondern auch ein kreatives Dankeschön verschicken. Eine schöne digitale Karte, die deine Dankbarkeit in einem stilvollen Design ausdrückt, macht den Unterschied und ist zudem umweltfreundlich!
 
@@ -35,7 +35,7 @@ Eine Babyparty bringt oft viele Geschenke mit sich – von süßen Stramplern bi
 
 ### 4. **Die besten Momente teilen: Social Media und Erinnerungsplattformen**
 
-Einige deiner Gäste haben sicher tolle Fotos gemacht, die du selbst nicht erhaschen konntest. Erstelle eine private Gruppe auf Social Media oder nutze spezielle Plattformen, wo alle ihre Bilder teilen können. So entsteht ein gemeinsames Album voller Erinnerungen! 
+Einige deiner Gäste haben sicher tolle Fotos gemacht, die du selbst nicht erhaschen konntest. Erstelle eine private Gruppe auf Social Media oder nutze spezielle Plattformen, wo alle ihre Bilder teilen können. So entsteht ein gemeinsames Album voller Erinnerungen!
 
 **Tipp für die Gestaltung:** Du könntest auch einen Hashtag kreieren, den alle nutzen können, um die Bilder zu sammeln. Das macht es einfacher, alles an einem Ort zu finden!
 

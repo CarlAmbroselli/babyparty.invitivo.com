@@ -26,7 +26,7 @@ Der Stadtpark in Saarbrücken ist eine wunderbare Location für eine Babyparty i
 
 ### 2. **Café L'Art – Gemütliches Ambiente für eine Indoor-Babyparty**
 
-Wenn das Wetter nicht mitspielt, ist das Café L'Art eine perfekte Wahl für eine Babyparty. Mit seinem charmanten, künstlerischen Ambiente und leckerem Kaffee ist es ein einladender Ort, um mit Freunden und Familie zu feiern. 
+Wenn das Wetter nicht mitspielt, ist das Café L'Art eine perfekte Wahl für eine Babyparty. Mit seinem charmanten, künstlerischen Ambiente und leckerem Kaffee ist es ein einladender Ort, um mit Freunden und Familie zu feiern.
 
 **Tipp für die Dekoration:** Gestalte eine kleine Ecke mit persönlichen Fotos der werdenden Mutter und bunten Luftballons, die das Café in eine festliche Atmosphäre verwandeln.
 
@@ -34,7 +34,7 @@ Wenn das Wetter nicht mitspielt, ist das Café L'Art eine perfekte Wahl für ein
 
 ### 3. **Die Saar – Romantische Bootsfahrten für die Feier**
 
-Eine weitere originelle Idee für eine Babyparty in Saarbrücken ist eine Bootsfeier auf der Saar. Miete ein kleines Boot und genieße die Aussicht auf die Stadt, während du mit deinen Gästen an Deck feierst. 
+Eine weitere originelle Idee für eine Babyparty in Saarbrücken ist eine Bootsfeier auf der Saar. Miete ein kleines Boot und genieße die Aussicht auf die Stadt, während du mit deinen Gästen an Deck feierst.
 
 **Tipp für die Dekoration:** Halte die Deko minimalistisch mit maritimen Elementen wie Muscheln und Seesterne, die die Wasseratmosphäre unterstreichen.
 
@@ -42,7 +42,7 @@ Eine weitere originelle Idee für eine Babyparty in Saarbrücken ist eine Bootsf
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Ein umweltfreundliches Fest beginnt bereits bei den Einladungen. Statt einer weiteren WhatsApp-Gruppe, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) versenden? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note bieten. 
+Ein umweltfreundliches Fest beginnt bereits bei den Einladungen. Statt einer weiteren WhatsApp-Gruppe, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) versenden? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note bieten.
 
 Statt einer einfachen Nachricht auf dem Smartphone erhalten deine Gäste eine stilvolle, ansprechende Einladung, die dem Anlass gerecht wird. Mit Invitivo kannst du kreative Designs und individuelle Texte gestalten, die deine Babyparty perfekt einfangen.
 

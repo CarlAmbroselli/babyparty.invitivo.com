@@ -12,13 +12,13 @@ tags:
 layout: layouts/post.njk
 ---
 
-Die Vorfreude auf das neue Familienmitglied ist riesig, und eine Babyshower ist der perfekte Anlass, um diese Freude mit Freunden und Familie zu teilen. Doch anstelle einer schnöden WhatsApp-Gruppe, die schnell in einem chaotischen Nachrichtenstrom untergeht, gibt es eine viel schönere und persönlichere Lösung: digitale Einladungen! In diesem Blogartikel zeigen wir dir, wie du mit ein paar einfachen Tools und kreativen Ideen deine eigenen digitalen Einladungen für die Babyshower gestalten kannst. 
+Die Vorfreude auf das neue Familienmitglied ist riesig, und eine Babyshower ist der perfekte Anlass, um diese Freude mit Freunden und Familie zu teilen. Doch anstelle einer schnöden WhatsApp-Gruppe, die schnell in einem chaotischen Nachrichtenstrom untergeht, gibt es eine viel schönere und persönlichere Lösung: digitale Einladungen! In diesem Blogartikel zeigen wir dir, wie du mit ein paar einfachen Tools und kreativen Ideen deine eigenen digitalen Einladungen für die Babyshower gestalten kannst.
 
-![DIY Babyshower Einladung](/img/babyshower-invitation.webp)
+![DIY Babyshower Einladung](/img/picnic-park.webp)
 
 ### 1. **Die richtige Plattform auswählen: Invitivo**
 
-Bevor wir in die kreative Gestaltung eintauchen, lass uns über die Wahl der richtigen Plattform sprechen. Invitivo ist eine wunderbare Option, um deine Einladungen zu erstellen. Hier kannst du nicht nur stilvolle Designs auswählen, sondern auch deine Einladungen individuell anpassen. So wird jede Einladung zu einem einzigartigen Kunstwerk, das deinen Gästen sofort zeigt, wie besonders dieser Tag für dich ist. 
+Bevor wir in die kreative Gestaltung eintauchen, lass uns über die Wahl der richtigen Plattform sprechen. Invitivo ist eine wunderbare Option, um deine Einladungen zu erstellen. Hier kannst du nicht nur stilvolle Designs auswählen, sondern auch deine Einladungen individuell anpassen. So wird jede Einladung zu einem einzigartigen Kunstwerk, das deinen Gästen sofort zeigt, wie besonders dieser Tag für dich ist.
 
 ### 2. **Gestaltungsideen für deine digitale Einladung**
 
@@ -46,6 +46,6 @@ Wenn deine Einladung fertig ist, kannst du sie direkt über Invitivo an deine G�
 
 ### **Fazit**
 
-Mit ein wenig Kreativität und den richtigen Tools kannst du wunderbare digitale Einladungen für deine Babyshower gestalten. Verabschiede dich von der herkömmlichen WhatsApp-Gruppe und setze auf die persönliche Note von Invitivo, um deinen Gästen eine Einladung zu schicken, die sie begeistern wird. 
+Mit ein wenig Kreativität und den richtigen Tools kannst du wunderbare digitale Einladungen für deine Babyshower gestalten. Verabschiede dich von der herkömmlichen WhatsApp-Gruppe und setze auf die persönliche Note von Invitivo, um deinen Gästen eine Einladung zu schicken, die sie begeistern wird.
 
 Mach deine Babyshower zu einem unvergesslichen Ereignis, das sowohl für dich als auch für deine Gäste etwas ganz Besonderes ist. Lass deiner Fantasie freien Lauf und genieße die Vorfreude auf das neue Familienmitglied – denn die beste Zeit kommt erst noch!

@@ -42,7 +42,7 @@ Der Stadtwald in Bergisch Gladbach ist der perfekte Ort für eine rustikale Baby
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um deine Babyparty nachhaltig zu gestalten, solltest du auch bei den Einladungen auf Umweltfreundlichkeit setzen. Statt einer weiteren WhatsApp-Gruppe, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) verwenden? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch einen viel persönlichen Touch haben. 
+Um deine Babyparty nachhaltig zu gestalten, solltest du auch bei den Einladungen auf Umweltfreundlichkeit setzen. Statt einer weiteren WhatsApp-Gruppe, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) verwenden? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch einen viel persönlichen Touch haben.
 
 Im Vergleich zu einfachen Nachrichten auf dem Smartphone bieten diese Einladungen eine ansprechende Gestaltung, die deinem besonderen Anlass gerecht wird. Deine Gäste können die Einladung mit nur einem Klick annehmen, und du vermeidest unnötigen Papierabfall und CO2-Emissionen.
 

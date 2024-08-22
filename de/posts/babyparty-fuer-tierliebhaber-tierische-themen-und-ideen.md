@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur ein Fest, sondern auch eine Möglichkeit, die Vorfreude auf das neue Leben gebührend zu feiern. Und was könnte da besser passen als eine Feier, die ganz im Zeichen der Tiere steht? Egal ob du ein Katzenfan, Hundefreund oder das Wildtier im Herzen trägst – hier sind einige kreative Ansätze, um eine tierische Babyparty zu gestalten, die sowohl Mensch als auch Tier begeistert!
 
-![Tierische Babyparty](/img/animal-baby-shower.webp)
+![Tierische Babyparty](/img/picnic-park.webp)
 
 ### 1. **Zootopia – Ein Erlebnis für Groß und Klein**
 

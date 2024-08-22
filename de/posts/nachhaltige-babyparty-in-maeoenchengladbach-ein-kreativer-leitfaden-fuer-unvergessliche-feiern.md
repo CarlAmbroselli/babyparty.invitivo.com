@@ -42,7 +42,7 @@ Der Botanische Garten ist ein wenig bekannter Schatz in Mönchengladbach und per
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um das Thema Nachhaltigkeit bei deiner Babyparty weiterzuführen, ist es wichtig, auch bei den Einladungen umweltbewusst zu handeln. Anstatt eine weitere WhatsApp-Gruppe zu gründen, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) erstellen? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch einen persönlichen Touch haben. 
+Um das Thema Nachhaltigkeit bei deiner Babyparty weiterzuführen, ist es wichtig, auch bei den Einladungen umweltbewusst zu handeln. Anstatt eine weitere WhatsApp-Gruppe zu gründen, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) erstellen? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch einen persönlichen Touch haben.
 
 Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen nach deinen Vorstellungen anpassen – von der Gestaltung bis hin zu den Texten. So erhält jeder Gast eine ansprechende Einladung, die sie mit nur einem Klick annehmen können. Das spart nicht nur Papier, sondern hinterlässt auch einen positiven Eindruck.
 

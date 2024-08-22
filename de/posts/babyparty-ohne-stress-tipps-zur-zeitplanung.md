@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist wie ein süßer Traum, der in den bunten Farben der Vorfreude strahlt. Doch oft verwandelt sich dieser Traum in einen Albtraum, wenn das Wort „Planung“ ins Spiel kommt. Keine Sorge, wir zeigen dir, wie du eine Babyparty ohne Stress auf die Beine stellst – ganz entspannt und mit einem cleveren Zeitmanagement. Und ja, digitale Einladungen sind der Schlüssel zu einer sorgenfreien Feier. Lass uns gemeinsam in die Welt der stressfreien Babyparty-Planung eintauchen!
 
-![Stressfreie Babyparty](/img/babyparty-stressfrei.webp)
+![Stressfreie Babyparty](/img/picnic-park.webp)
 
 ### 1. **Der Zeitplan: Dein bester Freund**
 
@@ -30,13 +30,13 @@ Mit Invitivo hast du die Möglichkeit, deine Einladungen individuell zu gestalte
 
 ### 3. **Die Gästeliste: Wen willst du wirklich dabei haben?**
 
-Eine klare Gästeliste ist Gold wert. Überlege dir, wen du wirklich einladen möchtest. Manchmal neigen wir dazu, die gesamte Verwandschaft einzuladen – und dann wird die Party schnell zu einem großen, unpersönlichen Event. Überlege, ob du eine intime Runde bevorzugst, in der sich jeder wohlfühlt. 
+Eine klare Gästeliste ist Gold wert. Überlege dir, wen du wirklich einladen möchtest. Manchmal neigen wir dazu, die gesamte Verwandschaft einzuladen – und dann wird die Party schnell zu einem großen, unpersönlichen Event. Überlege, ob du eine intime Runde bevorzugst, in der sich jeder wohlfühlt.
 
 **Tipp:** Nutze eine digitale Einladung, um deine Gästeliste im Blick zu behalten. Invitivo ermöglicht dir, die Zusagen auf einen Blick zu sehen, sodass du den Überblick behältst und dich nicht mit ständigen Nachfragen herumschlagen musst.
 
 ### 4. **Der Stressfaktor: Dekoration und Essen**
 
-Du hast deine Einladungen verschickt und die Gästeliste steht? Jetzt wird’s kreativ! Halte die Dekoration einfach und wähle ein Thema, das zur werdenden Mutter passt. Vielleicht etwas mit Teddybären oder einer sanften Farbpalette? 
+Du hast deine Einladungen verschickt und die Gästeliste steht? Jetzt wird’s kreativ! Halte die Dekoration einfach und wähle ein Thema, das zur werdenden Mutter passt. Vielleicht etwas mit Teddybären oder einer sanften Farbpalette?
 
 **Tipp für Essen:** Anstatt das gesamte Menü selbst zu kochen, könntest du überlegen, ob du Fingerfood bestellst oder die Gäste bittest, eine Kleinigkeit mitzubringen. So teilst du den Aufwand und jeder kann etwas beitragen!
 
@@ -46,8 +46,8 @@ Nichts ist schlimmer, als wenn etwas schiefgeht. Ein Plan B ist dein bester Freu
 
 ### **Fazit: Stressfrei zur perfekten Babyparty!**
 
-Mit einem durchdachten Zeitplan und der Unterstützung von digitalen Einladungen hast du alles, was du brauchst, um eine unvergessliche Babyparty zu planen. Denk daran, dass es um die Freude geht – sowohl für die werdende Mutter als auch für die Gäste. 
+Mit einem durchdachten Zeitplan und der Unterstützung von digitalen Einladungen hast du alles, was du brauchst, um eine unvergessliche Babyparty zu planen. Denk daran, dass es um die Freude geht – sowohl für die werdende Mutter als auch für die Gäste.
 
-Nutze Invitivo für deine Einladungen und mache diesen Teil der Planung so einfach wie möglich. Lass den Stress hinter dir und genieße die Vorfreude auf das große Event! 
+Nutze Invitivo für deine Einladungen und mache diesen Teil der Planung so einfach wie möglich. Lass den Stress hinter dir und genieße die Vorfreude auf das große Event!
 
 Mit unseren Tipps wird deine Babyparty nicht nur stressfrei, sondern auch ein tolles Erlebnis für alle Beteiligten. Mach dich bereit für ein fröhliches Fest voller Lachen, Freude und unvergesslicher Momente – und vergiss nicht, die digitalen Einladungen zu gestalten!

@@ -36,7 +36,7 @@ Der Alsterpark, der sich entlang der Außenalster erstreckt, bietet eine maleris
 
 Ein echter Geheimtipp für eine Babyparty ist der Alte Elbtunnel. Die historische Atmosphäre und der einzigartige Charme des Tunnels bieten einen besonderen Rahmen für deine Feier. Die Umgebung rund um den Tunnel ist perfekt für Fotos und bietet zahlreiche Möglichkeiten für kreative Aktivitäten.
 
-**Tipp für die Dekoration:** Setze auf eine rustikale Dekoration mit Holzelementen und Glühbirnen, die das historische Flair des Tunnels unterstreichen. 
+**Tipp für die Dekoration:** Setze auf eine rustikale Dekoration mit Holzelementen und Glühbirnen, die das historische Flair des Tunnels unterstreichen.
 
 **Aktivitäten im Freien:** Plane eine kleine Foto-Station, wo die Gäste lustige Erinnerungsfotos machen können. Auch eine DIY-Station für personalisierte Babygeschenke sorgt für viel Freude.
 
@@ -50,7 +50,7 @@ Das Viertel Sternschanze ist bekannt für seine kreative Atmosphäre und die vie
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty in Hamburg kann nicht nur schön, sondern auch nachhaltig sein. Warum nicht auch bei den Einladungen auf Umweltfreundlichkeit setzen? Statt einer weiteren WhatsApp-Gruppe, erstelle doch eine [digitale Einladung für deine Babyparty](https://invitivo.com/). Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur ressourcenschonend sind, sondern auch eine persönliche Note haben. 
+Eine Babyparty in Hamburg kann nicht nur schön, sondern auch nachhaltig sein. Warum nicht auch bei den Einladungen auf Umweltfreundlichkeit setzen? Statt einer weiteren WhatsApp-Gruppe, erstelle doch eine [digitale Einladung für deine Babyparty](https://invitivo.com/). Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur ressourcenschonend sind, sondern auch eine persönliche Note haben.
 
 Im Vergleich zu einer simplen Nachricht auf dem Smartphone bieten diese Einladungen eine hochwertige, ansprechende Gestaltung, die dem Anlass gerecht wird. Deine Gäste erhalten eine Einladung, die sie mit nur einem Klick annehmen können – und das alles ohne Papierabfall und unnötigen CO2-Fußabdruck.
 

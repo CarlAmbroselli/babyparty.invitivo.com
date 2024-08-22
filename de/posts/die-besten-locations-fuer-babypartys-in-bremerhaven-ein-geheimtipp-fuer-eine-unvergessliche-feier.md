@@ -36,7 +36,7 @@ Der Zoo am Meer bietet nicht nur eine Vielzahl von Tieren, sondern auch schöne 
 
 Die Hafenpromenade in Bremerhaven ist ein wunderschöner Ort für eine entspannte Babyparty. Hier kannst du die maritime Atmosphäre genießen und gleichzeitig die vorbeiziehenden Schiffe beobachten. Die Promenade bietet ausreichend Platz für ein Picknick und verschiedene Aktivitäten.
 
-**Tipp für die Dekoration:** Nutze maritime Elemente wie Muscheln, Netze und blaue Farben, um die Umgebung zu ergänzen. 
+**Tipp für die Dekoration:** Nutze maritime Elemente wie Muscheln, Netze und blaue Farben, um die Umgebung zu ergänzen.
 
 **Aktivitäten:** Baue eine kleine Spielstation mit Sandspielzeug auf, wo die Kinder kreativ werden können. Ein gemeinsames Picknick, bei dem jeder etwas mitbringt, sorgt für eine gemütliche Atmosphäre.
 

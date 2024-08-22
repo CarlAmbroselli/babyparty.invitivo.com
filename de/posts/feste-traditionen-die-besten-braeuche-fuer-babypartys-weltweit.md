@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf das neue Familienmitglied ist in vielen Kulturen ein Grund zum Feiern. Aber wie feiert man das? Von bunten Ritualen in Mexiko bis hin zu besinnlichen Bräuchen in Asien – Babypartys weltweit sind so vielfältig wie die Kulturen selbst. Hier nehmen wir dich mit auf eine Reise durch einige der schönsten Bräuche und zeigen dir, wie du deinen eigenen Festtag mit digitalen Einladungen von Invitivo unvergesslich machst!
 
-![Weltreise der Babypartys](/img/babyparty-world.webp)
+![Weltreise der Babypartys](/img/picnic-park.webp)
 
 ### 1. **Die „Baby Shower“ in den USA – Ein Fest voller Geschenke**
 

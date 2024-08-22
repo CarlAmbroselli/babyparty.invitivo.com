@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur ein Fest der Vorfreude, sondern auch eine großartige Gelegenheit, die besten Snacks auszupacken – und ich meine nicht nur die üblichen Chipstüten und Gummibärchen! Wenn du wirklich Eindruck schinden und für anregende Gespräche sorgen möchtest, sind ungewöhnliche Snacks der Schlüssel. Lass uns gemeinsam auf eine kulinarische Entdeckungsreise gehen, die selbst die wählerischsten Gäste begeistert!
 
-![Ungewöhnliche Snacks](/img/unusual-snacks.webp)
+![Ungewöhnliche Snacks](/img/picnic-park.webp)
 
 ### 1. **Baby-Möhren-Cocktails – Ein Hingucker auf jedem Tisch**
 
@@ -48,6 +48,6 @@ Stell dir vor, deine Gäste erhalten eine Einladung, die aussieht wie ein kleine
 
 ### **Fazit**
 
-Ungewöhnliche Snacks sind der Schlüssel zu einer unvergesslichen Babyparty! Von kreativen Obst-Sushi bis hin zu DIY-Candy-Bars – diese Ideen werden nicht nur den Gaumen erfreuen, sondern auch für reichlich Gesprächsstoff sorgen. Denke daran, deine Einladungen ebenso kreativ zu gestalten und nutze die Vorteile von [Invitivo](https://invitivo.com) für eine persönliche Note. So wird deine Babyparty zu einem Event, das noch lange in Erinnerung bleibt. 
+Ungewöhnliche Snacks sind der Schlüssel zu einer unvergesslichen Babyparty! Von kreativen Obst-Sushi bis hin zu DIY-Candy-Bars – diese Ideen werden nicht nur den Gaumen erfreuen, sondern auch für reichlich Gesprächsstoff sorgen. Denke daran, deine Einladungen ebenso kreativ zu gestalten und nutze die Vorteile von [Invitivo](https://invitivo.com) für eine persönliche Note. So wird deine Babyparty zu einem Event, das noch lange in Erinnerung bleibt.
 
 Bist du bereit, in die Welt der ungewöhnlichen Snacks einzutauchen und deine Gäste zu begeistern? Lass dich inspirieren und verwandle deine Babyparty in ein kulinarisches Fest, das alle Sinne anspricht!

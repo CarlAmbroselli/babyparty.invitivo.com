@@ -13,11 +13,11 @@ layout: layouts/post.njk
 
 Die Ankunft eines neuen kleinen Erdenbürgers ist ein Grund zum Feiern – und was gibt es Schöneres als eine Babyparty, um diesen besonderen Moment gebührend zu würdigen? Doch bevor die Feierlichkeiten beginnen, steht die Planung an. Keine Sorge! Mit der richtigen Checkliste wird deine Babyparty ein voller Erfolg und du kannst dich ganz auf die Vorfreude konzentrieren. Lass uns gemeinsam jeden Schritt durchgehen und dabei auch einen Blick auf digitale Einladungen werfen, die das Ganze noch einfacher machen!
 
-![Babyparty-Planung](/img/babyparty-planning.webp)
+![Babyparty-Planung](/img/picnic-park.webp)
 
 ### Schritt 1: Das Datum festlegen
 
-Zunächst einmal: Wann soll die große Feier stattfinden? Überlege dir ein Datum, das für die werdenden Eltern sowie für die Gäste geeignet ist. Ein Tipp: Wähle einen Sonntag oder einen Feiertag, das erhöht die Chancen, dass alle Zeit haben! 
+Zunächst einmal: Wann soll die große Feier stattfinden? Überlege dir ein Datum, das für die werdenden Eltern sowie für die Gäste geeignet ist. Ein Tipp: Wähle einen Sonntag oder einen Feiertag, das erhöht die Chancen, dass alle Zeit haben!
 
 ### Schritt 2: Das Budget festlegen
 
@@ -25,7 +25,7 @@ Wie viel möchtest du für die Babyparty ausgeben? Setze dir ein Budget, das die
 
 ### Schritt 3: Die Gäste einladen
 
-Jetzt wird es spannend! Stelle eine Liste der Menschen zusammen, die unbedingt dabei sein sollten. Familie, enge Freunde, Nachbarn – wer wird der kleine Schatz später umgeben? 
+Jetzt wird es spannend! Stelle eine Liste der Menschen zusammen, die unbedingt dabei sein sollten. Familie, enge Freunde, Nachbarn – wer wird der kleine Schatz später umgeben?
 
 ### **Digitale Einladungen mit [Invitivo](https://invitivo.com/create)**
 
@@ -45,7 +45,7 @@ Um die Stimmung aufzulockern, sind kreative Aktivitäten ein Muss! Denke an Spie
 
 ### Schritt 7: Geschenke und Überraschungen
 
-Hast du schon darüber nachgedacht, wie die Gäste ihre Geschenke überreichen sollen? Eine gemeinsame Geschenketisch-Übergabe ist immer schön, aber auch eine DIY-Überraschung, bei der sie kleine, selbstgemachte Geschenke bringen, könnte für viel Freude sorgen. 
+Hast du schon darüber nachgedacht, wie die Gäste ihre Geschenke überreichen sollen? Eine gemeinsame Geschenketisch-Übergabe ist immer schön, aber auch eine DIY-Überraschung, bei der sie kleine, selbstgemachte Geschenke bringen, könnte für viel Freude sorgen.
 
 ### **Einladungen: Der erste Eindruck zählt**
 
@@ -53,6 +53,6 @@ Mit [Invitivo](https://invitivo.com/) hebst du deine Einladungen auf ein neues L
 
 ### Fazit
 
-Die Planung einer Babyparty muss nicht stressig sein! Mit dieser Checkliste behältst du den Überblick und sorgst dafür, dass die Feier ein unvergessliches Erlebnis wird. Denke daran, die Einladungen mit [Invitivo](https://invitivo.com/) zu gestalten, um deinen Gästen einen tollen ersten Eindruck zu vermitteln und die Organisation zu erleichtern. 
+Die Planung einer Babyparty muss nicht stressig sein! Mit dieser Checkliste behältst du den Überblick und sorgst dafür, dass die Feier ein unvergessliches Erlebnis wird. Denke daran, die Einladungen mit [Invitivo](https://invitivo.com/) zu gestalten, um deinen Gästen einen tollen ersten Eindruck zu vermitteln und die Organisation zu erleichtern.
 
 Mach dich bereit, diesen neuen Lebensabschnitt gebührend zu feiern – mit Lachen, Freude und jeder Menge Liebe!

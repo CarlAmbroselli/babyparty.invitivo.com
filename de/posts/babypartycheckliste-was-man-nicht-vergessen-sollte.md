@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf eine Babyparty ist wie das Öffnen eines Geschenks – jeder Schritt ist aufregend, aber man möchte sicherstellen, dass alles perfekt ist. Um sicherzustellen, dass du nichts vergisst und die Feier zu einem unvergesslichen Erlebnis wird, haben wir eine umfassende Checkliste für dich erstellt. Lass uns gemeinsam in die Welt der Babypartys eintauchen und alles besprechen, was du für diesen besonderen Tag brauchst!
 
-![Babyparty Checkliste](/img/babyparty-checkliste.webp)
+![Babyparty Checkliste](/img/picnic-park.webp)
 
 ### 1. **Die Gästeliste: Wer kommt zur Feier?**
 

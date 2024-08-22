@@ -50,7 +50,7 @@ Die Kiellinie ist nicht nur ein beliebter Ort für Spaziergänge, sondern bietet
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty in einem der wunderschönen Kieler Orte ist eine großartige Gelegenheit, auch bei den Einladungen auf Nachhaltigkeit zu achten. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, probiere es doch mal mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/). Auf Invitivo kannst du personalisierte und ansprechende digitale Einladungen gestalten, die sowohl umweltfreundlich als auch einzigartig sind. 
+Eine Babyparty in einem der wunderschönen Kieler Orte ist eine großartige Gelegenheit, auch bei den Einladungen auf Nachhaltigkeit zu achten. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, probiere es doch mal mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/). Auf Invitivo kannst du personalisierte und ansprechende digitale Einladungen gestalten, die sowohl umweltfreundlich als auch einzigartig sind.
 
 Im Gegensatz zu einer simplen Nachricht auf dem Smartphone bieten diese Einladungen eine hochwertige Gestaltung, die dem besonderen Anlass gerecht wird. Mit [Invitivo](https://invitivo.com/) kannst du die Einladungen individuell anpassen, inklusive schöner Grafiken und kreativen Texten, die genau zu deinem Event passen. Deine Gäste können die Einladung mit nur einem Klick annehmen – und das alles ohne Papierabfall und unnötigen CO2-Fußabdruck.
 

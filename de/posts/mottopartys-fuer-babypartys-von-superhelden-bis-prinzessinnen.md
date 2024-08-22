@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf ein neues Baby ist eine Zeit voller Glück, liebevoller Vorbereitungen und natürlich auch der perfekten Feier – der Babyparty! Warum sich mit dem Gewöhnlichen zufrieden geben, wenn du die Möglichkeit hast, deine Gäste mit einem unvergesslichen Motto zu begeistern? Von Superhelden über Prinzessinnen bis hin zu fantastischen Kreaturen – die Möglichkeiten sind grenzenlos! Lass uns gemeinsam in die Welt der Mottopartys eintauchen und dabei nicht vergessen, wie wichtig die richtige Einladung ist.
 
-![Mottoparty für Babyparty](/img/babyparty-theme.webp)
+![Mottoparty für Babyparty](/img/picnic-park.webp)
 
 ### 1. **Superhelden – Für die kleinen und großen Retter**
 

@@ -14,11 +14,11 @@ layout: layouts/post.njk
 
 Die Vorfreude auf ein Baby ist wie ein süßer Traum, der sich in der Realität entfaltet. Eine Babyparty ist die perfekte Gelegenheit, diesen besonderen Moment mit Freunden und Familie zu feiern. Dabei dürfen kreative und persönliche Gastgeschenke nicht fehlen, die deinen Gästen nicht nur ein Lächeln ins Gesicht zaubern, sondern auch in Erinnerung bleiben. Lass uns gemeinsam in die Welt der DIY-Gastgeschenke eintauchen und gleichzeitig einen Blick auf die zauberhaften digitalen Einladungen werfen, die dein Event noch spezieller machen.
 
-![Babyparty-Gastgeschenke DIY](/img/babyparty-gastgeschenke.webp)
+![Babyparty-Gastgeschenke DIY](/img/picnic-park.webp)
 
 ### 1. **Mini-Pflanzen im Gläschen – Grüner Daumen für alle!**
 
-Nichts sagt „Danke, dass du da bist!“ besser als eine kleine Pflanze, die das Zuhause deiner Gäste verschönert. Mini-Kräutertöpfe, die du selbst anpflanzen und in hübschen Gläsern verpacken kannst, sind nicht nur nachhaltig, sondern auch ein echter Hingucker. 
+Nichts sagt „Danke, dass du da bist!“ besser als eine kleine Pflanze, die das Zuhause deiner Gäste verschönert. Mini-Kräutertöpfe, die du selbst anpflanzen und in hübschen Gläsern verpacken kannst, sind nicht nur nachhaltig, sondern auch ein echter Hingucker.
 
 **DIY-Tipp:** Dekoriere die Gläschen mit einer persönlichen Notiz oder einem kleinen Schildchen, auf dem der Name des Babys steht. Füge ein paar Anleitungen hinzu, wie man die Pflanze pflegt – so wird jeder grüne Daumen zum Star!
 

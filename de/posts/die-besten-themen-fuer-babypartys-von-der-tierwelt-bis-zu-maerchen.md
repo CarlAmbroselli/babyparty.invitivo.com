@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf ein neues Leben ist ein Grund zur Feier, und was könnte besser sein, als eine Babyparty, die mit einem einzigartigen Thema verzaubert? Während viele Partys sich um die klassischen Themen wie „Tiere“ oder „Prinzessinnen“ drehen, gibt es eine Welt voller kreativer Ideen, die deine Gäste begeistern und Erinnerungen schaffen können, die nicht nur bis zur nächsten WhatsApp-Gruppe reichen. Lass uns gemeinsam die besten Themen für Babypartys erkunden – von der Tierwelt bis zu zauberhaften Märchen.
 
-![Babyparty Themen](/img/babyparty-themes.webp)
+![Babyparty Themen](/img/picnic-park.webp)
 
 ### 1. **Dschungel-Abenteuer – Die wilde Tierwelt**
 
@@ -22,7 +22,7 @@ Stell dir vor, du verwandelst deine Location in einen grünen Dschungel! Mit vie
 
 **Tipp für die Dekoration:** Nutze grüne und erdige Farben, um eine natürliche Atmosphäre zu schaffen. Tolle Deko sind auch Tierfiguren und große Pflanzen, die den Raum lebendig wirken lassen.
 
-**Aktivitäten:** Eine Tier-Schnitzeljagd oder ein Basteltisch, an dem die Kinder Tiermasken gestalten können, sorgt für jede Menge Spaß. 
+**Aktivitäten:** Eine Tier-Schnitzeljagd oder ein Basteltisch, an dem die Kinder Tiermasken gestalten können, sorgt für jede Menge Spaß.
 
 ### 2. **Märchenhafte Fantasiewelt – Ein Hauch von Zauber**
 
@@ -34,7 +34,7 @@ Wer sagt, dass Erwachsene nicht auch gerne in die Welt der Märchen eintauchen? 
 
 ### 3. **Weltraum-Expedition – Die Reise zu den Sternen**
 
-Für die kleinen Astronauten und Weltraumfans ist eine Babyparty im Weltraum-Stil genau das Richtige! Mit Planeten, Sternen und Raketen wird der Raum in eine andere Dimension verwandelt. 
+Für die kleinen Astronauten und Weltraumfans ist eine Babyparty im Weltraum-Stil genau das Richtige! Mit Planeten, Sternen und Raketen wird der Raum in eine andere Dimension verwandelt.
 
 **Tipp für die Dekoration:** Verwende Dunkelblau und Silber, um einen Nachthimmel zu simulieren. Glitzernde Sterne an der Decke und Raumschiff-Dekorationen sorgen für intergalaktische Stimmung.
 
@@ -42,11 +42,11 @@ Für die kleinen Astronauten und Weltraumfans ist eine Babyparty im Weltraum-Sti
 
 ### **Einladungen, die verzaubern – Mit [Invitivo](https://invitivo.com/create)**
 
-Jetzt, wo du das perfekte Thema für deine Babyparty gefunden hast, ist es an der Zeit, deine Gäste einzuladen. Anstatt eine langweilige WhatsApp-Gruppe zu erstellen, was hältst du von einer zauberhaften digitalen Einladung? Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte Einladungen gestalten, die das Thema deiner Babyparty perfekt widerspiegeln. 
+Jetzt, wo du das perfekte Thema für deine Babyparty gefunden hast, ist es an der Zeit, deine Gäste einzuladen. Anstatt eine langweilige WhatsApp-Gruppe zu erstellen, was hältst du von einer zauberhaften digitalen Einladung? Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte Einladungen gestalten, die das Thema deiner Babyparty perfekt widerspiegeln.
 
 Stell dir vor, deine Gäste erhalten eine Einladung, die nicht nur Informationen enthält, sondern auch visuell begeistert! Egal, ob du die Dschungel-Abenteuer oder das Märchenland wählst, Invitivo bietet dir die Möglichkeit, die Einladungen mit passenden Grafiken und Texten zu gestalten. So wird der erste Eindruck deiner Veranstaltung schon mal zum Hit.
 
-Mit Invitivo kannst du auch ganz einfach die Rückmeldungen deiner Gäste im Blick behalten. Keine langwierigen Chats mehr, sondern eine klare Übersicht, wer kommt und wer absagt. Außerdem kannst du die Einladungen jederzeit anpassen, falls sich etwas ändert – sei es die Zeit oder die Location. 
+Mit Invitivo kannst du auch ganz einfach die Rückmeldungen deiner Gäste im Blick behalten. Keine langwierigen Chats mehr, sondern eine klare Übersicht, wer kommt und wer absagt. Außerdem kannst du die Einladungen jederzeit anpassen, falls sich etwas ändert – sei es die Zeit oder die Location.
 
 ### **Fazit**
 

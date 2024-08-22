@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty im Freien ist wie ein frischer Wind, der die Vorfreude auf den neuen kleinen Erdenbürger in die Luft wirbelt. Aber was macht eine solche Feier wirklich unvergesslich? Richtig! Die Spiele! Hier sind einige der besten Partyspiele für eine Babyparty im Freien, die nicht nur die kleinen Gäste zum Quietschen bringen, sondern auch den Erwachsenen ein Lächeln ins Gesicht zaubern.
 
-![Babyparty Spiele im Freien](/img/babyparty-games.webp)
+![Babyparty Spiele im Freien](/img/picnic-park.webp)
 
 ### 1. **Baby-Bingo – Das aufregende Ratespiel**
 
@@ -23,7 +23,7 @@ Baby-Bingo ist der Hit unter den Partyspielen! Jeder Gast erhält eine Bingo-Kar
 
 ### 2. **Schnuller-Wettrennen – Wer hat das schnellste Baby?**
 
-Bei diesem spaßigen Wettrennen müssen die Teilnehmer mit einem Schnuller im Mund einen kleinen Parcours absolvieren. Das klingt einfach? Vielleicht, aber der Schnuller könnte sich als knifflig herausstellen! Das sorgt garantiert für viele Lacher und unvergessliche Momente. 
+Bei diesem spaßigen Wettrennen müssen die Teilnehmer mit einem Schnuller im Mund einen kleinen Parcours absolvieren. Das klingt einfach? Vielleicht, aber der Schnuller könnte sich als knifflig herausstellen! Das sorgt garantiert für viele Lacher und unvergessliche Momente.
 
 **Tipp für die Dekoration:** Schaffe eine festliche Kulisse mit bunten Ballons und einer „Baby-Rennbahn“-Markierung, um den Parcours hervorzuheben.
 
@@ -47,6 +47,6 @@ Mit Invitivo kannst du deine Einladungen individuell gestalten und sie mit tolle
 
 ### **Fazit**
 
-Eine Babyparty im Freien mit unterhaltsamen Spielen sorgt für ein unvergessliches Erlebnis für alle Beteiligten. Mit einer Mischung aus Kreativität, Bewegung und Lachen bringst du die Gäste zusammen und schaffst eine fröhliche Atmosphäre. Denke daran, deine Einladungen mit [Invitivo](https://invitivo.com) individuell zu gestalten, um deinen Gästen ein herzliches Willkommen zu bereiten. 
+Eine Babyparty im Freien mit unterhaltsamen Spielen sorgt für ein unvergessliches Erlebnis für alle Beteiligten. Mit einer Mischung aus Kreativität, Bewegung und Lachen bringst du die Gäste zusammen und schaffst eine fröhliche Atmosphäre. Denke daran, deine Einladungen mit [Invitivo](https://invitivo.com) individuell zu gestalten, um deinen Gästen ein herzliches Willkommen zu bereiten.
 
 Mach deine Babyparty zu einem besonderen Fest, das alle in Erinnerung behalten – mit den besten Spielen und Einladungen, die das Herz erfreuen!

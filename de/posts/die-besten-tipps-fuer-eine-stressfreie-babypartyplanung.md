@@ -11,9 +11,9 @@ tags:
 layout: layouts/post.njk
 ---
 
-Eine Babyparty ist wie ein kleines Fest der Freude – und gleichzeitig eine große Herausforderung! Die Vorfreude auf das neue Leben bringt viele Emotionen mit sich, aber auch eine gehörige Portion Stress. Wie schaffst du es also, dass die Planung dieser Feier zu einem entspannten Erlebnis wird? Keine Sorge, wir haben ein paar Tipps für dich, die dir helfen werden, die Vorbereitungen in den Griff zu bekommen, während du gleichzeitig für einen unvergesslichen Tag sorgst. 
+Eine Babyparty ist wie ein kleines Fest der Freude – und gleichzeitig eine große Herausforderung! Die Vorfreude auf das neue Leben bringt viele Emotionen mit sich, aber auch eine gehörige Portion Stress. Wie schaffst du es also, dass die Planung dieser Feier zu einem entspannten Erlebnis wird? Keine Sorge, wir haben ein paar Tipps für dich, die dir helfen werden, die Vorbereitungen in den Griff zu bekommen, während du gleichzeitig für einen unvergesslichen Tag sorgst.
 
-![Stressfreie Babyparty](/img/babyparty-planning.webp)
+![Stressfreie Babyparty](/img/picnic-park.webp)
 
 ### 1. **Frühzeitig planen – der Schlüssel zur Gelassenheit**
 
@@ -47,7 +47,7 @@ Um sicherzustellen, dass alle Gäste Spaß haben, plane ein paar Aktivitäten ei
 
 ### **Fazit: Stressfreie Planung ist möglich!**
 
-Mit den richtigen Strategien kannst du die Planung deiner Babyparty in ein entspanntes und freudiges Erlebnis verwandeln. Mach eine gute Planung, wähle eine passende Location und setze auf digitale Einladungen von [Invitivo](https://invitivo.com/) – so wird der gesamte Prozess viel angenehmer. 
+Mit den richtigen Strategien kannst du die Planung deiner Babyparty in ein entspanntes und freudiges Erlebnis verwandeln. Mach eine gute Planung, wähle eine passende Location und setze auf digitale Einladungen von [Invitivo](https://invitivo.com/) – so wird der gesamte Prozess viel angenehmer.
 
 Denke daran, dass es bei einer Babyparty um das Feiern der Vorfreude geht. Lass dich nicht von kleinen Pannen aus der Ruhe bringen und genieße den Tag in vollen Zügen. Schließlich ist es ein Grund zum Feiern, und das sollte der Mittelpunkt deiner Planung sein!
 

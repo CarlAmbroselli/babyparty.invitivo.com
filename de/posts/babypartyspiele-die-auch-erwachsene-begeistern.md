@@ -13,23 +13,23 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur ein Fest für die werdende Mama und das Baby, sondern auch ein großartiger Anlass, um mit Freunden und Familie zu feiern – und das auch für die Erwachsenen! Warum sollten nur die Kleinen Spaß haben? Hier sind einige originelle Babyparty-Spiele, die nicht nur die Kinder, sondern auch die Großen zum Lachen und Mitmachen animieren.
 
-![Babyparty-Spiele](/img/babyparty-games.webp)
+![Babyparty-Spiele](/img/picnic-park.webp)
 
 ### 1. **Baby-Bingo: Die spannende Variante**
 
-Bingo kennt jeder, aber wie wäre es mit einer Baby-Bingo-Version? Erstelle Bingokarten mit typischen Baby-Geschenken oder -Aktivitäten, die während der Feier vorkommen könnten. Wenn ein Gast ein Geschenk auspackt oder eine Aktivität stattfindet, können die anderen ihre Karten abkreuzen. Wer zuerst eine Reihe voll hat, gewinnt! 
+Bingo kennt jeder, aber wie wäre es mit einer Baby-Bingo-Version? Erstelle Bingokarten mit typischen Baby-Geschenken oder -Aktivitäten, die während der Feier vorkommen könnten. Wenn ein Gast ein Geschenk auspackt oder eine Aktivität stattfindet, können die anderen ihre Karten abkreuzen. Wer zuerst eine Reihe voll hat, gewinnt!
 
 **Tipp für die Ausgestaltung:** Mach die Karten bunt und kreativ – vielleicht sogar mit witzigen Baby-Fotos oder Sprüchen, die die werdende Mama zum Schmunzeln bringen.
 
 ### 2. **Baby-Quiz: Wer kennt die Mama am besten?**
 
-Ein unterhaltsames Quiz über die werdende Mama sorgt garantiert für Lacher und spannende Momente. Bereite Fragen vor, die sich um lustige Anekdoten, Vorlieben und Abneigungen der werdenden Mutter drehen. Die Gäste müssen dann raten, was stimmt. 
+Ein unterhaltsames Quiz über die werdende Mama sorgt garantiert für Lacher und spannende Momente. Bereite Fragen vor, die sich um lustige Anekdoten, Vorlieben und Abneigungen der werdenden Mutter drehen. Die Gäste müssen dann raten, was stimmt.
 
 **Tipp für die Durchführung:** Belohne die besten „Mama-Kenner“ mit kleinen Preisen – vielleicht etwas Süßes oder einen kleinen „Mama-Begleiter“ für die bevorstehende Elternschaft.
 
 ### 3. **Babysocken-Wettlauf: Ein Wettlauf der besonderen Art**
 
-Für dieses Spiel brauchen die Teilnehmer ein paar Babysocken (die können auch gleich dem Baby geschenkt werden!). Jeder muss dann versuchen, die Socken so schnell wie möglich an den Füßen der anderen Teilnehmer zu befestigen – und zwar ohne die Hände zu benutzen! 
+Für dieses Spiel brauchen die Teilnehmer ein paar Babysocken (die können auch gleich dem Baby geschenkt werden!). Jeder muss dann versuchen, die Socken so schnell wie möglich an den Füßen der anderen Teilnehmer zu befestigen – und zwar ohne die Hände zu benutzen!
 
 **Tipp für den Spaßfaktor:** Lass die Teilnehmer in Teams antreten und sorge für eine kleine Zeitmessung. Die schnellsten Teams können dann als Sieger gekrönt werden!
 
@@ -47,6 +47,6 @@ Mit Invitivo kannst du deine Einladungen so gestalten, dass sie die Erwartungen 
 
 ### **Fazit**
 
-Eine Babyparty sollte für alle ein Erlebnis sein – und das schließt die Erwachsenen definitiv ein! Mit kreativen und lustigen Spielen sorgst du dafür, dass die Feier unvergesslich wird. Vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten, um einen bleibenden Eindruck zu hinterlassen und deine Gäste auf das bevorstehende Fest einzustimmen. 
+Eine Babyparty sollte für alle ein Erlebnis sein – und das schließt die Erwachsenen definitiv ein! Mit kreativen und lustigen Spielen sorgst du dafür, dass die Feier unvergesslich wird. Vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten, um einen bleibenden Eindruck zu hinterlassen und deine Gäste auf das bevorstehende Fest einzustimmen.
 
 Mach deine Babyparty zu einem Ort des Lachens und der Freude – und sorge dafür, dass auch die Erwachsenen großartigen Spaß haben!

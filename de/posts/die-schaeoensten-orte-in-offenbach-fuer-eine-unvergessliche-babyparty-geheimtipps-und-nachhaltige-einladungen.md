@@ -49,7 +49,7 @@ Wenn du eine etwas andere Babyparty im Herzen von Offenbach planen möchtest, k�
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty in einer solch schönen Umgebung verdient auch eine umweltfreundliche Einladung. Statt einer weiteren WhatsApp-Gruppe, warum nicht eine persönliche und nachhaltige digitale Einladung versenden? Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell gestalten und dabei auf Papier verzichten. 
+Eine Babyparty in einer solch schönen Umgebung verdient auch eine umweltfreundliche Einladung. Statt einer weiteren WhatsApp-Gruppe, warum nicht eine persönliche und nachhaltige digitale Einladung versenden? Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell gestalten und dabei auf Papier verzichten.
 
 Die digitalen Einladungen von Invitivo bieten nicht nur eine ansprechende Gestaltung, sondern lassen sich auch einfach mit deinen Gästen teilen. So können sie mit nur einem Klick zusagen, und du vermeidest unnötigen Papiermüll – ein kleiner Schritt für eine umweltfreundlichere Feier.
 

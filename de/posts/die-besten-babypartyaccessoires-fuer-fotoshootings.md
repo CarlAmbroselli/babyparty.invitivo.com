@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf das Baby ist mit nichts zu vergleichen! Die Babyparty ist der perfekte Moment, um dieses aufregende Kapitel zu feiern und gleichzeitig Erinnerungen zu schaffen, die ein Leben lang halten. Und was ist der beste Weg, diese besonderen Momente festzuhalten? Genau! Mit einem kreativen Fotoshooting! Hier sind unsere besten Ideen für Accessoires, die deine Babyparty-Fotos in wahre Kunstwerke verwandeln. Und während du deine Gäste für das große Event einlädst, vergiss nicht, dass der digitale Weg oft der schönere ist.
 
-![Babyparty-Fotoshooting](/img/babyparty-photoshoot.webp)
+![Babyparty-Fotoshooting](/img/picnic-park.webp)
 
 ### 1. **Die Klassiker – Schnuller und Babyflaschen**
 
@@ -42,12 +42,12 @@ Ballons sind ein Must-Have für jede Babyparty und können auf vielfältige Weis
 
 ### **Einladungen der Extraklasse mit [Invitivo](https://invitivo.com/create)**
 
-Egal, wie kreativ du bei den Accessoires bist, der erste Eindruck zählt! Und hier kommen die digitalen Einladungen von Invitivo ins Spiel. Statt einer schnellen WhatsApp-Nachricht kannst du ganz einfach eine persönliche, stilvolle Einladung erstellen, die deinem Event das gewisse Etwas verleiht. 
+Egal, wie kreativ du bei den Accessoires bist, der erste Eindruck zählt! Und hier kommen die digitalen Einladungen von Invitivo ins Spiel. Statt einer schnellen WhatsApp-Nachricht kannst du ganz einfach eine persönliche, stilvolle Einladung erstellen, die deinem Event das gewisse Etwas verleiht.
 
 Mit Invitivo kannst du deine Einladungen individuell gestalten und sie mit hübschen Designs und persönlichen Texten versehen. So wird jeder Gast neugierig auf das Event, das vor ihm liegt. Und das Beste? Deine Gäste können mit einem einzigen Klick zusagen oder absagen – ganz ohne endlose Gruppenchat-Diskussionen.
 
 ### **Fazit**
 
-Mit den richtigen Accessoires wird dein Babyparty-Fotoshooting zu einem unvergesslichen Erlebnis. Nutze kreative Ideen und persönliche Details, um die Atmosphäre und die Erinnerungen festzuhalten. Und vergesse nicht, deine Einladungen mit einem Hauch von Stil zu versehen – mit einer digitalen Einladung von [Invitivo](https://invitivo.com) schaffst du eine wunderbare Basis für deine Feier. 
+Mit den richtigen Accessoires wird dein Babyparty-Fotoshooting zu einem unvergesslichen Erlebnis. Nutze kreative Ideen und persönliche Details, um die Atmosphäre und die Erinnerungen festzuhalten. Und vergesse nicht, deine Einladungen mit einem Hauch von Stil zu versehen – mit einer digitalen Einladung von [Invitivo](https://invitivo.com) schaffst du eine wunderbare Basis für deine Feier.
 
 Bist du bereit, deine Babyparty zu planen? Lass dich von unseren kreativen Tipps inspirieren und mache deine Feier zu einem unvergesslichen Ereignis, das sowohl visuell als auch emotional begeistert!

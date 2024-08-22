@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist der perfekte Anlass, um Freude und Vorfreude zu teilen – und was könnte da besser sein als ein bisschen Spiel und Spaß? Ob deine Gäste noch in Windeln stecken oder schon die ersten Schritte machen: Es gibt zahlreiche kreative Spielideen, die sich leicht an verschiedene Altersgruppen anpassen lassen. Und das Beste? Mit digitalen Einladungen von Invitivo wird das Planen und Einladen zum Kinderspiel!
 
-![Babyparty-Spiele](/img/babyparty-games.webp)
+![Babyparty-Spiele](/img/picnic-park.webp)
 
 ### 1. **Die Baby-Bingo-Challenge – Ein Spiel für alle Generationen**
 

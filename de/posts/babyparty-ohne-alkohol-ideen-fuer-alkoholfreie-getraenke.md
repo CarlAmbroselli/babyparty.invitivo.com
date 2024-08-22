@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist eine wunderbare Gelegenheit, das bevorstehende Abenteuer der Elternschaft zu feiern – und das ganz ohne die typischen alkoholischen Getränke. Aber keine Sorge, auch ohne Wein und Cocktails kann die Feier voller Spaß, Lachen und köstlicher Erfrischungen sein! In diesem Blogbeitrag zeige ich dir, wie du eine spritzige Babyparty planst, bei der die alkoholfreien Getränke im Mittelpunkt stehen. Und als Bonus erfährst du, wie du mit personalisierten digitalen Einladungen von Invitivo gleich einen tollen ersten Eindruck hinterlässt.
 
-![Alkoholfreie Getränke zur Babyparty](/img/non-alcoholic-drinks.webp)
+![Alkoholfreie Getränke zur Babyparty](/img/picnic-park.webp)
 
 ### 1. **Fruchtige Mocktails – Der Geschmack des Sommers**
 

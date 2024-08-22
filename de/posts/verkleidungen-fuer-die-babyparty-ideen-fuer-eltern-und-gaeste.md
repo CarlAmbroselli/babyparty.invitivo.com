@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist eine fantastische Gelegenheit, um das kommende Baby gebührend zu feiern – und was wäre da passender als ein bisschen Spaß mit Verkleidungen? Ob du nun die werdende Mutter, der werdende Vater oder ein freudiger Gast bist, kreative Kostüme können das Event auflockern und für jede Menge Lachen sorgen. Lass uns gemeinsam in die bunte Welt der Babyparty-Verkleidungen eintauchen und ein paar schicke Ideen sammeln, die sowohl für Eltern als auch für Gäste geeignet sind!
 
-![Babyparty Verkleidungen](/img/babyparty-costumes.webp)
+![Babyparty Verkleidungen](/img/picnic-park.webp)
 
 ### 1. **Die Baby-Bande – Kostüme für die Eltern**
 

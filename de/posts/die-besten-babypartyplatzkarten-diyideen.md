@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf eine Babyparty ist wie das Platzen eines Luftballons – aufregend, bunt und mit einem kleinen Hauch Nervosität. Schließlich geht es darum, einen unvergesslichen Tag für die werdende Mutter und ihre Gäste zu kreieren! Während die Snacks und Getränke für die Feier oft im Vordergrund stehen, sind es oft die kleinen Details, die den Unterschied machen – und dazu gehören definitiv die Platzkarten. Hier sind einige kreative DIY-Ideen, um deine Babyparty-Platzkarten zu gestalten und sie zu etwas ganz Besonderem zu machen. Und warum dabei nicht auch gleich digitale Einladungen nutzen? Denn der erste Eindruck zählt!
 
-![DIY-Platzkarten für Babyparty](/img/babyparty-placecards.webp)
+![DIY-Platzkarten für Babyparty](/img/picnic-park.webp)
 
 ### 1. **Blumen im Glas – Eine florale Erinnerung**
 

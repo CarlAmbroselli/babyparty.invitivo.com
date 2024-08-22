@@ -14,13 +14,13 @@ layout: layouts/post.njk
 
 Eine Babyparty ist eine wunderbare Gelegenheit, den bevorstehenden Zuwachs gebührend zu feiern. Doch wie sorgt man dafür, dass die Party nicht nur schön, sondern auch nachhaltiger wird? Die Antwort liegt in der Kreativität! Mit ein wenig Erfindungsgeist und recycelten Materialien kannst du einzigartige Dekorationen zaubern, die nicht nur deinen Gästen den Atem rauben, sondern auch die Umwelt schonen. Lass uns in die Welt der DIY-Dekoration eintauchen und gleichzeitig darüber nachdenken, wie digitale Einladungen von [Invitivo](https://invitivo.com/create) deiner Feier eine persönliche Note verleihen können.
 
-![DIY Babyparty Dekoration](/img/diy-babyparty.webp)
+![DIY Babyparty Dekoration](/img/picnic-park.webp)
 
 ### 1. **Luftballon-Girlande aus alten Zeitungen**
 
 Stell dir vor, wie deine Gäste begeistert die bunten Luftballon-Girlanden aus alten Zeitungen bestaunen! Es ist nicht nur ein toller Blickfang, sondern auch ein wunderbares Gesprächsstück.
 
-**So geht's:** 
+**So geht's:**
 - Schneide aus alten Zeitungen verschiedene Formen (Kreise, Herzen) aus.
 - Lege sie übereinander und klebe sie zusammen, um eine 3D-Optik zu schaffen.
 - Füge eine Schnur hinzu und hänge die Girlande auf.

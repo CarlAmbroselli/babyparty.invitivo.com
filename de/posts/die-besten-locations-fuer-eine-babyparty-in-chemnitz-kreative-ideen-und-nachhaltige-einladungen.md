@@ -30,7 +30,7 @@ Der Stadtpark in Chemnitz ist ein weiterer großartiger Ort, um eine Babyparty z
 
 **Tipp für die Dekoration:** Setze auf eine fröhliche, bunte Dekoration mit Ballons und Stoffbändern, die die verschiedenen Bereiche des Parks hervorheben.
 
-**Aktivitäten für die Gäste:** Organisiere eine kleine Bastelstation, an der die Gäste kreative Geschenke für das Baby gestalten können. 
+**Aktivitäten für die Gäste:** Organisiere eine kleine Bastelstation, an der die Gäste kreative Geschenke für das Baby gestalten können.
 
 ### 3. **Kulturhaus “Das E-Werk” – Ein kreativer Raum für unvergessliche Momente**
 
@@ -42,7 +42,7 @@ Das E-Werk in Chemnitz bietet einen einzigartigen Raum für eine Babyparty. Mit 
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Wenn du eine Babyparty in Chemnitz planst, denke auch an die Einladungen. Statt eine weitere WhatsApp-Gruppe zu erstellen, probiere es mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/). Mit Invitivo kannst du wunderschöne, personalisierte Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben. 
+Wenn du eine Babyparty in Chemnitz planst, denke auch an die Einladungen. Statt eine weitere WhatsApp-Gruppe zu erstellen, probiere es mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/). Mit Invitivo kannst du wunderschöne, personalisierte Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben.
 
 Im Gegensatz zu einer simplen Nachricht auf dem Smartphone bieten diese Einladungen eine ansprechende Gestaltung, die dem besonderen Anlass gerecht wird. Deine Gäste können die Einladung mit nur einem Klick annehmen und du vermeidest unnötigen Papierabfall.
 

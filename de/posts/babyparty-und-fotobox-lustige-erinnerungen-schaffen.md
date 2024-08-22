@@ -14,14 +14,14 @@ layout: layouts/post.njk
 
 Eine Babyparty ist mehr als nur ein Fest – es ist der Beginn eines neuen Abenteuers, das in bunten Farben und fröhlichen Gesichtern gefeiert wird. Und was wäre eine unvergessliche Babyparty ohne die perfekten Erinnerungen? Hier kommt die Fotobox ins Spiel! Sie ist nicht nur ein Magnet für Lachen und kreative Schnappschüsse, sondern auch ein wunderbarer Weg, um die besonderen Momente festzuhalten. Lass uns also eintauchen in die Welt der Fotoboxen und entdecken, wie du sie zu deinem Babyparty-Highlight machen kannst!
 
-![Babyparty mit Fotobox](/img/babyparty-fotobox.webp)
+![Babyparty mit Fotobox](/img/picnic-park.webp)
 
 ### 1. **Die Fotobox: Ein Spaßgarant für Jung und Alt**
 
 Stell dir vor, deine Gäste betreten den Raum und werden sofort von einer bunten Fotobox begrüßt. Mit einer Auswahl an witzigen Accessoires – von riesigen Sonnenbrillen bis zu lustigen Tierohren – können sie ihrer Kreativität freien Lauf lassen. Egal, ob sie sich als Superhelden oder als entzückende Babydinos verkleiden, der Spaßfaktor ist garantiert. Und die besten Schnappschüsse? Die gibt es als persönliches Andenken, das sie noch lange nach der Feier zum Schmunzeln bringt.
 
 **Tipps zur Fotobox-Integration:**
-- **Einen Fotobox-Bereich gestalten:** Richte einen kleinen Bereich mit einer hübschen Kulisse ein, vielleicht mit Ballons oder einem Banner, das die werdende Mutter feiert. 
+- **Einen Fotobox-Bereich gestalten:** Richte einen kleinen Bereich mit einer hübschen Kulisse ein, vielleicht mit Ballons oder einem Banner, das die werdende Mutter feiert.
 - **Ein Fotobuch erstellen:** Lasse deine Gäste die besten Fotos in ein Gästebuch einkleben und mit persönlichen Botschaften versehen. So entsteht ein wunderbares Erinnerungsstück.
 
 ### 2. **Digitale Einladungen: Der perfekte Auftakt**

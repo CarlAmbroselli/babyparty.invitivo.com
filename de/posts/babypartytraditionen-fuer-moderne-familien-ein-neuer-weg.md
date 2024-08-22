@@ -14,13 +14,13 @@ layout: layouts/post.njk
 
 Die Vorfreude auf ein neues Leben bringt nicht nur Freude, sondern auch eine Vielzahl von Traditionen mit sich, die oft von Generation zu Generation weitergegeben werden. Doch was passiert, wenn moderne Familien ihre ganz eigenen Traditionen für die Babyparty schaffen wollen? In einer Welt, in der Individualität und Kreativität an erster Stelle stehen, gibt es unzählige Möglichkeiten, diese Feier zu einem unvergesslichen Erlebnis zu machen. Hier sind einige inspirierende Ideen, um deine Babyparty auf das nächste Level zu heben!
 
-![Moderne Babyparty](/img/babyparty-modern.webp)
+![Moderne Babyparty](/img/picnic-park.webp)
 
 ### 1. **Themen, die die Familie widerspiegeln**
 
 Statt der klassischen „Baby-Blau“ oder „Baby-Rosa“-Farben kannst du ein Thema wählen, das die Vorlieben und Interessen deiner Familie widerspiegelt. Sei es ein Lieblingsbuch, ein Hobby oder der Lieblingsort – die Möglichkeiten sind endlos! Wenn die werdenden Eltern beispielsweise große Fans von Märchen sind, könnte eine „Märchenwald“-Babyparty mit entsprechenden Dekorationen und Aktivitäten ein voller Erfolg werden.
 
-**Tipp für die Dekoration:** Verwandle den Raum in eine magische Märchenlandschaft mit Lichterketten, bunten Stoffen und passenden Accessoires. 
+**Tipp für die Dekoration:** Verwandle den Raum in eine magische Märchenlandschaft mit Lichterketten, bunten Stoffen und passenden Accessoires.
 
 ### 2. **Interaktive Aktivitäten für alle**
 

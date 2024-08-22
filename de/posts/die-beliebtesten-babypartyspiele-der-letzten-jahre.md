@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist der perfekte Anlass, um mit Freunden und Familie zu feiern und auf das kommende Baby anzustoßen. Aber wie bringt man die Gäste zum Lachen und sorgt dafür, dass die Stimmung auf dem Höhepunkt bleibt? Die Antwort liegt in den Spielen! Hier präsentiere ich dir die beliebtesten Babyparty-Spiele der letzten Jahre, die nicht nur für Spaß sorgen, sondern auch das Eis brechen und die Vorfreude auf das neue Leben im Bauch der werdenden Mutter steigern.
 
-![Babyparty Spiele](/img/babyparty-spiele.webp)
+![Babyparty Spiele](/img/picnic-park.webp)
 
 ### 1. **Der Baby-Bingo-Spaß**
 
@@ -35,7 +35,7 @@ Hier wird es richtig lustig! Die Gäste müssen sich mit einem übergroßen Baby
 
 ### **Digitale Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Jetzt, wo du die besten Spiele für deine Babyparty kennst, lass uns über die Einladungen sprechen! Anstatt dich mit endlosen WhatsApp-Nachrichten herumzuschlagen, solltest du die Möglichkeit erkunden, deine Gäste mit einer stilvollen digitalen Einladung zu beeindrucken. Mit [Invitivo](https://invitivo.com/) kannst du ganz einfach eine Einladung gestalten, die nicht nur schön ist, sondern auch alle wichtigen Informationen auf einen Blick bietet. 
+Jetzt, wo du die besten Spiele für deine Babyparty kennst, lass uns über die Einladungen sprechen! Anstatt dich mit endlosen WhatsApp-Nachrichten herumzuschlagen, solltest du die Möglichkeit erkunden, deine Gäste mit einer stilvollen digitalen Einladung zu beeindrucken. Mit [Invitivo](https://invitivo.com/) kannst du ganz einfach eine Einladung gestalten, die nicht nur schön ist, sondern auch alle wichtigen Informationen auf einen Blick bietet.
 
 Stell dir vor: Deine Einladung wird mit einem persönlichen Touch versehen, einem liebevollen Design und sogar lustigen GIFs, die das Thema „Babyparty“ aufgreifen. Und das Beste? Deine Gäste können direkt über die Einladung zusagen oder absagen – ganz ohne das ewige Hin und Her in Gruppen-Chats.
 

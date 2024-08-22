@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Wenn sich das Baby auf den Weg macht, ist es Zeit für eine Feier, die das bevorstehende Abenteuer gebührend würdigt! Und was könnte besser sein, als diese spezielle Babyparty mit einem kreativen Thema zu versehen, inspiriert von deinen Lieblingsfilmen? Lass uns gemeinsam in die Welt der Kinoklassiker eintauchen und herausfinden, wie du deine Babyparty zum Blockbuster des Jahres machst.
 
-![Babyparty im Kinostil](/img/babyparty-movie-theme.webp)
+![Babyparty im Kinostil](/img/picnic-park.webp)
 
 ### 1. **Disney-Zauber – Magie für die Kleinen**
 
@@ -56,6 +56,6 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen kreativ gestal
 
 ### **Fazit**
 
-Eine Babyparty, die von deinen Lieblingsfilmen inspiriert ist, wird nicht nur die werdende Mutter erfreuen, sondern auch alle Gäste zum Schmunzeln bringen. Mit kreativen Dekorationsideen, unterhaltsamen Aktivitäten und einzigartigen digitalen Einladungen von [Invitivo](https://invitivo.com) wird deine Feier sicherlich unvergesslich. 
+Eine Babyparty, die von deinen Lieblingsfilmen inspiriert ist, wird nicht nur die werdende Mutter erfreuen, sondern auch alle Gäste zum Schmunzeln bringen. Mit kreativen Dekorationsideen, unterhaltsamen Aktivitäten und einzigartigen digitalen Einladungen von [Invitivo](https://invitivo.com) wird deine Feier sicherlich unvergesslich.
 
 Mach dich bereit für eine feierliche Zeitreise durch die Filmwelt und plane deine nächste Babyparty mit einem Thema, das sowohl Spaß als auch eine persönliche Note bietet. Wer weiß, vielleicht wird deine Feier zum Hit des Jahres!

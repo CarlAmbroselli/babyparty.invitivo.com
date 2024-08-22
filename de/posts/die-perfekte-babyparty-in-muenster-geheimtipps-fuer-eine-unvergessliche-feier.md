@@ -42,13 +42,13 @@ Der Botanische Garten in Münster bietet eine Vielzahl an Pflanzen und eine frie
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Bei der Planung einer Babyparty ist es wichtig, auch an die Einladungen zu denken. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, probiere es doch mal mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/). Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben. 
+Bei der Planung einer Babyparty ist es wichtig, auch an die Einladungen zu denken. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, probiere es doch mal mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/). Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben.
 
 Statt einer simplen Nachricht erhältst du eine ansprechende Einladung, die die Vorfreude auf die Babyparty steigert. Deine Gäste können direkt über die Einladung zusagen, und du vermeidest unnötigen Papierabfall.
 
 ### **Fazit**
 
-Münster hat viele versteckte Juwelen, die sich perfekt für eine Babyparty eignen. Ob am Aasee, auf der Promenade oder im Botanischen Garten – die Möglichkeiten sind vielfältig. Mit kreativen Deko-Ideen und nachhaltigen Einladungen wird deine Babyparty zu einem unvergesslichen Erlebnis. 
+Münster hat viele versteckte Juwelen, die sich perfekt für eine Babyparty eignen. Ob am Aasee, auf der Promenade oder im Botanischen Garten – die Möglichkeiten sind vielfältig. Mit kreativen Deko-Ideen und nachhaltigen Einladungen wird deine Babyparty zu einem unvergesslichen Erlebnis.
 
 Denke daran, deine Einladungen umweltfreundlich zu gestalten und nutze dafür [Invitivo](https://invitivo.com). So wird deine Feier nicht nur schön, sondern auch nachhaltig.
 

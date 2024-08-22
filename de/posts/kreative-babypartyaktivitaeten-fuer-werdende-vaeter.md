@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Wenn es um Babypartys geht, denken viele an Mutter- und Kind-Themen, aber was ist mit den werdenden Vätern? Diese heldenhaften Männer stehen vor einer echten Abenteuerreise und verdienen ein gebührendes Fest! Hier sind einige kreative und spaßige Aktivitäten, die speziell für werdende Väter konzipiert sind, um ihre Vorfreude auf das neue Familienmitglied zu feiern.
 
-![Babyparty für werdende Väter](/img/babyparty-vater.webp)
+![Babyparty für werdende Väter](/img/picnic-park.webp)
 
 ### 1. **Die „Vater-Koch-Challenge“ – Wer zaubert das beste Babybrei-Rezept?**
 

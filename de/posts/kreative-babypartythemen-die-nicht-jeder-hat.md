@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf ein neues Leben, das im Anmarsch ist, sollte gebührend gefeiert werden! Babypartys sind eine wunderbare Gelegenheit, um mit Freunden und Familie zu feiern und den werdenden Eltern eine unvergessliche Zeit zu bereiten. Doch statt der üblichen „Baby-Blau oder Rosa“-Dekorationen, warum nicht etwas ganz anderes wagen? Hier sind einige kreative und ungewöhnliche Themen für Babypartys, die garantiert für Gesprächsstoff sorgen – und natürlich die perfekte Gelegenheit bieten, um auch über digitale Einladungen nachzudenken!
 
-![Kreative Babyparty-Dekoration](/img/babyparty-ideen.webp)
+![Kreative Babyparty-Dekoration](/img/picnic-park.webp)
 
 ### 1. **Weltraum-Abenteuer – Eine Reise unter die Sterne**
 
@@ -22,7 +22,7 @@ Stell dir vor, du schwebst durch das Universum, umgeben von Planeten und Sternen
 
 **Tipp für die Dekoration:** Verwandle den Raum in eine Galaxie mit schwarzen Tischtüchern, die die Nacht simulieren, und glitzernden Sternen, die überall verteilt sind. Glühende Sterne und kleine Raumschiffe können die Torte zieren.
 
-**Aktivitäten:** Veranstalte ein „Sternen-Malwettbewerb“ für die kleinen Gäste, bei dem sie ihre eigenen Planeten gestalten können. 
+**Aktivitäten:** Veranstalte ein „Sternen-Malwettbewerb“ für die kleinen Gäste, bei dem sie ihre eigenen Planeten gestalten können.
 
 ### 2. **Tropisches Paradies – Ein Hauch von Urlaub**
 
@@ -34,7 +34,7 @@ Warum in die Ferne schweifen, wenn das Paradies vor der Tür liegt? Ein tropisch
 
 ### 3. **Vintage-Rummelpott – Nostalgie pur**
 
-Eine Babyparty im Vintage-Stil lässt Herzen höher schlagen! Von Retro-Dekorationen bis hin zu klassischen Spielen – dieser nostalgische Flair wird bei den Gästen sicherlich gut ankommen. 
+Eine Babyparty im Vintage-Stil lässt Herzen höher schlagen! Von Retro-Dekorationen bis hin zu klassischen Spielen – dieser nostalgische Flair wird bei den Gästen sicherlich gut ankommen.
 
 **Tipp für die Dekoration:** Verwende alte Koffer, nostalgische Fotos und Blumenarrangements in Einmachgläsern, um eine gemütliche, heimelige Atmosphäre zu schaffen.
 

@@ -30,7 +30,7 @@ Die Sechs-Seen-Platte ist ein beliebter Ort für Naturfreunde und eignet sich he
 
 **Tipp für die Dekoration:** Verwende maritime Elemente wie Muscheln und Sand in deiner Dekoration, um die Atmosphäre der Seenlandschaft einzufangen.
 
-**Aktivitäten im Freien:** Organisiere ein Picknick am Wasser oder eine kleine Bootsfahrt, um die entspannte Stimmung zu genießen. 
+**Aktivitäten im Freien:** Organisiere ein Picknick am Wasser oder eine kleine Bootsfahrt, um die entspannte Stimmung zu genießen.
 
 ### 3. **Duisburger Stadtwald – Ein Hauch von Abenteuer**
 
@@ -50,7 +50,7 @@ Der Landschaftspark Duisburg-Nord ist ein einzigartiger Ort, an dem industrielle
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty im Freien ist eine hervorragende Möglichkeit, umweltbewusst zu feiern. Warum nicht auch bei den Einladungen nachhaltig denken? Anstelle einer weiteren WhatsApp-Gruppe, probiere eine [digitale Einladung für deine Babyparty](https://invitivo.com/). Invitivo bietet dir die Möglichkeit, wunderschöne, personalisierte digitale Einladungen zu erstellen, die nicht nur umweltfreundlich sind, sondern auch eine viel persönlichere Note haben. 
+Eine Babyparty im Freien ist eine hervorragende Möglichkeit, umweltbewusst zu feiern. Warum nicht auch bei den Einladungen nachhaltig denken? Anstelle einer weiteren WhatsApp-Gruppe, probiere eine [digitale Einladung für deine Babyparty](https://invitivo.com/). Invitivo bietet dir die Möglichkeit, wunderschöne, personalisierte digitale Einladungen zu erstellen, die nicht nur umweltfreundlich sind, sondern auch eine viel persönlichere Note haben.
 
 Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell gestalten – von schönen Karten bis hin zu ansprechenden Grafiken und Texten, die perfekt zu deiner Babyparty passen. Deine Gäste erhalten eine elegante Einladung, die sie mit nur einem Klick annehmen können, und das alles ohne Papierabfall.
 

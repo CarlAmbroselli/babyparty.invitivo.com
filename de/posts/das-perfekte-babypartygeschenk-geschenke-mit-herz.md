@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist wie ein kleines Fest der Vorfreude, das den bevorstehenden Einzug eines neuen Familienmitglieds feiert. Dabei dreht sich alles um die werdenden Eltern, die Geschenke und viele, viele Umarmungen. Doch wie findet man das perfekte Geschenk, das nicht nur gut gemeint, sondern auch von Herzen kommt? Hier sind einige kreative Ideen, die über das Materielle hinausgehen und die du selbst gestalten kannst!
 
-![Babyparty Geschenkideen](/img/babyparty-gift-ideas.webp)
+![Babyparty Geschenkideen](/img/picnic-park.webp)
 
 ### 1. **Das persönliche Erinnerungsbuch – Ein Schatz für die Ewigkeit**
 

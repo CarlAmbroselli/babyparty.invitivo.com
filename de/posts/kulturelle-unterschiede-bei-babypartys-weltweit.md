@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Babypartys sind das neue große Ding, und das nicht nur in Deutschland! Sie sind eine wunderbare Möglichkeit, den bevorstehenden Nachwuchs zu feiern und die werdenden Eltern zu unterstützen. Aber wusstest du, dass die Art und Weise, wie diese Feiern gestaltet werden, weltweit ganz unterschiedlich ist? Lass uns auf eine kleine Reise gehen und die bunten Traditionen und Bräuche rund um Babypartys entdecken. Und während wir das tun, schauen wir auch, wie digitale Einladungen deine Feier noch persönlicher und unvergesslicher gestalten können.
 
-![Weltweite Babyparty-Traditionen](/img/babyparty-world.webp)
+![Weltweite Babyparty-Traditionen](/img/picnic-park.webp)
 
 ### 1. **Baby Shower in den USA – Die große Feier mit Geschenken**
 
@@ -47,6 +47,6 @@ Mit [Invitivo](https://invitivo.com/) hast du die Möglichkeit, deine Einladunge
 
 ### **Fazit**
 
-Die Vielfalt der Babyparty-Traditionen weltweit zeigt, wie bunt und unterschiedlich wir feiern können. Egal, ob du eine amerikanische Baby Shower oder ein traditionelles ghanaisches Fest planst – es gibt unzählige Möglichkeiten, diesen besonderen Moment zu zelebrieren. Denke daran, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten, um deinen Gästen ein unvergessliches Erlebnis zu bieten. 
+Die Vielfalt der Babyparty-Traditionen weltweit zeigt, wie bunt und unterschiedlich wir feiern können. Egal, ob du eine amerikanische Baby Shower oder ein traditionelles ghanaisches Fest planst – es gibt unzählige Möglichkeiten, diesen besonderen Moment zu zelebrieren. Denke daran, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten, um deinen Gästen ein unvergessliches Erlebnis zu bieten.
 
 Bist du bereit, deine eigene Babyparty zu planen? Lass dich von den Traditionen inspirieren und mache deine Feier zu einem einzigartigen Fest der Kultur und Gemeinschaft!

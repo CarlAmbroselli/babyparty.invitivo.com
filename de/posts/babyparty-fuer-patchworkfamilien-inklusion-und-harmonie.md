@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist ein wunderbarer Anlass, um den bevorstehenden Zuwachs in der Familie zu feiern. Doch was, wenn die Familie ein wenig bunter und diverser ist? Patchworkfamilien bringen nicht nur Freude, sondern auch Herausforderungen mit sich. Wie sorgt man dafür, dass sich alle Familienmitglieder – vom Stiefelternteil über die Großeltern bis hin zu den Geschwistern – in den Feierlichkeiten wohlfühlen? Hier sind einige kreative Tipps, um eine harmonische und inklusive Babyparty zu planen.
 
-![Babyparty für Patchworkfamilien](/img/patchwork-babyparty.webp)
+![Babyparty für Patchworkfamilien](/img/picnic-park.webp)
 
 ### 1. **Einladungen, die verbinden**
 

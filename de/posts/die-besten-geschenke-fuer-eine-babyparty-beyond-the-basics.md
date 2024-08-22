@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist der perfekte Anlass, um die werdenden Eltern zu feiern und ihre Vorfreude auf das kleine Wunder zu teilen. Während Windeln und Bodys immer noch nützlich sind, gibt es unzählige originelle Geschenke, die das Herz der Eltern höher schlagen lassen. Lass uns gemeinsam einige dieser durchdachten Geschenkideen erkunden, die die praktische Seite der Babyparty mit einem Hauch von Kreativität verbinden.
 
-![Babyparty Geschenke](/img/babyparty-gifts.webp)
+![Babyparty Geschenke](/img/picnic-park.webp)
 
 ### 1. **Personalisierte Babydecke – Kuscheln mit Stil**
 
@@ -29,7 +29,7 @@ Eine Erinnerungsbox, in der die Eltern die wichtigsten Meilensteine ihres Babys 
 
 ### 3. **Bücher für die ersten Jahre – Lesespaß von Anfang an**
 
-Bücher sind ein fantastisches Geschenk, das die Fantasie anregt und eine wichtige Grundlage für die spätere Entwicklung legt. Statt nur die neuesten Bilderbücher zu schenken, kannst du auch ein Set von Klassikern zusammenstellen, die Generationen von Kindern begeistert haben. 
+Bücher sind ein fantastisches Geschenk, das die Fantasie anregt und eine wichtige Grundlage für die spätere Entwicklung legt. Statt nur die neuesten Bilderbücher zu schenken, kannst du auch ein Set von Klassikern zusammenstellen, die Generationen von Kindern begeistert haben.
 
 **Tipp:** Überlege, ein paar persönliche Notizen in das Buch zu schreiben, damit die Eltern wissen, warum du dieses Buch ausgewählt hast. So wird das Lesen zu einem noch besonderen Erlebnis.
 
@@ -41,7 +41,7 @@ Ein Kurs für werdende Eltern, sei es ein Geburtsvorbereitungskurs oder ein Erst
 
 ### **Einladungen, die begeistern: [Invitivo](https://invitivo.com/create)**
 
-Wenn du eine Babyparty planst, ist die Einladung der erste Schritt, um deine Gäste zu begeistern. Statt einer unpersönlichen WhatsApp-Gruppe, warum nicht etwas Einzigartiges mit [Invitivo](https://invitivo.com/) kreieren? Mit eleganten digitalen Einladungen kannst du deinen Stil und das Thema der Babyparty perfekt zur Geltung bringen. 
+Wenn du eine Babyparty planst, ist die Einladung der erste Schritt, um deine Gäste zu begeistern. Statt einer unpersönlichen WhatsApp-Gruppe, warum nicht etwas Einzigartiges mit [Invitivo](https://invitivo.com/) kreieren? Mit eleganten digitalen Einladungen kannst du deinen Stil und das Thema der Babyparty perfekt zur Geltung bringen.
 
 Stell dir vor, du versendest eine wunderschöne Einladung, die nicht nur aussieht wie ein kleines Kunstwerk, sondern auch alle wichtigen Informationen auf einen Blick präsentiert. Deine Gäste können einfach zusagen oder absagen, ohne sich durch endlose Gruppen-Chats kämpfen zu müssen. Und das Beste? Du kannst die Einladungen jederzeit anpassen, falls sich etwas ändert – ganz unkompliziert!
 

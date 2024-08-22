@@ -14,17 +14,17 @@ layout: layouts/post.njk
 
 Eine Babyparty ist der ideale Anlass, um Freunde und Familie zusammenzubringen und die Vorfreude auf das neue Leben zu feiern. Doch was tun, wenn sich eine große Gruppe von Gästen versammelt? Wie sorgt man dafür, dass jeder Spaß hat und sich gleichzeitig wie ein Teil des Geschehens fühlt? Keine Sorge! Hier sind einige unterhaltsame Spiele und Aktivitäten, die selbst die schüchternsten Gäste zum Lachen bringen und die Atmosphäre auflockern. Und um das Ganze abzurunden: Wir zeigen dir, wie du mit digitalen Einladungen von Invitivo den perfekten Rahmen für deine Feier schaffen kannst!
 
-![Babyparty Spiele](/img/babyparty-games.webp)
+![Babyparty Spiele](/img/picnic-park.webp)
 
 ### 1. **Baby-Bingo – Spiel, Spaß und Spannung**
 
-Baby-Bingo ist ein Klassiker, der immer gut ankommt! Jeder Gast erhält eine Bingo-Karte mit verschiedenen Baby-Items oder -Aktivitäten, die während der Feier vorkommen könnten – von „Windelwechsel“ bis hin zu „Babys erstes Lächeln“. Wenn jemand eine der Aktionen erlebt, kann er das entsprechende Feld abhaken. Wer zuerst eine Reihe voll hat, gewinnt einen kleinen Preis. 
+Baby-Bingo ist ein Klassiker, der immer gut ankommt! Jeder Gast erhält eine Bingo-Karte mit verschiedenen Baby-Items oder -Aktivitäten, die während der Feier vorkommen könnten – von „Windelwechsel“ bis hin zu „Babys erstes Lächeln“. Wenn jemand eine der Aktionen erlebt, kann er das entsprechende Feld abhaken. Wer zuerst eine Reihe voll hat, gewinnt einen kleinen Preis.
 
-**Tipp:** Um das Spiel noch spannender zu gestalten, kannst du die Karten personalisieren, indem du spezifische Momente aus dem Leben der werdenden Eltern einfügst. 
+**Tipp:** Um das Spiel noch spannender zu gestalten, kannst du die Karten personalisieren, indem du spezifische Momente aus dem Leben der werdenden Eltern einfügst.
 
 ### 2. **Das große Windelrennen – Wer ist der Schnellste?**
 
-Das Windelrennen bringt garantiert alle zum Lachen! Teile die Gäste in Teams auf und lasse sie in einem Wettlauf Windeln an Puppen anlegen. Jedes Team muss abwechselnd einen „Babysitter“ ins Rennen schicken. Wer am schnellsten und ordentlichsten ist, gewinnt! 
+Das Windelrennen bringt garantiert alle zum Lachen! Teile die Gäste in Teams auf und lasse sie in einem Wettlauf Windeln an Puppen anlegen. Jedes Team muss abwechselnd einen „Babysitter“ ins Rennen schicken. Wer am schnellsten und ordentlichsten ist, gewinnt!
 
 **Tipp:** Achte darauf, dass du genug Platz hast, damit kein Chaos entsteht – und vielleicht ein paar alte Handtücher bereithältst, falls es zu einem Wettkampf der besonderen Art kommt!
 

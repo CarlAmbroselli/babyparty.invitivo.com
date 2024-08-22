@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur eine Feier des Lebens, sondern auch eine wunderbare Gelegenheit, um kreativ zu werden – und das gilt nicht nur für die Planung, sondern auch für die Gastgeschenke! Wenn du nach Möglichkeiten suchst, umweltfreundliche und nachhaltige Präsente für deine Gäste zu wählen, bist du hier genau richtig. Lass uns gemeinsam einige originelle Ideen entdecken, die nicht nur das Herz deiner Gäste erwärmen, sondern auch unsere Erde schonen.
 
-![Nachhaltige Gastgeschenke](/img/sustainable-baby-shower-gifts.webp)
+![Nachhaltige Gastgeschenke](/img/picnic-park.webp)
 
 ### 1. **Pflanzensamen im Glas – Grüner Daumen für alle!**
 
@@ -44,4 +44,4 @@ Stell dir vor, deine Gäste erhalten eine elegant gestaltete Einladung mit all d
 
 Eine Babyparty bietet nicht nur die Möglichkeit, das bevorstehende Leben zu feiern, sondern auch, umweltbewusste Entscheidungen zu treffen. Mit diesen nachhaltigen Gastgeschenken kannst du sicherstellen, dass deine Feier nicht nur unvergesslich, sondern auch umweltfreundlich ist. Vergiss nicht, deine Einladungen über [Invitivo](https://invitivo.com) zu verschicken – so wird der Einstieg in die Feier genauso besonders wie die Geschenke selbst.
 
-Bist du bereit, deine Babyparty zu planen? Lass dich inspirieren und setze auf Nachhaltigkeit und Kreativität, um ein wunderbares Erlebnis für alle zu schaffen! 
+Bist du bereit, deine Babyparty zu planen? Lass dich inspirieren und setze auf Nachhaltigkeit und Kreativität, um ein wunderbares Erlebnis für alle zu schaffen!

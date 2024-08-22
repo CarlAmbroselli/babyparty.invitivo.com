@@ -11,9 +11,9 @@ tags:
 layout: layouts/post.njk
 ---
 
-Eine Babyparty ist nicht nur ein Feierabend mit Kuchen und Geschenken – es ist eine Ode an das bevorstehende Abenteuer der Elternschaft! Aber wie zaubert man den werdenden Eltern ein breites Lächeln ins Gesicht? Hier sind einige kreative Überraschungs-Ideen, die ihre Babyparty unvergesslich machen – und dabei ein bisschen Magie in den Raum bringen. 
+Eine Babyparty ist nicht nur ein Feierabend mit Kuchen und Geschenken – es ist eine Ode an das bevorstehende Abenteuer der Elternschaft! Aber wie zaubert man den werdenden Eltern ein breites Lächeln ins Gesicht? Hier sind einige kreative Überraschungs-Ideen, die ihre Babyparty unvergesslich machen – und dabei ein bisschen Magie in den Raum bringen.
 
-![Babyparty Überraschungen](/img/babyparty-surprises.webp)
+![Babyparty Überraschungen](/img/picnic-park.webp)
 
 ### 1. **Das Überraschungs-Video: Ein Rückblick auf die Reise**
 
@@ -29,13 +29,13 @@ Versammle deine Gäste und lasse sie einen kleinen Gegenstand oder eine Notiz be
 
 ### 3. **Ein Überraschungs-Gast: Der Baby-Flüsterer**
 
-Was wäre eine Babyparty ohne einen unerwarteten Gast? Lade einen erfahrenen Baby-Coach oder eine Hebamme ein, die den werdenden Eltern einige wertvolle Tipps geben kann. Das kann von Baby-Massage-Techniken bis hin zu Geschichten über die ersten Wochen mit dem Neugeborenen reichen. 
+Was wäre eine Babyparty ohne einen unerwarteten Gast? Lade einen erfahrenen Baby-Coach oder eine Hebamme ein, die den werdenden Eltern einige wertvolle Tipps geben kann. Das kann von Baby-Massage-Techniken bis hin zu Geschichten über die ersten Wochen mit dem Neugeborenen reichen.
 
 **Tipp für die Atmosphäre:** Halte die Sitzung informell und locker – vielleicht mit ein paar Snacks und Getränken, um die Stimmung aufzulockern!
 
 ### 4. **Das Überraschungs-Geschenk: Ein „Nacht der Entspannung“ Gutschein**
 
-Nach der Geburt wird die Ruhe ein kostbares Gut sein. Überrasche die werdenden Eltern mit einem Gutschein für eine „Nacht der Entspannung“ – vielleicht ein schönes Abendessen, eine Massage oder einfach ein paar Stunden, in denen sie sich um nichts kümmern müssen. 
+Nach der Geburt wird die Ruhe ein kostbares Gut sein. Überrasche die werdenden Eltern mit einem Gutschein für eine „Nacht der Entspannung“ – vielleicht ein schönes Abendessen, eine Massage oder einfach ein paar Stunden, in denen sie sich um nichts kümmern müssen.
 
 **Tipp für die Umsetzung:** Kombiniere den Gutschein mit einer kleinen „Entspannungs-Box“ voller Badezusätze, Kerzen und Leckereien.
 
@@ -43,7 +43,7 @@ Nach der Geburt wird die Ruhe ein kostbares Gut sein. Überrasche die werdenden 
 
 Um sicherzustellen, dass alle Überraschungen auch tatsächlich stattfinden können, brauchst du natürlich eine tolle Einladung! Anstatt eine weitere WhatsApp-Gruppe zu starten, warum nicht auf etwas Persönlicheres setzen? Mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/) von Invitivo kannst du deine Kreativität ausleben und eine wunderschöne, individuell gestaltete Einladung versenden. So hebst du dich von der Masse ab und machst schon vor der Party einen bleibenden Eindruck.
 
-Mit Invitivo kannst du deine Einladungen ganz nach deinen Wünschen gestalten – sei es mit lustigen GIFs oder einer Mitbringliste, die den Gästen hilft, sich an die Überraschungen zu erinnern, die sie mitbringen sollen. Deine Gäste können ganz einfach zusagen oder absagen, ohne dass endlose Nachrichten hin und her gesendet werden müssen. 
+Mit Invitivo kannst du deine Einladungen ganz nach deinen Wünschen gestalten – sei es mit lustigen GIFs oder einer Mitbringliste, die den Gästen hilft, sich an die Überraschungen zu erinnern, die sie mitbringen sollen. Deine Gäste können ganz einfach zusagen oder absagen, ohne dass endlose Nachrichten hin und her gesendet werden müssen.
 
 ### **Fazit**
 

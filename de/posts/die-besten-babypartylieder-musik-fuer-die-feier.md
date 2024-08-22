@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist wie ein fröhlicher Countdown zu einem neuen Leben, und was könnte diesen magischen Moment besser untermalen als die perfekte Playlist? Musik hat die Kraft, Emotionen zu wecken und die Stimmung aufzuhellen. Egal, ob deine Gäste schüchtern sind oder schon beim ersten Beat auf der Tanzfläche stehen – mit den richtigen Songs wird die Feier unvergesslich! Lass uns die besten Babyparty-Lieder durchgehen, die auf keiner Feier fehlen sollten.
 
-![Babyparty mit Musik](/img/babyparty-music.webp)
+![Babyparty mit Musik](/img/picnic-park.webp)
 
 ### 1. **"Baby Shark" – Der Hit, der nie alt wird**
 
@@ -30,7 +30,7 @@ Dieser zeitlose Song ist eine Hommage an die Freude über das neue Leben. Die sa
 
 ### 3. **"Walking on Sunshine" von Katrina and the Waves – Gute Laune garantiert!**
 
-Dieser Song sorgt für das ultimative Wohlfühl-Feeling und bringt alle zum Lächeln. Perfekt für die ersten fröhlichen Tänze und um die positive Energie der Feier zu verstärken. 
+Dieser Song sorgt für das ultimative Wohlfühl-Feeling und bringt alle zum Lächeln. Perfekt für die ersten fröhlichen Tänze und um die positive Energie der Feier zu verstärken.
 
 **Tipp für die Party:** Organisiere eine kleine Tanz-Challenge – wer hat die besten Moves zu „Walking on Sunshine“?
 

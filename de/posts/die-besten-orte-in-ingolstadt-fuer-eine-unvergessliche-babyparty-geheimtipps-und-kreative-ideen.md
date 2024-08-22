@@ -42,7 +42,7 @@ Der Wasserspielplatz in Ingolstadt ist eine tolle Wahl für eine lebhafte Babypa
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Wenn du eine Babyparty planst, ist es wichtig, auch bei den Einladungen an die Umwelt zu denken. Statt einer weiteren WhatsApp-Gruppe, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) erstellen? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur nachhaltig sind, sondern auch eine persönliche Note haben. 
+Wenn du eine Babyparty planst, ist es wichtig, auch bei den Einladungen an die Umwelt zu denken. Statt einer weiteren WhatsApp-Gruppe, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) erstellen? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur nachhaltig sind, sondern auch eine persönliche Note haben.
 
 Im Gegensatz zu einer einfachen Nachricht auf dem Smartphone bieten diese Einladungen einen ansprechenden und hochwertigen Look, der dem besonderen Anlass gerecht wird. Deine Gäste erhalten eine Einladung, die sie mit nur einem Klick annehmen können – und das alles ohne Papierabfall und unnötigen CO2-Fußabdruck.
 

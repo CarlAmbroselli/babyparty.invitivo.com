@@ -50,7 +50,7 @@ Wenn das Wetter nicht mitspielt, ist die Alte Markthalle eine großartige Altern
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty ist eine wunderbare Gelegenheit, um auch bei den Einladungen an die Umwelt zu denken. Statt einer weiteren WhatsApp-Gruppe, warum nicht auf eine [digitale Einladung für deine Babyparty](https://invitivo.com/) setzen? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur ressourcenschonend sind, sondern auch eine viel persönlichere Note haben. 
+Eine Babyparty ist eine wunderbare Gelegenheit, um auch bei den Einladungen an die Umwelt zu denken. Statt einer weiteren WhatsApp-Gruppe, warum nicht auf eine [digitale Einladung für deine Babyparty](https://invitivo.com/) setzen? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur ressourcenschonend sind, sondern auch eine viel persönlichere Note haben.
 
 Im Vergleich zu einer simplen Nachricht auf dem Smartphone bieten diese Einladungen eine ansprechende Gestaltung, die dem besonderen Anlass gerecht wird. Du kannst deine Einladungen individuell gestalten, inklusive schöner Grafiken und Texten, die genau zu deiner Babyparty passen. Deine Gäste erhalten dann eine stilvolle Einladung, die sie mit nur einem Klick annehmen können – ganz ohne Papierabfall und unnötigen CO2-Fußabdruck.
 

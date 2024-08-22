@@ -22,7 +22,7 @@ Die Biosphäre Potsdam ist nicht nur ein Ort der Bildung, sondern auch ein auße
 
 **Tipp für die Dekoration:** Nutze natürliche Materialien wie Holz und Pflanzen, um eine harmonische Atmosphäre zu schaffen. Einfache, aber elegante Tischdekoration mit frischen Blumen passt perfekt zu diesem grünen Ambiente.
 
-**Aktivitäten:** Organisiere eine kleine Entdeckungstour durch die Biosphäre, bei der die Gäste mehr über die verschiedenen Pflanzen und Tiere erfahren können. 
+**Aktivitäten:** Organisiere eine kleine Entdeckungstour durch die Biosphäre, bei der die Gäste mehr über die verschiedenen Pflanzen und Tiere erfahren können.
 
 ### 2. **Park Babelsberg – Romantische Kulisse mit Blick auf die Havel**
 
@@ -30,7 +30,7 @@ Der Park Babelsberg ist ein verstecktes Juwel in Potsdam, das eine romantische K
 
 **Tipp für die Dekoration:** Verwende einen Mix aus pastellfarbenen und natürlichen Elementen, wie zum Beispiel Weidenkörbe und handgemachte Girlanden aus Papierblumen.
 
-**Aktivitäten:** Plane eine kleine Schatzsuche für die Kinder, die im Park versteckten „Baby-Schätze“ sucht. 
+**Aktivitäten:** Plane eine kleine Schatzsuche für die Kinder, die im Park versteckten „Baby-Schätze“ sucht.
 
 ### 3. **Schlosspark Sanssouci – Historischer Flair und königliche Atmosphäre**
 
@@ -50,7 +50,7 @@ Der Botanische Garten Potsdam ist ein weiterer wunderbarer Ort für eine nachhal
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Wenn du eine Babyparty planst, ist es wichtig, auch bei den Einladungen nachhaltige Entscheidungen zu treffen. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/) starten? Bei Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die umweltfreundlich und gleichzeitig individuell sind. 
+Wenn du eine Babyparty planst, ist es wichtig, auch bei den Einladungen nachhaltige Entscheidungen zu treffen. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/) starten? Bei Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die umweltfreundlich und gleichzeitig individuell sind.
 
 Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen kreativ gestalten, inklusive ansprechender Designs und persönlicher Botschaften, die zu deinem Anlass passen. So erhalten deine Gäste eine stilvolle Einladung, die nicht nur schön aussieht, sondern auch keinen Papierabfall verursacht.
 

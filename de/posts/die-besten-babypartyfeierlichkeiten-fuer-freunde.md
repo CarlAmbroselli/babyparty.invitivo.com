@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur eine Feier für die werdende Mutter, sondern auch eine wunderbare Gelegenheit, die besten Freunde des kleinen Wunders zusammenzubringen. Schließlich kann das Baby noch nicht selbst entscheiden, mit wem es seine ersten Partys feiert – also überlasse das den Erwachsenen! Hier erfährst du, wie du eine unvergessliche Babyparty für die Freunde deines Babys planst, bei der Lachen, Spiel und kreative Ideen im Mittelpunkt stehen.
 
-![Babyparty für Freunde](/img/babyparty-friends.webp)
+![Babyparty für Freunde](/img/picnic-park.webp)
 
 ### 1. **Das Thema – Kreativ und Unvergesslich**
 

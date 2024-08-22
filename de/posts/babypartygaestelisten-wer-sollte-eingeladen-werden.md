@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf eine Babyparty ist wie das Gefühl, auf dem höchsten Punkt einer Achterbahn zu sitzen – ein aufregender Moment, bevor der Spaß so richtig losgeht! Doch bevor du dich ins Partyvergnügen stürzt, gibt es eine wichtige Aufgabe zu bewältigen: die Gästeliste. Wer soll eingeladen werden? Und wie stellst du sicher, dass alle wichtigen Menschen an diesem besonderen Tag dabei sind? Lass uns gemeinsam die Geheimnisse einer perfekten Gästeliste lüften!
 
-![Babyparty Gästeliste](/img/babyparty-invitation.webp)
+![Babyparty Gästeliste](/img/picnic-park.webp)
 
 ### 1. **Die Familie: Deine ersten Gäste**
 

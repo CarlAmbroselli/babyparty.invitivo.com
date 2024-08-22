@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist viel mehr als nur eine Feier – sie ist ein Fest der Freundschaft, ein Moment, in dem du deine besten Freunde um dich versammelst, um das kommende kleine Wunder zu feiern. Wenn du also mit der Planung beginnst, denk daran: Es geht nicht nur um das Baby, sondern um das gemeinsame Erlebnis! Hier sind einige Tipps, wie du eine Babyparty gestalten kannst, die sowohl für die werdende Mutter als auch für ihre Freunde unvergesslich wird.
 
-![Babyparty mit Freunden](/img/babyparty-friends.webp)
+![Babyparty mit Freunden](/img/picnic-park.webp)
 
 ### 1. **Wähle das perfekte Setting – Zuhause oder im Freien?**
 
@@ -31,7 +31,7 @@ Die besten Erinnerungen entstehen oft in Momenten des Lachens und der Freude. Pl
 
 Das leibliche Wohl spielt eine wichtige Rolle bei jeder Feier. Stelle ein Buffet zusammen, das sowohl herzhafte als auch süße Leckereien bietet. Denke an einfache Snacks, die man im Stehen genießen kann, sowie an ein paar ausgefallene Drinks – sei es alkoholfrei oder mit einem Spritzer Sekt für die Mamas!
 
-**Tipp für die Präsentation:** Verwandle deine Snacks in kleine Kunstwerke! Nutze stylische Platten und buntes Geschirr, um die Speisen ansprechend zu inszenieren. 
+**Tipp für die Präsentation:** Verwandle deine Snacks in kleine Kunstwerke! Nutze stylische Platten und buntes Geschirr, um die Speisen ansprechend zu inszenieren.
 
 ### 4. **Einladungen, die Freude bereiten – Weg mit WhatsApp!**
 

@@ -50,7 +50,7 @@ Der Park Rosenhöhe ist ein wahrer Geheimtipp in Darmstadt. Mit seinen wundersch
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty in Darmstadt ist nicht nur eine Feier, sondern auch eine Gelegenheit, umweltbewusst zu handeln. Warum also nicht auch bei den Einladungen auf Nachhaltigkeit setzen? Anstatt eine weitere WhatsApp-Gruppe zu erstellen, kannst du deine Gäste mit einer schönen [digitalen Einladung](https://invitivo.com/) überraschen. 
+Eine Babyparty in Darmstadt ist nicht nur eine Feier, sondern auch eine Gelegenheit, umweltbewusst zu handeln. Warum also nicht auch bei den Einladungen auf Nachhaltigkeit setzen? Anstatt eine weitere WhatsApp-Gruppe zu erstellen, kannst du deine Gäste mit einer schönen [digitalen Einladung](https://invitivo.com/) überraschen.
 
 Mit [Invitivo](https://invitivo.com/) hast du die Möglichkeit, personalisierte digitale Einladungen zu gestalten, die nicht nur umweltfreundlich sind, sondern auch eine besondere Note verleihen. Diese Einladungen sind eine kreative Alternative zu klassischen Einladungen und bieten eine wunderschöne, ansprechende Gestaltung, die dem besonderen Anlass gerecht wird.
 

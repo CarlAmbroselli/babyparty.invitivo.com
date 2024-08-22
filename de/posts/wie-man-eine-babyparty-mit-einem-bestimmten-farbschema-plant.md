@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist ein freudiger Anlass, der nicht nur die werdende Mutter, sondern auch ihre Freunde und Familie zusammenbringt. Der Zauber liegt nicht nur in den süßen Babygeschenken und herzlichen Umarmungen, sondern auch in der kreativen Gestaltung der Feier. Ein durchdachtes Farbschema kann das gesamte Erlebnis verwandeln und für eine einheitliche, harmonische Atmosphäre sorgen. Aber wie plant man eine Babyparty, die nicht nur schön aussieht, sondern auch unvergesslich bleibt? Lass uns gemeinsam eintauchen!
 
-![Bunte Babyparty-Dekoration](/img/baby-shower-color-scheme.webp)
+![Bunte Babyparty-Dekoration](/img/picnic-park.webp)
 
 ### 1. **Die Auswahl des Farbschemas: Der erste Schritt zur Traumfeier**
 

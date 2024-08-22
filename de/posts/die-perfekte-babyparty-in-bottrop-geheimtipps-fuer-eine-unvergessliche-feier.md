@@ -28,7 +28,7 @@ Das Café im Stadtgarten ist ein verstecktes Juwel in Bottrop. Umgeben von blüh
 
 Wenn du etwas Außergewöhnliches möchtest, ist das Kraftwerk Bottrop ein interessanter Ort. Die Kombination aus industriellem Flair und moderner Kunst schafft eine einzigartige Atmosphäre, die perfekt für eine unkonventionelle Babyparty ist.
 
-**Tipp für die Dekoration:** Setze auf einen Mix aus Vintage und modern – Holz, Metall und frische Farben schaffen eine harmonische Stimmung. 
+**Tipp für die Dekoration:** Setze auf einen Mix aus Vintage und modern – Holz, Metall und frische Farben schaffen eine harmonische Stimmung.
 
 **Aktivitäten:** Eine Fotostation mit witzigen Requisiten sorgt für tolle Erinnerungsfotos. Vielleicht gibt es auch die Möglichkeit, eine kleine Führung durch das Kraftwerk zu organisieren.
 
@@ -42,7 +42,7 @@ Der Park der Gärten in Bottrop ist der perfekte Ort für eine entspannte Babypa
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Bei einer Babyparty im Freien sollte auch die Einladung umweltfreundlich gestaltet werden. Statt einer einfachen WhatsApp-Gruppe, warum nicht eine persönliche [digitale Einladung für deine Babyparty](https://invitivo.com/)? Mit Invitivo kannst du wunderschöne und individuelle Einladungen erstellen, die nicht nur nachhaltig sind, sondern auch eine persönliche Note haben. 
+Bei einer Babyparty im Freien sollte auch die Einladung umweltfreundlich gestaltet werden. Statt einer einfachen WhatsApp-Gruppe, warum nicht eine persönliche [digitale Einladung für deine Babyparty](https://invitivo.com/)? Mit Invitivo kannst du wunderschöne und individuelle Einladungen erstellen, die nicht nur nachhaltig sind, sondern auch eine persönliche Note haben.
 
 Mit [Invitivo](https://invitivo.com/) kannst du deine Einladung kreativ gestalten – wähle aus verschiedenen Designs, füge Bilder hinzu und schreibe persönliche Nachrichten. Deine Gäste erhalten eine ansprechende Einladung, die sie mit nur einem Klick annehmen können – alles ohne Papierabfall und unnötigen CO2-Ausstoß.
 

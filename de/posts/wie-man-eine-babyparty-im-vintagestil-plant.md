@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist ein magischer Moment, der den Beginn eines neuen Kapitels feiert. Warum nicht diesen besonderen Anlass mit einem Hauch von Nostalgie verzaubern? Eine Babyparty im Vintage-Stil bringt Erinnerungen an die guten alten Zeiten zurück und bietet eine charmante Kulisse für allerlei Feierlichkeiten. Hier sind einige kreative Tipps und Ideen, um deine Vintage-Babyparty unvergesslich zu machen!
 
-![Vintage Babyparty](/img/vintage-babyparty.webp)
+![Vintage Babyparty](/img/picnic-park.webp)
 
 ### 1. **Die perfekte Location: Ein Ort voller Erinnerungen**
 

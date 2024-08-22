@@ -36,13 +36,13 @@ Die Wiesen rund um die Obernahe sind eine hervorragende Wahl für eine rustikale
 
 Wenn du etwas Besonderes suchst, ist das Schloss Siegen eine atemberaubende Kulisse für eine Babyparty. Der historische Charme und die schöne Architektur bieten eine elegante Kulisse, die das Ereignis unvergesslich macht.
 
-**Tipp für die Dekoration:** Nutze elegante Tischdecken, Kerzen und florale Arrangements, um die Atmosphäre des Schlosses zu ergänzen. 
+**Tipp für die Dekoration:** Nutze elegante Tischdecken, Kerzen und florale Arrangements, um die Atmosphäre des Schlosses zu ergänzen.
 
 **Aktivitäten im Freien:** Eine kleine Tour durch die Schlossgärten oder ein kreativer Workshop, bei dem die Gäste Geschenke für das Baby gestalten, kann die Feier bereichern.
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty kann nicht nur ein schönes Ereignis sein, sondern auch nachhaltig gestaltet werden. Statt einer WhatsApp-Gruppe, die oft unpersönlich wirkt, versende doch eine [digitale Einladung für deine Babyparty](https://invitivo.com/). Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch die Vorfreude auf das Event steigern. 
+Eine Babyparty kann nicht nur ein schönes Ereignis sein, sondern auch nachhaltig gestaltet werden. Statt einer WhatsApp-Gruppe, die oft unpersönlich wirkt, versende doch eine [digitale Einladung für deine Babyparty](https://invitivo.com/). Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch die Vorfreude auf das Event steigern.
 
 Die Einladungen von [Invitivo](https://invitivo.com/) sind nicht nur optisch ansprechend, sie ermöglichen es dir auch, die Details der Feier einfach und stilvoll zu kommunizieren. Deine Gäste können ganz einfach mit nur einem Klick zusagen und du vermeidest unnötigen Papierabfall – ein kleiner Schritt für die Umwelt!
 

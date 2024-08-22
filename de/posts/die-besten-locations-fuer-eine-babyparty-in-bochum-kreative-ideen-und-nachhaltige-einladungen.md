@@ -42,7 +42,7 @@ Der Stadtpark Bochum ist eine Oase der Ruhe und eignet sich hervorragend für ei
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Wenn du eine Babyparty planst, denk daran, auch bei den Einladungen nachhaltig zu handeln. Statt einer weiteren WhatsApp-Gruppe, die schnell in Vergessenheit gerät, solltest du die Vorteile von digitalen Einladungen nutzen. Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch einen persönlichen Touch haben. 
+Wenn du eine Babyparty planst, denk daran, auch bei den Einladungen nachhaltig zu handeln. Statt einer weiteren WhatsApp-Gruppe, die schnell in Vergessenheit gerät, solltest du die Vorteile von digitalen Einladungen nutzen. Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch einen persönlichen Touch haben.
 
 Vergiss die unpersönlichen Massen-Nachrichten und entscheide dich für eine Einladung, die das Besondere deiner Babyparty unterstreicht. Auf Invitivo kannst du deine Einladungen individuell gestalten und deinen Gästen eine stilvolle und ansprechende Einladung senden. Jeder Gast kann mit nur einem Klick zusagen, und das alles ohne Papierabfall!
 

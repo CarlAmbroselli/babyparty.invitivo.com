@@ -13,13 +13,13 @@ layout: layouts/post.njk
 
 Eine Babyparty ist mehr als nur eine Feier – sie ist der Auftakt zu einem neuen Abenteuer, für das werdende Mütter jede Unterstützung gebrauchen können. Aber was schenkt man der zukünftigen Mama, die schon alles hat? Oder besser gesagt: Was kann ihr wirklich das Leben erleichtern? In diesem Blogpost teilen wir einige praktische Geschenkideen, die sicher Freude bereiten und gleichzeitig hilfreich sind. Und hey, während wir darüber nachdenken, wie wir die perfekte Babyparty gestalten, sollten wir auch nicht die Einladung vergessen. Eine digitale Einladung über Invitivo bringt Stil und Persönlichkeit in dein Event!
 
-![Geschenke für werdende Mütter](/img/baby-gifts.webp)
+![Geschenke für werdende Mütter](/img/picnic-park.webp)
 
 ### 1. **Die ultimativen Pflegeprodukte für die Mama**
 
 Schwangerschaft kann ziemlich herausfordernd sein, sowohl körperlich als auch emotional. Warum also nicht ein Geschenkset mit hochwertigen Pflegeprodukten zusammenstellen? Denke an feuchtigkeitsspendende Körperlotionen, entspannende Badeöle und vielleicht sogar einen Gutschein für eine Massage. Diese kleinen Oasen der Entspannung helfen der werdenden Mutter, sich in der Zeit vor der Geburt etwas Gutes zu tun.
 
-**Tipp:** Achte darauf, Produkte zu wählen, die frei von schädlichen Chemikalien sind und speziell für Schwangere entwickelt wurden. 
+**Tipp:** Achte darauf, Produkte zu wählen, die frei von schädlichen Chemikalien sind und speziell für Schwangere entwickelt wurden.
 
 ### 2. **Ein praktischer Wickeltisch-Organizer**
 
@@ -43,7 +43,7 @@ Werdende Mütter haben so viele Fragen und Unsicherheiten. Ein Online-Kurs zu Th
 
 Und während du über all diese tollen Geschenke nachdenkst, vergiss nicht, die Einladungen zu deiner Babyparty zu gestalten! Anstatt eine weitere WhatsApp-Gruppe zu erstellen, solltest du in Betracht ziehen, eine digitale Einladung über [Invitivo](https://invitivo.com/) zu versenden. Mit Invitivo kannst du wunderschöne, personalisierte Einladungen kreieren, die das Ereignis aufwerten und den Gästen einen Vorgeschmack auf die bevorstehende Feier geben.
 
-Mit Invitivo hast du die Möglichkeit, deine Einladungen so zu gestalten, dass sie genau zu deinem Stil und dem Anlass passen. Du kannst sogar praktische Details wie Geschenklisten oder Mitbring-Optionen direkt in die Einladung einfügen. So haben deine Gäste alle Informationen auf einen Blick und können unkompliziert zusagen. 
+Mit Invitivo hast du die Möglichkeit, deine Einladungen so zu gestalten, dass sie genau zu deinem Stil und dem Anlass passen. Du kannst sogar praktische Details wie Geschenklisten oder Mitbring-Optionen direkt in die Einladung einfügen. So haben deine Gäste alle Informationen auf einen Blick und können unkompliziert zusagen.
 
 ### **Fazit**
 

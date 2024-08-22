@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist mehr als nur ein fröhliches Beisammensein; sie ist eine Feier des Lebens, der Vorfreude und, ja, auch der kleinen Missgeschicke, die mit einem Neugeborenen einhergehen. Doch wie sorgt man dafür, dass sowohl die Erwachsenen als auch die kleinen Gäste auf ihre Kosten kommen? Hier sind einige kreative Ideen, die die perfekte Mischung aus Spaß, Spiel und Entspannung bieten – und das alles in einer Atmosphäre, die auch die werdende Mama strahlen lässt!
 
-![Babyparty Aktivitäten](/img/babyparty-activities.webp)
+![Babyparty Aktivitäten](/img/picnic-park.webp)
 
 ### 1. **Baby-Bingo – Ein Spiel für alle**
 

@@ -42,7 +42,7 @@ Feiere deine Babyparty am Ufer des Neckars, wo die sanften Wellen und das sanfte
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um deine Babyparty noch nachhaltiger zu gestalten, beginne mit den Einladungen. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht digitale Einladungen nutzen? Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die sowohl umweltfreundlich als auch ansprechend sind. 
+Um deine Babyparty noch nachhaltiger zu gestalten, beginne mit den Einladungen. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht digitale Einladungen nutzen? Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die sowohl umweltfreundlich als auch ansprechend sind.
 
 Diese Einladungen bieten eine hochwertige Gestaltung und kommen mit einem persönlichen Touch, der dem Anlass gerecht wird. Deine Gäste können die Einladung mit nur einem Klick annehmen – ganz ohne Papierabfall und unnötigen CO2-Fußabdruck.
 

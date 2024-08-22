@@ -34,7 +34,7 @@ Die Moselpromenade ist ein weiterer malerischer Ort in Trier, der sich hervorrag
 
 ### 3. **Das Amphitheater Trier – Ein Hauch von Geschichte**
 
-Das römische Amphitheater in Trier bietet eine beeindruckende Kulisse für eine Babyparty. Umgeben von historischen Mauern und der Atmosphäre vergangener Zeiten wird deine Feier zu einem einmaligen Erlebnis. 
+Das römische Amphitheater in Trier bietet eine beeindruckende Kulisse für eine Babyparty. Umgeben von historischen Mauern und der Atmosphäre vergangener Zeiten wird deine Feier zu einem einmaligen Erlebnis.
 
 **Tipp für die Dekoration:** Nutze antike und rustikale Dekorationselemente, um das historische Flair des Ortes zu unterstreichen. Eine Kombination aus weißen und goldenen Farben wirkt elegant und festlich.
 
@@ -46,11 +46,11 @@ Der Palastgarten in Trier ist der perfekte Ort für eine stilvolle Babyparty. Mi
 
 **Tipp für die Dekoration:** Verwende elegante Tischdecken und Blumenarrangements, um eine festliche Stimmung zu erzeugen. Lichterketten können für eine gemütliche Atmosphäre sorgen, besonders wenn die Feier in den Abendstunden stattfindet.
 
-**Aktivitäten im Freien:** Plane eine Fotowand mit lustigen Requisiten, an der die Gäste Erinnerungsfotos machen können. 
+**Aktivitäten im Freien:** Plane eine Fotowand mit lustigen Requisiten, an der die Gäste Erinnerungsfotos machen können.
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty im Freien ist eine großartige Gelegenheit, um auch bei den Einladungen nachhaltig zu denken. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, solltest du die Vorteile von [digitalen Einladungen](https://invitivo.com/) nutzen. Bei Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine viel persönlichere Note haben. 
+Eine Babyparty im Freien ist eine großartige Gelegenheit, um auch bei den Einladungen nachhaltig zu denken. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, solltest du die Vorteile von [digitalen Einladungen](https://invitivo.com/) nutzen. Bei Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine viel persönlichere Note haben.
 
 Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell anpassen und dabei sicherstellen, dass sie dem Anlass gerecht werden. Deine Gäste erhalten eine Einladung, die sie mit nur einem Klick annehmen können – und das alles ohne Papierabfall und unnötigen CO2-Fußabdruck.
 

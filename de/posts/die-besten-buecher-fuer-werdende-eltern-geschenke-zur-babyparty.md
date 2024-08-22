@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur ein Fest, um die werdenden Eltern zu feiern, sondern auch eine wunderbare Gelegenheit, ihnen wertvolle Tipps und nützliche Geschenke mit auf den Weg zu geben. Was könnte da besser passen als ein gutes Buch? Hier sind einige der besten Bücher, die werdende Eltern nicht nur zum Schmunzeln bringen, sondern auch echte Lebensretter in den ersten Monaten mit dem neuen Erdenbürger sein können. Und während wir uns auf die literarische Reise begeben, sollten wir auch die Einladung zu diesem besonderen Event nicht vergessen. Warum sich mit einer langweiligen WhatsApp-Gruppe abmühen, wenn es eine stilvolle und persönliche Alternative gibt?
 
-![Bücher für werdende Eltern](/img/baby-books.webp)
+![Bücher für werdende Eltern](/img/picnic-park.webp)
 
 ### 1. **"Das erste Jahr – alles was du wissen musst" von Ursel Bühring**
 

@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur ein Fest für die werdende Mutter, sondern auch ein wunderbarer Anlass, um die ganze Familie zusammenzubringen und diesen neuen Lebensabschnitt zu feiern. Aber wie plant man eine Babyparty, die nicht nur die großen Tanten und Onkel, sondern auch die kleinen Cousinen und Cousins begeistert? Hier sind einige kreative Ideen, um deine Familienbabyparty zu einem unvergesslichen Erlebnis zu machen.
 
-![Familien-Babyparty](/img/family-babyparty.webp)
+![Familien-Babyparty](/img/picnic-park.webp)
 
 ### 1. **Das richtige Setting: Zu Hause oder im Garten?**
 
@@ -41,6 +41,6 @@ Das Beste daran? Deine Gäste können mit einem einzigen Klick zusagen oder absa
 
 ### **Fazit**
 
-Eine Babyparty für die Familie ist eine wunderbare Gelegenheit, um gemeinsam zu feiern und unvergessliche Erinnerungen zu schaffen. Mit der richtigen Planung, kreativen Ideen und vor allem mit den passenden Einladungen von [Invitivo](https://invitivo.com/) wird deine Feier garantiert ein voller Erfolg. Vergiss nicht, die kleinen Details zu beachten, die das Event besonders machen – denn am Ende zählt nicht nur das Fest selbst, sondern auch die gemeinsamen Momente und das Zusammensein. 
+Eine Babyparty für die Familie ist eine wunderbare Gelegenheit, um gemeinsam zu feiern und unvergessliche Erinnerungen zu schaffen. Mit der richtigen Planung, kreativen Ideen und vor allem mit den passenden Einladungen von [Invitivo](https://invitivo.com/) wird deine Feier garantiert ein voller Erfolg. Vergiss nicht, die kleinen Details zu beachten, die das Event besonders machen – denn am Ende zählt nicht nur das Fest selbst, sondern auch die gemeinsamen Momente und das Zusammensein.
 
 Mach dich bereit für eine fröhliche und herzliche Babyparty, die all deine Familienmitglieder zusammenbringt und alle Herzen höher schlagen lässt!

@@ -42,7 +42,7 @@ Der Bürgerpark ist eine der schönsten Grünanlagen in Bremen und bietet viele 
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Bei der Planung einer Babyparty in Bremen solltest du auch an die Einladungen denken. Statt einer weiteren WhatsApp-Gruppe, die schnell in der Masse untergeht, wähle lieber eine nachhaltige Option mit [Invitivo](https://invitivo.com/). Hier kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch einen persönlichen Touch haben. 
+Bei der Planung einer Babyparty in Bremen solltest du auch an die Einladungen denken. Statt einer weiteren WhatsApp-Gruppe, die schnell in der Masse untergeht, wähle lieber eine nachhaltige Option mit [Invitivo](https://invitivo.com/). Hier kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch einen persönlichen Touch haben.
 
 Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell gestalten, inklusive ansprechender Grafiken und Texten, die perfekt zu deiner Babyparty passen. So erhalten deine Gäste eine kreative Einladung, die sie mit nur einem Klick annehmen können – ganz ohne Papierverbrauch und CO2-Emissionen.
 

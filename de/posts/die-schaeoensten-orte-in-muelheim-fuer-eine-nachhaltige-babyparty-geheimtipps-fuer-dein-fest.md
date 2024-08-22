@@ -42,7 +42,7 @@ Schloss Broich ist nicht nur ein historisches Wahrzeichen, sondern auch ein wund
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um deine Babyparty in Mülheim nachhaltig zu gestalten, solltest du auch bei den Einladungen auf Umweltfreundlichkeit setzen. Anstelle einer klassischen WhatsApp-Gruppe empfehlen wir die Nutzung von [digitalen Einladungen](https://invitivo.com/). Mit Invitivo kannst du wunderschöne, personalisierte Einladungen erstellen, die nicht nur nachhaltig sind, sondern auch einen persönlichen Touch haben. 
+Um deine Babyparty in Mülheim nachhaltig zu gestalten, solltest du auch bei den Einladungen auf Umweltfreundlichkeit setzen. Anstelle einer klassischen WhatsApp-Gruppe empfehlen wir die Nutzung von [digitalen Einladungen](https://invitivo.com/). Mit Invitivo kannst du wunderschöne, personalisierte Einladungen erstellen, die nicht nur nachhaltig sind, sondern auch einen persönlichen Touch haben.
 
 Im Vergleich zu einer simplen Nachricht auf dem Smartphone bieten diese Einladungen eine ansprechende Gestaltung und ermöglichen es dir, den Gästen schon vor dem Fest eine besondere Vorfreude zu bereiten. Du kannst deine Einladungen individuell anpassen, mit schönen Grafiken und Texten, die das Thema deiner Babyparty widerspiegeln.
 

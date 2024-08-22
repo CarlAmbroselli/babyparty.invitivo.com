@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur eine Feier, sondern auch eine Gelegenheit, unvergessliche Erinnerungen zu schaffen und die Vorfreude auf das neue Leben zu zelebrieren. Aber wie kann man das Ganze noch aufregender gestalten? Richtig, mit kreativen Umfragen! Hier sind einige originelle Fragen für deine Babyparty-Umfragen, die nicht nur für Gesprächsstoff sorgen, sondern auch den Spaßfaktor erhöhen. Und keine Sorge, wir zeigen dir auch, wie du deine Einladungen mit einem Hauch von Magie und Stil gestalten kannst.
 
-![Babyparty-Umfrage](/img/babyparty-survey.webp)
+![Babyparty-Umfrage](/img/picnic-park.webp)
 
 ### 1. **Die Namenswahl – Wer hat die besten Ideen?**
 
@@ -39,6 +39,6 @@ Mit Invitivo hast du die Möglichkeit, deine Einladungen ganz individuell zu ges
 
 ### **Fazit**
 
-Umfragen während deiner Babyparty sind eine fantastische Möglichkeit, um das Eis zu brechen und die Gäste miteinander ins Gespräch zu bringen. Mit Fragen, die sowohl humorvoll als auch bedeutungsvoll sind, schaffst du eine Atmosphäre voller Lachen und Freude. Vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten, um das gesamte Erlebnis zu einem unvergesslichen Ereignis zu machen. 
+Umfragen während deiner Babyparty sind eine fantastische Möglichkeit, um das Eis zu brechen und die Gäste miteinander ins Gespräch zu bringen. Mit Fragen, die sowohl humorvoll als auch bedeutungsvoll sind, schaffst du eine Atmosphäre voller Lachen und Freude. Vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten, um das gesamte Erlebnis zu einem unvergesslichen Ereignis zu machen.
 
 Mach deine Babyparty zu einem einzigartigen Fest, an das sich alle gerne erinnern werden. Lass die Kreativität sprudeln und genieße jeden Moment der Vorfreude!

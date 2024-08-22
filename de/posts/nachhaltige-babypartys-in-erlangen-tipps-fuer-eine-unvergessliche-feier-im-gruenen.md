@@ -36,7 +36,7 @@ Der Schlossgarten in Erlangen ist ein wahrer Geheimtipp für eine elegante Babyp
 
 Für eine Babyparty abseits der Massen bietet sich der Tennenloher Wald an. Umgeben von Bäumen und Natur kannst du hier eine entspannte Atmosphäre schaffen. Ideal für eine kleine, intime Feier mit Familie und Freunden.
 
-**Tipp für die Dekoration:** Halte die Dekoration natürlich mit Holzscheiben als Tischuntersetzer und handgemachten Girlanden aus Papier oder Stoff. 
+**Tipp für die Dekoration:** Halte die Dekoration natürlich mit Holzscheiben als Tischuntersetzer und handgemachten Girlanden aus Papier oder Stoff.
 
 **Aktivitäten im Freien:** Organisiere eine Schatzsuche im Wald oder Spiele im Freien wie Sackhüpfen, die für Spaß und Bewegung sorgen.
 

@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist ein einmaliges Ereignis, das mit Freude, Lachen und – ganz wichtig – köstlichen Leckereien gefeiert werden sollte. Wer könnte schon „Nein“ zu einem schönen Stück Torte oder einem bunten Cupcake sagen? In diesem Beitrag stellen wir dir die besten Dessert-Ideen vor, die deine Babyparty unvergesslich machen werden. Und während du die süßesten Kreationen planst, vergiss nicht, auch deine Einladungen mit einem besonderen Touch zu versehen!
 
-![Süße Babyparty-Desserts](/img/babyparty-desserts.webp)
+![Süße Babyparty-Desserts](/img/picnic-park.webp)
 
 ### 1. **Babybauch-Torte – Ein echter Hingucker!**
 

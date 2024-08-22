@@ -41,7 +41,7 @@ Warum nicht eine Babyparty ganz anders gestalten und sie in Verbindung mit einer
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty sollte nicht nur schön, sondern auch nachhaltig sein. Anstatt einer weiteren WhatsApp-Gruppe, warum nicht auf eine [digitale Einladung für deine Babyparty](https://invitivo.com/) setzen? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die umweltfreundlich sind und der Feier eine persönliche Note verleihen. 
+Eine Babyparty sollte nicht nur schön, sondern auch nachhaltig sein. Anstatt einer weiteren WhatsApp-Gruppe, warum nicht auf eine [digitale Einladung für deine Babyparty](https://invitivo.com/) setzen? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die umweltfreundlich sind und der Feier eine persönliche Note verleihen.
 
 Die Einladungen bieten eine ansprechende Gestaltung und sind viel bedeutungsvoller als eine einfache Textnachricht. Du kannst sie ganz nach deinen Wünschen gestalten, einschließlich Bildern und Texten, die perfekt zu deiner Babyparty passen. Die Gäste können die Einladung mit nur einem Klick annehmen, ohne dass Papierabfall entsteht.
 

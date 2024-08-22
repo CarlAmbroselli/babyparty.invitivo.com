@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Babypartys sind mehr als nur ein Vorfeiern auf den neuen Erdenbürger – sie sind ein kulturelles Phänomen, das in den verschiedenen Ecken der Welt unterschiedlich gefeiert wird. Während wir hierzulande oft zu Kuchen und Geschenken greifen, laden andere Länder zu spektakulären Festen ein, die voller einzigartiger Traditionen stecken. Lass uns auf eine kleine Reise um die Welt gehen und entdecken, wie man Babyfreuden auf internationaler Ebene zelebriert. Und keine Sorge, wir zeigen dir auch, wie du deine Gäste stilvoll und umweltfreundlich einladen kannst!
 
-![Internationale Babyparty](/img/global-babyparty.webp)
+![Internationale Babyparty](/img/picnic-park.webp)
 
 ### 1. **Die Babyshower in den USA – Überraschung und Geschenke**
 
@@ -41,7 +41,7 @@ In Mexiko wird zu Ehren des neuen Lebens oft eine „Ronda“ gefeiert, bei der 
 
 ### **Einladung mit Stil und Nachhaltigkeit**
 
-Egal, wie du deine Babyparty gestaltest, eine ansprechende Einladung ist der erste Schritt, um deine Gäste in die richtige Stimmung zu bringen. Anstatt den klassischen Gruppenchat zu nutzen, der oft mehr Verwirrung stiftet als alles andere, ist eine digitale Einladung über [Invitivo](https://invitivo.com/) eine wunderbare Alternative. Hier kannst du deine Einladungen individuell gestalten, sie sind umweltfreundlich und bieten deinen Gästen eine ansprechende Art der Kommunikation. 
+Egal, wie du deine Babyparty gestaltest, eine ansprechende Einladung ist der erste Schritt, um deine Gäste in die richtige Stimmung zu bringen. Anstatt den klassischen Gruppenchat zu nutzen, der oft mehr Verwirrung stiftet als alles andere, ist eine digitale Einladung über [Invitivo](https://invitivo.com/) eine wunderbare Alternative. Hier kannst du deine Einladungen individuell gestalten, sie sind umweltfreundlich und bieten deinen Gästen eine ansprechende Art der Kommunikation.
 
 Mit [Invitivo](https://invitivo.com/) behältst du den Überblick über Zusagen und kannst Änderungen problemlos anpassen. Ob du GIFs, Deko-Ideen oder sogar eine Mitbringliste hinzufügen möchtest – alles ist möglich!
 

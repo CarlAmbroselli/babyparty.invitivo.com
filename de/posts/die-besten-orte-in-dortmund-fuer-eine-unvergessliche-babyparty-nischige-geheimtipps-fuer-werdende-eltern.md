@@ -28,13 +28,13 @@ Der Rombergpark ist eine grüne Oase in Dortmund, die oft übersehen wird. Mit s
 
 Der Fredenbaumpark ist ein weiterer Geheimtipp, wenn es um eine entspannte Babyparty geht. Mit seinen schattenspendenden Bäumen und dem kleinen See bietet der Park ideale Bedingungen für ein Picknick unter freiem Himmel. Hier können sich die Gäste entspannt zurücklehnen und gemeinsam feiern.
 
-**Tipp für die Dekoration:** Verwende natürliche Elemente wie Holzscheiben als Tischunterlagen und dekorative Steine, um eine rustikale Atmosphäre zu schaffen. 
+**Tipp für die Dekoration:** Verwende natürliche Elemente wie Holzscheiben als Tischunterlagen und dekorative Steine, um eine rustikale Atmosphäre zu schaffen.
 
 **Aktivitäten:** Eine Spielecke mit klassischen Outdoor-Spielen wie Boule oder Federball sorgt für Spaß und Bewegung.
 
 ### 3. **Westfalenpark – Vielfältige Möglichkeiten für dein Fest**
 
-Der Westfalenpark ist zwar bekannter, hat aber viele ruhige Ecken, die sich ideal für eine Babyparty eignen. Die weitläufigen Flächen und der schöne Rosengarten bieten eine traumhafte Kulisse für ein fröhliches Fest. 
+Der Westfalenpark ist zwar bekannter, hat aber viele ruhige Ecken, die sich ideal für eine Babyparty eignen. Die weitläufigen Flächen und der schöne Rosengarten bieten eine traumhafte Kulisse für ein fröhliches Fest.
 
 **Tipp für die Dekoration:** Setze auf eine bunte, fröhliche Dekoration mit Wimpelketten und Luftballons, die perfekt zur blühenden Umgebung passen.
 
@@ -42,7 +42,7 @@ Der Westfalenpark ist zwar bekannter, hat aber viele ruhige Ecken, die sich idea
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty in der Natur ist nicht nur ein wunderbares Erlebnis, sondern bietet auch die Möglichkeit, nachhaltig zu feiern. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, wie wäre es mit einer schönen, digitalen Einladung? Mit [Invitivo](https://invitivo.com/) kannst du personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben. 
+Eine Babyparty in der Natur ist nicht nur ein wunderbares Erlebnis, sondern bietet auch die Möglichkeit, nachhaltig zu feiern. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, wie wäre es mit einer schönen, digitalen Einladung? Mit [Invitivo](https://invitivo.com/) kannst du personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben.
 
 Die Einladungen von Invitivo bieten eine ansprechende Gestaltung und sind eine wunderbare Alternative zu einfachen Nachrichten. Deine Gäste können mit nur einem Klick zusagen, und du vermeidest dabei unnötigen Papierabfall und CO2-Emissionen.
 

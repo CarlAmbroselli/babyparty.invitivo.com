@@ -41,7 +41,7 @@ Der Kiessee, ein beliebter Erholungsort am Stadtrand von Göttingen, bietet eine
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Für eine Babyparty in Göttingen ist es wichtig, auch an die Umwelt zu denken. Setze auf nachhaltige Einladungen und verzichte auf eine weitere WhatsApp-Gruppe. Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die deine Babyparty perfekt in Szene setzen und zudem umweltfreundlich sind. 
+Für eine Babyparty in Göttingen ist es wichtig, auch an die Umwelt zu denken. Setze auf nachhaltige Einladungen und verzichte auf eine weitere WhatsApp-Gruppe. Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die deine Babyparty perfekt in Szene setzen und zudem umweltfreundlich sind.
 
 Diese Einladungen bieten eine ansprechende Gestaltung und eine persönliche Note, die eine einfache Nachricht auf dem Smartphone nicht bieten kann. Du kannst sie individuell anpassen und deinen Gästen eine hochwertige Einladung senden, die sie mit nur einem Klick annehmen können. So vermeidest du Papierabfall und reduzierst den CO2-Fußabdruck.
 

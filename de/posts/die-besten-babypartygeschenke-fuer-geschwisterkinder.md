@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur ein Fest für die werdenden Eltern, sondern auch ein großer Moment für die Geschwisterkinder. Schließlich wird das kleine Wesen, das bald die Familie bereichern wird, auch die gewohnte Ordnung der „alten“ Welt auf den Kopf stellen! Um den Geschwistern die bevorstehenden Veränderungen ein wenig zu versüßen, sind durchdachte Geschenke eine tolle Idee. Hier sind einige kreative Vorschläge, die nicht nur die Kleinen erfreuen, sondern auch ihre Neugier und Vorfreude auf das neue Baby wecken.
 
-![Geschenke für Geschwisterkinder](/img/sibling-gifts.webp)
+![Geschenke für Geschwisterkinder](/img/picnic-park.webp)
 
 ### 1. **Personalisierte Geschwistershirts – Gemeinsam stark!**
 

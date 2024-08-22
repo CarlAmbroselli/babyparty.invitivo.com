@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist mehr als nur ein Fest – sie ist ein emotionales Kaleidoskop aus Lachen, Tränen und unvergesslichen Momenten, die es wert sind, festgehalten zu werden. Aber wie gelingt es dir, diese flüchtigen Augenblicke in Bildern zu konservieren, die auch in Jahren noch ein Lächeln auf dein Gesicht zaubern? Hier sind einige kreative Fototipps, die dir helfen, die besten Momente deiner Babyparty festzuhalten.
 
-![Babyparty Fotoshooting](/img/babyparty-photography.webp)
+![Babyparty Fotoshooting](/img/picnic-park.webp)
 
 ### 1. **Der richtige Moment: Schnapp dir die Emotionen!**
 
@@ -41,9 +41,9 @@ Gruppenfotos sind ein Muss auf jeder Babyparty, aber sie müssen nicht langweili
 
 ### **Einladung zur Feier mit [Invitivo](https://invitivo.com/create)**
 
-Bevor du dich auf das Fotografieren konzentrierst, musst du erst einmal deine Gäste einladen! Und anstatt sich mit einer weiteren WhatsApp-Gruppe abzumühen, könntest du eine digitale Einladung über [Invitivo](https://invitivo.com/) gestalten. Diese Plattform ermöglicht es dir, stilvolle und persönliche Einladungen zu kreieren, die deinem Anlass schmeicheln. 
+Bevor du dich auf das Fotografieren konzentrierst, musst du erst einmal deine Gäste einladen! Und anstatt sich mit einer weiteren WhatsApp-Gruppe abzumühen, könntest du eine digitale Einladung über [Invitivo](https://invitivo.com/) gestalten. Diese Plattform ermöglicht es dir, stilvolle und persönliche Einladungen zu kreieren, die deinem Anlass schmeicheln.
 
-Mit Invitivo kannst du deine Einladungen individuell gestalten und alle wichtigen Informationen auf einen Blick präsentieren – von der Uhrzeit bis zur Mitbringliste. So vergessen deine Gäste nicht, was sie mitbringen sollen, und alle Details sind an einem Ort übersichtlich gesammelt. 
+Mit Invitivo kannst du deine Einladungen individuell gestalten und alle wichtigen Informationen auf einen Blick präsentieren – von der Uhrzeit bis zur Mitbringliste. So vergessen deine Gäste nicht, was sie mitbringen sollen, und alle Details sind an einem Ort übersichtlich gesammelt.
 
 ### **Fazit**
 

@@ -42,7 +42,7 @@ Wenn du nach einem etwas anderen Ort für deine Babyparty suchst, könnte das Ku
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Egal, wo du deine Babyparty feierst, denke daran, auch bei den Einladungen auf Nachhaltigkeit zu setzen. Statt einer weiteren WhatsApp-Gruppe kannst du mit [Invitivo](https://invitivo.com/) wunderschöne, personalisierte digitale Einladungen erstellen, die umweltfreundlich sind und deinem Anlass eine persönliche Note verleihen. 
+Egal, wo du deine Babyparty feierst, denke daran, auch bei den Einladungen auf Nachhaltigkeit zu setzen. Statt einer weiteren WhatsApp-Gruppe kannst du mit [Invitivo](https://invitivo.com/) wunderschöne, personalisierte digitale Einladungen erstellen, die umweltfreundlich sind und deinem Anlass eine persönliche Note verleihen.
 
 Mit [Invitivo](https://invitivo.com/) hast du die Möglichkeit, deine Einladungen individuell zu gestalten, inklusive hübscher Grafiken und persönlicher Texte, die zu deiner Babyparty passen. Die Gäste können mit nur einem Klick zusagen, und das alles ohne Papierabfall und CO2-Emissionen.
 

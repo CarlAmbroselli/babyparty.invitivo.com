@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist eine magische Gelegenheit, den bevorstehenden Nachwuchs gebührend zu feiern. Doch bevor die Party mit Spielen, Snacks und bunten Ballons in vollem Gange ist, steht die entscheidende Frage im Raum: Wie lade ich meine Gäste ein? Die Antwort scheint klar, doch der Weg dorthin kann steiniger sein als ein Babyfüßchen auf einem Kiesweg. Digitale Einladungen sind der neue Trend – aber sind sie wirklich die beste Wahl? Lassen Sie uns die Vor- und Nachteile gemeinsam erkunden und gleichzeitig einen Blick auf Invitivo werfen, die charmante Lösung für Ihre digitale Einladung.
 
-![Einladung zur Babyparty](/img/babyparty-invite.webp)
+![Einladung zur Babyparty](/img/picnic-park.webp)
 
 ### **Die Vorteile digitaler Einladungen: Mehr als nur ein Klick**
 
@@ -38,7 +38,7 @@ Ein handgeschriebener Brief hat seinen ganz eigenen Charme – den Duft des Papi
 
 ### **Invitivo: Die Lösung für stilvolle digitale Einladungen**
 
-Jetzt, wo wir die Vor- und Nachteile beleuchtet haben, ist es an der Zeit, Ihnen Invitivo vorzustellen. Diese Plattform ist mehr als nur ein Tool zur Erstellung digitaler Einladungen – sie ist ein Erlebnis! Mit Invitivo gestalten Sie Ihre Einladungen ansprechend und individuell. 
+Jetzt, wo wir die Vor- und Nachteile beleuchtet haben, ist es an der Zeit, Ihnen Invitivo vorzustellen. Diese Plattform ist mehr als nur ein Tool zur Erstellung digitaler Einladungen – sie ist ein Erlebnis! Mit Invitivo gestalten Sie Ihre Einladungen ansprechend und individuell.
 
 **Schnelle Rückmeldungen mit Stil:** Vergessen Sie lange WhatsApp-Gruppenverläufe! Bei Invitivo können Ihre Gäste ihre Zusagen oder Absagen auf einen Blick sehen und unkompliziert bestätigen. Das ist nicht nur praktisch, sondern auch übersichtlich. Ihre Gäste werden es schätzen, dass sie alle Details an einem Ort finden – ohne den Stress des Hin und Hers!
 

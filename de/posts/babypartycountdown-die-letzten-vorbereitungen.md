@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Wenn das große Ereignis näher rückt und die Vorfreude ins Unermessliche steigt, wird es Zeit, die letzten Vorbereitungen für die Babyparty zu treffen! In den letzten Tagen kann es leicht chaotisch werden – das kennen wir nur zu gut. Aber keine Sorge! Hier sind einige Tipps, wie du organisiert bleibst und deine Babyparty zu einem unvergesslichen Erlebnis machst.
 
-![Babyparty Countdown](/img/babyparty-countdown.webp)
+![Babyparty Countdown](/img/picnic-park.webp)
 
 ### 1. **Der ultimative Plan: Mach eine Liste!**
 
@@ -42,7 +42,7 @@ Das Essen ist eines der wichtigsten Elemente jeder Feier. Überlege, ob du ein B
 
 ### **Fazit**
 
-Die letzten Tage vor der Babyparty sind aufregend und können auch etwas stressig sein. Aber mit einer guten Planung und der Hilfe von digitalen Einladungen über [Invitivo](https://invitivo.com) bleibst du organisiert und kannst dich auf das Wesentliche konzentrieren – das Feiern mit deinen Liebsten! 
+Die letzten Tage vor der Babyparty sind aufregend und können auch etwas stressig sein. Aber mit einer guten Planung und der Hilfe von digitalen Einladungen über [Invitivo](https://invitivo.com) bleibst du organisiert und kannst dich auf das Wesentliche konzentrieren – das Feiern mit deinen Liebsten!
 
 Denke daran, dass es nicht nur um die perfekte Dekoration oder das beste Essen geht. Es geht darum, Erinnerungen zu schaffen, die ein Leben lang halten. Lass dich von der Vorfreude mitreißen und genieße das Abenteuer der Vorbereitung!
 

@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty im Winter? Ja, das ist möglich und kann sogar richtig magisch sein! Wenn die Luft frisch und klar ist, der Schnee leise unter den Füßen knirscht und die Wintersonne alles in ein sanftes Licht taucht, kann eine Outdoor-Babyparty zu einem unvergesslichen Erlebnis werden. Hier sind einige kreative Ideen und Tipps, um deine winterliche Babyparty im Freien perfekt zu planen – von der Dekoration bis hin zu den besten digitalen Einladungen.
 
-![Winterliche Babyparty im Freien](/img/winter-babyparty.webp)
+![Winterliche Babyparty im Freien](/img/picnic-park.webp)
 
 ### 1. **Die perfekte Location – Ein winterliches Märchen**
 

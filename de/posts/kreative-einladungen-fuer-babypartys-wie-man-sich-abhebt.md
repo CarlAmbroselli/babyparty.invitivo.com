@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur ein Fest, es ist der Startschuss für eine aufregende Reise in die Welt der Windeln, Schlafmangel und unvergesslichen Momenten. Und was könnte diesen besonderen Anlass besser einleiten als eine kreative Einladung? Lass uns gemeinsam erkunden, wie du deine Einladungen so gestalten kannst, dass sie nicht nur die Vorfreude deiner Gäste steigern, sondern auch einen bleibenden Eindruck hinterlassen.
 
-![Kreative Babyparty Einladung](/img/babyparty-invitation.webp)
+![Kreative Babyparty Einladung](/img/picnic-park.webp)
 
 ### 1. **Worte, die Freude bringen – Persönliche Botschaften**
 
@@ -41,7 +41,7 @@ Eine gelungene Einladung geht über das bloße Datum und den Ort hinaus. Überle
 
 ### **Fazit: Lass deiner Kreativität freien Lauf!**
 
-Die Einladung zur Babyparty ist der erste Schritt, um deine Gäste in die Vorfreude auf das große Ereignis einzubeziehen. Sei es durch persönliche Texte, kreative Themen oder die Nutzung von digitalen Einladungen mit [Invitivo](https://invitivo.com/) – lass deiner Fantasie freien Lauf und schaffe ein unvergessliches Erlebnis für alle Beteiligten. 
+Die Einladung zur Babyparty ist der erste Schritt, um deine Gäste in die Vorfreude auf das große Ereignis einzubeziehen. Sei es durch persönliche Texte, kreative Themen oder die Nutzung von digitalen Einladungen mit [Invitivo](https://invitivo.com/) – lass deiner Fantasie freien Lauf und schaffe ein unvergessliches Erlebnis für alle Beteiligten.
 
 Denke daran: Eine kreative Einladung ist nicht nur ein Stück Papier, sondern der erste Eindruck eines festlichen Anlasses. Also, mach dich bereit, deine Freunde und Familie mit einer Einladung zu überraschen, die sie nicht vergessen werden!
 

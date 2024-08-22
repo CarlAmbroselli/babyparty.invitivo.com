@@ -20,7 +20,7 @@ Eine Babyparty ist ein wunderbares Ereignis, das den Beginn eines neuen Lebensab
 
 Der Rostocker Stadthafen bietet eine einzigartige Kulisse für eine Babyparty. Die Kombination aus historischen Gebäuden und dem Blick auf die Ostsee schafft eine entspannte Atmosphäre. Hier kannst du ein Picknick auf einer der Wiesen organisieren oder eine kleine Feier in einem der Cafés am Wasser planen.
 
-**Tipp für die Dekoration:** Verwende maritime Elemente wie Muscheln, Netze und dunkelblaue Farbtöne, um das Hafenambiente aufzugreifen. 
+**Tipp für die Dekoration:** Verwende maritime Elemente wie Muscheln, Netze und dunkelblaue Farbtöne, um das Hafenambiente aufzugreifen.
 
 **Aktivitäten:** Ein kreatives Basteln mit maritimen Themen oder ein kleines Spiel, bei dem die Gäste Schiffe aus Papier basteln, sorgt für Unterhaltung und Spaß.
 
@@ -42,12 +42,12 @@ Der Botanische Garten in Rostock ist ein wahres Paradies für Naturliebhaber. Di
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um deine Babyparty nicht nur schön, sondern auch nachhaltig zu gestalten, solltest du bei den Einladungen ansetzen. Anstelle einer weiteren WhatsApp-Gruppe, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) verschicken? Mit invitivo.com kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die umweltfreundlich sind und dennoch einen persönlichen Touch haben. 
+Um deine Babyparty nicht nur schön, sondern auch nachhaltig zu gestalten, solltest du bei den Einladungen ansetzen. Anstelle einer weiteren WhatsApp-Gruppe, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) verschicken? Mit invitivo.com kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die umweltfreundlich sind und dennoch einen persönlichen Touch haben.
 
 Die Einladungen auf invitivo.com bieten dir die Möglichkeit, kreativ zu sein – gestalte sie mit individuellen Texten, Bildern und sogar GIFs, die zu deinem Thema passen. So erhalten deine Gäste eine ansprechende und stilvolle Einladung, die sie einfach mit einem Klick annehmen können.
 
 ### **Fazit**
 
-Rostock bietet viele einzigartige Möglichkeiten, um eine Babyparty zu gestalten, die sowohl unterhaltsam als auch nachhaltig ist. Mit kreativen Ideen für Dekoration und Aktivitäten sowie der Verwendung von digitalen Einladungen über [Invitivo](https://invitivo.com) wird deine Feier zu einem unvergesslichen Erlebnis. 
+Rostock bietet viele einzigartige Möglichkeiten, um eine Babyparty zu gestalten, die sowohl unterhaltsam als auch nachhaltig ist. Mit kreativen Ideen für Dekoration und Aktivitäten sowie der Verwendung von digitalen Einladungen über [Invitivo](https://invitivo.com) wird deine Feier zu einem unvergesslichen Erlebnis.
 
 Planst du eine Babyparty in Rostock? Lass dich von unseren Tipps inspirieren und verwandle deine Feier in ein wunderbares Fest, das die werdenden Eltern und ihre Gäste noch lange in Erinnerung behalten werden.

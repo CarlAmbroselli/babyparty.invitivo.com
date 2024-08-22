@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist mehr als nur ein geselliges Beisammensein; sie ist der perfekte Anlass, um werdenden Müttern eine Auszeit zu gönnen und sie in ihrer neuen Rolle zu feiern. Während die Gesellschaft oft den Fokus auf Geschenke und Spiele legt, kann eine Wellness-Babyparty genau das bieten, was werdende Mütter wirklich brauchen: Entspannung und Selbstfürsorge. Lass uns eintauchen in die Welt der Ruhe und Gelassenheit – und natürlich in die Kunst, digitale Einladungen zu gestalten, die deinem Event das i-Tüpfelchen aufsetzen.
 
-![Wellness-Babyparty](/img/wellness-babyparty.webp)
+![Wellness-Babyparty](/img/picnic-park.webp)
 
 ### 1. **Spa-Tag im eigenen Zuhause – Die Oase der Entspannung**
 
@@ -26,7 +26,7 @@ Stell dir vor, du verwandelst dein Wohnzimmer in ein luxuriöses Spa. Duftkerzen
 
 ### 2. **Wellness-Workshops – Lernen und Entspannen**
 
-Warum nicht die Babyparty mit einem Workshop kombinieren? Ob das Erlernen von Atemtechniken zur Entspannung, das Basteln von eigenen Badebomben oder das Zubereiten von gesunden Snacks – die Möglichkeiten sind vielfältig. 
+Warum nicht die Babyparty mit einem Workshop kombinieren? Ob das Erlernen von Atemtechniken zur Entspannung, das Basteln von eigenen Badebomben oder das Zubereiten von gesunden Snacks – die Möglichkeiten sind vielfältig.
 
 **Tipp für die Deko:** Nutze natürliche Materialien wie Holz und Stein für eine erdige Atmosphäre. Kleine Kräutertöpfe als Tischdekoration bringen nicht nur Frische, sondern auch einen Hauch von Natur ins Spiel.
 
@@ -42,7 +42,7 @@ Falls das Wetter es zulässt, wäre eine Gartenparty mit Wellness-Thema eine per
 
 ### **Digitale Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine entspannende Babyparty verdient auch eine stilvolle Einladung. Anstatt eine weitere WhatsApp-Gruppe zu starten, warum nicht auf [digitale Einladungen](https://invitivo.com/) umsteigen? Mit Invitivo kannst du wunderschöne, personalisierte Einladungen erstellen, die nicht nur gut aussehen, sondern auch umweltfreundlich sind. 
+Eine entspannende Babyparty verdient auch eine stilvolle Einladung. Anstatt eine weitere WhatsApp-Gruppe zu starten, warum nicht auf [digitale Einladungen](https://invitivo.com/) umsteigen? Mit Invitivo kannst du wunderschöne, personalisierte Einladungen erstellen, die nicht nur gut aussehen, sondern auch umweltfreundlich sind.
 
 Stell dir vor, deine Gäste erhalten eine Einladung, die bereits beim ersten Blick ein Lächeln auf die Lippen zaubert. Lade sie ein, an einem entspannenden Event teilzunehmen und ermögliche ihnen, ihre Teilnahme einfach mit einem Klick zu bestätigen. So hast du alle Zusagen im Blick, ohne das lästige Hin und Her in Gruppen-Chats.
 
@@ -50,8 +50,8 @@ Mit Invitivo hast du die Möglichkeit, deine Einladungen kreativ zu gestalten �
 
 ### **Fazit**
 
-Eine Wellness-Babyparty ist eine hervorragende Möglichkeit, werdenden Müttern Entspannung und Selbstfürsorge zu bieten. Mit durchdachten Aktivitäten, einer ruhigen Atmosphäre und kreativen Dekorationsideen wird deine Feier zu einem unvergesslichen Erlebnis. 
+Eine Wellness-Babyparty ist eine hervorragende Möglichkeit, werdenden Müttern Entspannung und Selbstfürsorge zu bieten. Mit durchdachten Aktivitäten, einer ruhigen Atmosphäre und kreativen Dekorationsideen wird deine Feier zu einem unvergesslichen Erlebnis.
 
-Denke daran, auch bei den Einladungen auf eine persönliche Note zu setzen. Mit [Invitivo](https://invitivo.com/) kannst du digitale Einladungen gestalten, die den besonderen Anlass würdigen – ganz ohne Papierabfall. 
+Denke daran, auch bei den Einladungen auf eine persönliche Note zu setzen. Mit [Invitivo](https://invitivo.com/) kannst du digitale Einladungen gestalten, die den besonderen Anlass würdigen – ganz ohne Papierabfall.
 
 Mach dich bereit, deine Babyparty in ein Wellness-Wochenende zu verwandeln, das nicht nur feierlich, sondern auch erholsam ist. Lass uns die Vorfreude auf das neue Leben feiern – mit Stil, Entspannung und jeder Menge Liebe.

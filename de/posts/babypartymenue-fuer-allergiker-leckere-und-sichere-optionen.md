@@ -11,9 +11,9 @@ tags:
 layout: layouts/post.njk
 ---
 
-Eine Babyparty ist mehr als nur eine Feier; es ist der Startschuss für ein neues Kapitel im Leben der werdenden Eltern und ihrer Freunde. Aber was ist, wenn die Vorfreude auf die Feier von Ernährungsunverträglichkeiten getrübt wird? Keine Sorge! Wir haben die Lösung: ein köstliches Babyparty-Menü für Allergiker, das selbst die wählerischsten Gaumen begeistert und dabei garantiert allergiefrei bleibt. 
+Eine Babyparty ist mehr als nur eine Feier; es ist der Startschuss für ein neues Kapitel im Leben der werdenden Eltern und ihrer Freunde. Aber was ist, wenn die Vorfreude auf die Feier von Ernährungsunverträglichkeiten getrübt wird? Keine Sorge! Wir haben die Lösung: ein köstliches Babyparty-Menü für Allergiker, das selbst die wählerischsten Gaumen begeistert und dabei garantiert allergiefrei bleibt.
 
-![Babyparty-Menü](/img/babyparty-menu.webp)
+![Babyparty-Menü](/img/picnic-park.webp)
 
 ### 1. **Allergenfreie Snacks – Knuspriger Genuss für alle**
 

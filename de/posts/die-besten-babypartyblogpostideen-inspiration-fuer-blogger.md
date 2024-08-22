@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Babypartys sind nicht nur eine Feier des neuen Lebens, sondern auch eine perfekte Gelegenheit, kreative Ideen zu entfalten und Erinnerungen zu schaffen. Wenn du einen Blog über Babypartys führen möchtest, gibt es unzählige Themen, über die du schreiben kannst. Hier sind einige kreative Ansätze, die dir nicht nur helfen, deine Leser zu begeistern, sondern auch den perfekten Anlass für die Verwendung von digitalen Einladungen zu schaffen.
 
-![Babyparty Ideen](/img/babyparty-ideen.webp)
+![Babyparty Ideen](/img/picnic-park.webp)
 
 ### 1. **Die perfekte Babyparty-Checkliste – Von A bis Z**
 

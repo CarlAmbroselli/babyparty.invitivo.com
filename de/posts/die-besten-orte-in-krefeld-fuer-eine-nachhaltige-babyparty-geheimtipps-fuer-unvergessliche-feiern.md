@@ -50,7 +50,7 @@ Das Stadtgebiet Uerdingen, direkt am Rhein gelegen, bietet eine malerische Kulis
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty in Krefeld ist nicht nur eine Gelegenheit zum Feiern, sondern auch eine Chance, nachhaltig zu handeln. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) nutzen? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen kreieren, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note verleihen. 
+Eine Babyparty in Krefeld ist nicht nur eine Gelegenheit zum Feiern, sondern auch eine Chance, nachhaltig zu handeln. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) nutzen? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen kreieren, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note verleihen.
 
 Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell gestalten, einschließlich kreativer Grafiken und Textelementen, die zu deiner Babyparty passen. Deine Gäste erhalten eine ansprechende Einladung, die sie mit nur einem Klick annehmen können – ganz ohne Papierabfall und CO2-Emissionen.
 

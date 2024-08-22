@@ -42,7 +42,7 @@ Die Heiliggeistkirche in Hanau bietet eine einzigartige Atmosphäre für eine Ba
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um das nachhaltige Feiern abzurunden, sollten auch die Einladungen umweltfreundlich gestaltet werden. Statt einer weiteren WhatsApp-Gruppe, wähle eine persönliche und kreative Möglichkeit, deine Gäste einzuladen: [digitale Einladungen für deine Babyparty](https://invitivo.com/). Mit Invitivo kannst du wunderschöne, personalisierte Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine viel persönlichere Note haben. 
+Um das nachhaltige Feiern abzurunden, sollten auch die Einladungen umweltfreundlich gestaltet werden. Statt einer weiteren WhatsApp-Gruppe, wähle eine persönliche und kreative Möglichkeit, deine Gäste einzuladen: [digitale Einladungen für deine Babyparty](https://invitivo.com/). Mit Invitivo kannst du wunderschöne, personalisierte Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine viel persönlichere Note haben.
 
 Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell anpassen und sicherstellen, dass sie dem besonderen Anlass gerecht werden. Deine Gäste werden die ansprechenden Designs und die einfache Möglichkeit, ihre Teilnahme zu bestätigen, zu schätzen wissen – alles ohne Papierabfall und unnötigen CO2-Fußabdruck.
 

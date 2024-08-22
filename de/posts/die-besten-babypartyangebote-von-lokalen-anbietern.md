@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty zu planen, ist wie das Kreieren eines kleinen Meisterwerks: Es erfordert Kreativität, Organisationstalent und manchmal auch eine Prise Geduld. Inmitten des ganzen Vorbereitungsstress kann die Suche nach den besten Angeboten von lokalen Anbietern schnell zur Herausforderung werden. Aber keine Sorge! Hier sind einige geniale Tipps, wie du die perfekten Partner für deine Babyparty findest – und warum digitale Einladungen das I-Tüpfelchen deiner Planung sein sollten.
 
-![Babyparty Dekoration](/img/babyparty-deko.webp)
+![Babyparty Dekoration](/img/picnic-park.webp)
 
 ### 1. **Lokale Anbieter aufspüren – So geht's!**
 
@@ -26,7 +26,7 @@ Ein guter erster Schritt ist, die lokalen Anbieter in deiner Nähe zu erkunden. 
 
 Ein Geheimtipp von erfahrenen Partyplanern: Schau dir deine Lieblingscafés oder Restaurants an! Viele bieten mittlerweile Catering für private Feiern an, und oft sind die Speisen kreativer und frischer als das, was du in einem klassischen Partyservice findest. Stelle sicher, dass du vorab einen Kostenvoranschlag anforderst und vielleicht sogar eine kleine Verkostung vereinbarst – schließlich wollen wir ja, dass die Gäste nicht nur vom Baby, sondern auch vom Essen schwärmen!
 
-**Tipp:** Frage nach speziellen Babyparty-Paketen, die oft süße Leckereien und kindgerechte Snacks beinhalten. 
+**Tipp:** Frage nach speziellen Babyparty-Paketen, die oft süße Leckereien und kindgerechte Snacks beinhalten.
 
 ### 3. **Kreative Deko von lokalen Künstlern**
 

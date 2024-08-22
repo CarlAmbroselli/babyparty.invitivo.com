@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf ein neues Leben ist in vielen Kulturen ein Grund zum Feiern. Wenn es um Babypartys geht, gibt es weltweit eine Fülle von Traditionen und Bräuchen, die das Fest zu einem ganz besonderen Ereignis machen. Lass uns einen bunten Strauß an Traditionen entdecken und gleichzeitig darüber nachdenken, wie wir unsere Gäste auf eine moderne und stilvolle Art einladen können.
 
-![Babyparty-Traditionen](/img/babyparty-traditionen.webp)
+![Babyparty-Traditionen](/img/picnic-park.webp)
 
 ### 1. **Die „Gender Reveal“ Party in den USA – Eine Explosion der Farben**
 
@@ -41,7 +41,7 @@ In Indien wird die Schwangerschaft mit einer Vielzahl von Ritualen gefeiert. Ein
 
 ### **Digitale Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Egal, aus welchem Land die Tradition stammt, eines bleibt gleich: Die Einladung ist der erste Schritt, um deine Gäste in die Vorfreude einzubeziehen. Mit den digitalen Einladungen von [Invitivo](https://invitivo.com/) kannst du das festliche Flair jeder Babyparty unterstreichen. Diese Einladungen sind nicht nur schön gestaltet, sondern bieten auch die Möglichkeit, persönliche Notizen hinzuzufügen, wie etwa die Vorlieben für Geschenke oder besondere Mitbringsel. 
+Egal, aus welchem Land die Tradition stammt, eines bleibt gleich: Die Einladung ist der erste Schritt, um deine Gäste in die Vorfreude einzubeziehen. Mit den digitalen Einladungen von [Invitivo](https://invitivo.com/) kannst du das festliche Flair jeder Babyparty unterstreichen. Diese Einladungen sind nicht nur schön gestaltet, sondern bieten auch die Möglichkeit, persönliche Notizen hinzuzufügen, wie etwa die Vorlieben für Geschenke oder besondere Mitbringsel.
 
 Statt einer weiteren WhatsApp-Gruppe, die im digitalen Dschungel schnell untergehen kann, schickst du eine digitale Einladung, die deine Gäste mit einem Klick annehmen können. So behältst du den Überblick über Zusagen und kannst den Stress der Planung minimieren.
 

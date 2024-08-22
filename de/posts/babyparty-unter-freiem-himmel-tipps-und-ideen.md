@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist wie ein kleines Fest der Vorfreude, das den Beginn eines neuen Abenteuers feiert – und was könnte schöner sein, als dieses Fest unter freiem Himmel zu zelebrieren? Stell dir vor: die Sonne scheint, der Duft von frisch gebackenem Gebäck liegt in der Luft und das Lachen von Freunden und Familie erklingt um dich herum. Eine Outdoor-Babyparty ist nicht nur eine hervorragende Möglichkeit, den Sommer zu genießen, sondern auch eine perfekte Gelegenheit, kreative Ideen umzusetzen und unvergessliche Erinnerungen zu schaffen. Hier sind einige Tipps, um deine Feier zu einem echten Highlight zu machen.
 
-![Babyparty im Freien](/img/outdoor-baby-shower.webp)
+![Babyparty im Freien](/img/picnic-park.webp)
 
 ### 1. **Die richtige Location finden – Natur pur!**
 
@@ -38,7 +38,7 @@ Eine Babyparty ohne Spiele? Unvorstellbar! Plane einige unterhaltsame Aktivität
 
 Und jetzt, wo du all diese großartigen Ideen hast, wie lädst du deine Gäste ein? Statt einer weiteren WhatsApp-Gruppe, warum nicht eine digitale Einladung nutzen, die das Besondere deiner Babyparty unterstreicht? Mit einem Tool wie Invitivo kannst du wunderschöne, personalisierte Einladungen erstellen, die nicht nur stilvoll sind, sondern auch deine Gäste beeindrucken werden.
 
-Stell dir vor, du versendest eine Einladung, die mit liebevollen Details und einem schönen Design glänzt. Alle Informationen sind auf einen Blick verfügbar, und deine Gäste können mit nur einem Klick zusagen – ganz ohne langen Gruppenchat, der immer chaotischer wird. 
+Stell dir vor, du versendest eine Einladung, die mit liebevollen Details und einem schönen Design glänzt. Alle Informationen sind auf einen Blick verfügbar, und deine Gäste können mit nur einem Klick zusagen – ganz ohne langen Gruppenchat, der immer chaotischer wird.
 
 ### **Fazit**
 

@@ -42,7 +42,7 @@ Die Neckarwiese ist ein beliebter Ort für entspannte Picknicks und Freizeitakti
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Wenn es um die Einladungen geht, warum nicht auch hier einen nachhaltigen Ansatz verfolgen? Statt einer weiteren WhatsApp-Gruppe, die schnell vergessen wird, solltest du die Vorteile von digitalen Einladungen nutzen. Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben. 
+Wenn es um die Einladungen geht, warum nicht auch hier einen nachhaltigen Ansatz verfolgen? Statt einer weiteren WhatsApp-Gruppe, die schnell vergessen wird, solltest du die Vorteile von digitalen Einladungen nutzen. Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben.
 
 Mit Invitivo kannst du deine Einladungen individuell anpassen, mit schönen Designs und persönlichen Texten, die zu deiner Babyparty passen. So erhalten deine Gäste eine ansprechende Einladung, die sie einfach mit einem Klick annehmen können – ganz ohne Papierabfall und CO2-Emissionen.
 

@@ -42,7 +42,7 @@ Der Stadtpark Magdeburg ist ein beliebter Ort für Familienfeiern. Mit seinen sc
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty in Magdeburg kann umweltfreundlich sein, angefangen bei den Einladungen. Warum sich mit einer weiteren WhatsApp-Gruppe zufrieden geben, wenn du auch eine stilvolle [digitale Einladung für deine Babyparty](https://invitivo.com/) gestalten kannst? Mit Invitivo kannst du wunderschöne, personalisierte Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben. 
+Eine Babyparty in Magdeburg kann umweltfreundlich sein, angefangen bei den Einladungen. Warum sich mit einer weiteren WhatsApp-Gruppe zufrieden geben, wenn du auch eine stilvolle [digitale Einladung für deine Babyparty](https://invitivo.com/) gestalten kannst? Mit Invitivo kannst du wunderschöne, personalisierte Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben.
 
 Statt einer einfachen Nachricht auf dem Smartphone erhältst du eine Einladung, die deine Gäste begeistert und den Anlass würdig feiert. Bei Invitivo kannst du deine Einladungen individuell gestalten, inklusive schöner Grafiken und persönlichen Texten, die perfekt zu deiner Babyparty passen. So wird der erste Eindruck deiner Feier unvergesslich – ganz ohne Papierabfall.
 

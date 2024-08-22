@@ -36,13 +36,13 @@ Der Botanische Garten in Jena ist ein wahres Paradies für Pflanzenliebhaber und
 
 Die Ufer der Saale bieten zahlreiche Möglichkeiten für eine Babyparty im Freien. Die ruhige Umgebung und die Möglichkeit, am Wasser zu feiern, machen diesen Ort besonders attraktiv.
 
-**Tipp für die Dekoration:** Setze auf maritime Elemente wie Muscheln, Seesterne und eine Farbpalette in Blau und Grün, die die Natur widerspiegelt. 
+**Tipp für die Dekoration:** Setze auf maritime Elemente wie Muscheln, Seesterne und eine Farbpalette in Blau und Grün, die die Natur widerspiegelt.
 
 **Aktivitäten im Freien:** Organisiere ein Picknick am Ufer oder spiele klassische Spiele wie „Boccia“ oder „Frisbee“. Eine kleine Bootsfahrt auf der Saale könnte ebenfalls ein aufregendes Highlight sein.
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um deine Babyparty nachhaltig zu gestalten, solltest du auch bei den Einladungen an die Umwelt denken. Anstelle einer weiteren WhatsApp-Gruppe kannst du wunderschöne, personalisierte digitale Einladungen über [Invitivo](https://invitivo.com/) erstellen. Diese Einladungen sind nicht nur ressourcenschonend, sondern verleihen deinem Anlass auch eine besondere Note. 
+Um deine Babyparty nachhaltig zu gestalten, solltest du auch bei den Einladungen an die Umwelt denken. Anstelle einer weiteren WhatsApp-Gruppe kannst du wunderschöne, personalisierte digitale Einladungen über [Invitivo](https://invitivo.com/) erstellen. Diese Einladungen sind nicht nur ressourcenschonend, sondern verleihen deinem Anlass auch eine besondere Note.
 
 Mit [Invitivo](https://invitivo.com/) kannst du kreative Designs auswählen, die zu deinem Thema passen, und deine Einladungen ganz einfach an deine Gäste versenden. So sparst du nicht nur Papier, sondern sorgst auch für ein ansprechendes Erlebnis, das in Erinnerung bleibt.
 

@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist mehr als nur ein simples Feiern – es ist ein Fest der Sinne! Wenn du eine unvergessliche Feier für die werdende Mama und ihre Gäste gestalten möchtest, dann lass uns gemeinsam einen Plan entwickeln, der nicht nur die Augen, sondern auch die Ohren, den Gaumen, die Nase und den Tastsinn anspricht. Denn schließlich soll diese Feier ein Fest der Freude und der Sinne sein!
 
-![Sinnliche Babyparty](/img/sensory-babyparty.webp)
+![Sinnliche Babyparty](/img/picnic-park.webp)
 
 ### 1. **Visuelle Freude – Farben und Formen**
 

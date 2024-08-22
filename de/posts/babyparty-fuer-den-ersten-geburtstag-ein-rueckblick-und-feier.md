@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Ein Jahr voller unvergesslicher Momente liegt hinter dir und deinem kleinen Sonnenschein. Der erste Geburtstag ist ein Meilenstein, den es gebührend zu feiern gilt! Doch wie macht man diese Babyparty zu etwas ganz Besonderem, das nicht nur dem kleinen Geburtstagskind, sondern auch allen Gästen in Erinnerung bleibt? Lass uns gemeinsam in die Welt der Feierideen eintauchen und dabei auch die Bedeutung von digitalen Einladungen entdecken – denn eine gute Einladung ist der erste Schritt zu einer großartigen Feier!
 
-![Babyparty zum ersten Geburtstag](/img/babyparty-erster-geburtstag.webp)
+![Babyparty zum ersten Geburtstag](/img/picnic-park.webp)
 
 ### 1. **Das Motto macht den Unterschied!**
 

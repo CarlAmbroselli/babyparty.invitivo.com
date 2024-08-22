@@ -30,7 +30,7 @@ Die Nerotalanlagen sind ein weiterer schöner Ort für eine Babyparty. Diese wei
 
 **Tipp für die Dekoration:** Setze auf eine blumige Tischdeko mit wildblühenden Pflanzen, die das natürliche Ambiente unterstreicht.
 
-**Aktivitäten im Freien:** Plane eine kleine Foto-Session mit einem professionellen Fotografen, um die besonderen Momente festzuhalten. 
+**Aktivitäten im Freien:** Plane eine kleine Foto-Session mit einem professionellen Fotografen, um die besonderen Momente festzuhalten.
 
 ### 3. **Kochbrunnenplatz – Zentrales Herz Wiesbadens**
 
@@ -42,7 +42,7 @@ Für eine Babyparty im Herzen der Stadt ist der Kochbrunnenplatz ideal. Hier kan
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Nachhaltigkeit sollte auch bei den Einladungen nicht zu kurz kommen. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/) starten? Auf Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben. 
+Nachhaltigkeit sollte auch bei den Einladungen nicht zu kurz kommen. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/) starten? Auf Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben.
 
 Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell anpassen und mit schönen Designs, GIFs und Texten versehen, die perfekt zu deiner Babyparty passen. So erhält jeder Gast eine ansprechende Einladung, die sie mit einem Klick annehmen können – ganz ohne Papierabfall und CO2-Emissionen.
 

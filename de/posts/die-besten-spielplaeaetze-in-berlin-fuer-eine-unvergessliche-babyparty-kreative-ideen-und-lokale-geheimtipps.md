@@ -50,7 +50,7 @@ Der Erholungspark Marzahn bietet nicht nur einen großen Spielplatz, sondern auc
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty auf einem Spielplatz ist die perfekte Gelegenheit, um nachhaltig zu feiern. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht auch bei den Einladungen umweltbewusst denken? Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben. 
+Eine Babyparty auf einem Spielplatz ist die perfekte Gelegenheit, um nachhaltig zu feiern. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht auch bei den Einladungen umweltbewusst denken? Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben.
 
 Im Vergleich zu einer einfachen Nachricht auf dem Smartphone bieten diese Einladungen eine kreative und ansprechende Gestaltung, die dem Anlass gerecht wird. Deine Gäste erhalten eine Einladung, die sie mit nur einem Klick annehmen können – und das alles ohne Papierabfall und unnötigen CO2-Fußabdruck.
 

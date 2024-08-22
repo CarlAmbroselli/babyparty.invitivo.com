@@ -14,13 +14,13 @@ layout: layouts/post.njk
 
 Die Vorfreude auf eine Babyparty ist wie das Öffnen eines Geschenks – man weiß, dass etwas Wundervolles darin steckt! Und was könnte diese Feier besser festhalten, als ein kreativer Fotobooth, der die besonderen Momente einfängt? In diesem Blogartikel zeigen wir dir, wie du einen DIY Fotobooth für deine Babyparty gestaltest – inklusive origineller Ideen, die deine Gäste zum Lächeln bringen. Und während wir schon bei tollen Ideen sind, vergiss nicht, wie wichtig die Einladung ist – warum nicht gleich auf digitale Einladungen von Invitivo setzen?
 
-![DIY Babyparty Fotobooth](/img/diy-fotobooth.webp)
+![DIY Babyparty Fotobooth](/img/picnic-park.webp)
 
 ### 1. **Der perfekte Hintergrund – Von Wolken bis Regenbogen**
 
-Der Hintergrund ist das Herzstück deines Fotobooths. Hier sind der Kreativität keine Grenzen gesetzt! Du könntest einen großen Karton in Regenbogenfarben bemalen oder Wolken aus Pappe ausschneiden und an die Wand kleben. Eine andere schöne Idee ist, einen Stoff in Pastellfarben aufzuhängen und ihn mit Glitzer oder Pompoms zu dekorieren. 
+Der Hintergrund ist das Herzstück deines Fotobooths. Hier sind der Kreativität keine Grenzen gesetzt! Du könntest einen großen Karton in Regenbogenfarben bemalen oder Wolken aus Pappe ausschneiden und an die Wand kleben. Eine andere schöne Idee ist, einen Stoff in Pastellfarben aufzuhängen und ihn mit Glitzer oder Pompoms zu dekorieren.
 
-**Tipp:** Verwende für den Hintergrund Materialien, die leicht zu transportieren sind, falls du die Babyparty an einem anderen Ort als deinem Zuhause feierst. 
+**Tipp:** Verwende für den Hintergrund Materialien, die leicht zu transportieren sind, falls du die Babyparty an einem anderen Ort als deinem Zuhause feierst.
 
 ### 2. **Requisiten – Lass die Kreativität sprudeln!**
 
@@ -30,13 +30,13 @@ Requisiten machen den Fotobooth erst richtig spannend. Denke an große Sonnenbri
 
 ### 3. **Die Technik – Einfach und unkompliziert**
 
-Keine Angst vor der Technik! Du musst kein Technikgenie sein, um atemberaubende Fotos zu machen. Ein Smartphone auf einem Stativ oder eine einfache Digitalkamera reicht völlig aus. Stelle sicher, dass die Beleuchtung gut ist – Tageslicht ist immer die beste Wahl. 
+Keine Angst vor der Technik! Du musst kein Technikgenie sein, um atemberaubende Fotos zu machen. Ein Smartphone auf einem Stativ oder eine einfache Digitalkamera reicht völlig aus. Stelle sicher, dass die Beleuchtung gut ist – Tageslicht ist immer die beste Wahl.
 
 **Tipp:** Nutze einen einfachen Selbstauslöser oder eine Bluetooth-Fernbedienung, damit jeder bequem im Bild sein kann, ohne hektisch zur Kamera zu sprinten!
 
 ### 4. **Gestalte unvergessliche digitale Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Bevor die Party überhaupt beginnt, ist es wichtig, deine Gäste stilvoll einzuladen. Anstatt eine weitere WhatsApp-Gruppe zu starten, warum nicht die Vorteile von [Invitivo](https://invitivo.com/) nutzen? Mit eleganten, personalisierten digitalen Einladungen kannst du den perfekten ersten Eindruck hinterlassen. 
+Bevor die Party überhaupt beginnt, ist es wichtig, deine Gäste stilvoll einzuladen. Anstatt eine weitere WhatsApp-Gruppe zu starten, warum nicht die Vorteile von [Invitivo](https://invitivo.com/) nutzen? Mit eleganten, personalisierten digitalen Einladungen kannst du den perfekten ersten Eindruck hinterlassen.
 
 Die Einladungen lassen sich ganz nach deinem Geschmack anpassen – vielleicht mit einem Bild des Fotobooths oder einem süßen Baby-Motiv? So bekommst du nicht nur das perfekte Design, sondern umsorgst auch deine Gäste mit einem klaren Überblick über Datum, Ort und alles, was sie wissen müssen.
 

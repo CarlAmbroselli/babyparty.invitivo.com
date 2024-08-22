@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf das kleine Wunder, das bald das Licht der Welt erblickt, ist unbeschreiblich. Und was könnte besser sein, als diesen aufregenden Lebensabschnitt mit einer Babyparty zu feiern? Doch wo fängt man an? Hier sind die besten Tipps für werdende Mütter, um ihre eigene Babyparty zu planen – ein Fest, das nicht nur das Baby, sondern auch die Mama gebührend feiert!
 
-![Babyparty Dekoration](/img/babyparty-deko.webp)
+![Babyparty Dekoration](/img/picnic-park.webp)
 
 ### 1. **Das Thema macht den Unterschied!**
 
@@ -30,7 +30,7 @@ Ob in deinem eigenen Garten, im Park oder bei einer Freundin – die Location sp
 
 ### 3. **Digitale Einladungen – Der neue Trend**
 
-Anstatt eine langweilige WhatsApp-Gruppe zu erstellen, warum nicht den Trend der digitalen Einladungen ausprobieren? Mit [Invitivo](https://invitivo.com) kannst du wunderschöne und personalisierte Einladungen gestalten, die den perfekten ersten Eindruck hinterlassen. Statt einer schnöden Nachricht erhältst du eine elegante Einladung, die deine Gäste begeistern wird. 
+Anstatt eine langweilige WhatsApp-Gruppe zu erstellen, warum nicht den Trend der digitalen Einladungen ausprobieren? Mit [Invitivo](https://invitivo.com) kannst du wunderschöne und personalisierte Einladungen gestalten, die den perfekten ersten Eindruck hinterlassen. Statt einer schnöden Nachricht erhältst du eine elegante Einladung, die deine Gäste begeistern wird.
 
 Du kannst die Einladungen mit tollen Designs versehen und sogar GIFs und persönliche Nachrichten hinzufügen. So wird jede Einladung zu einem kleinen Kunstwerk! Und das Beste: Deine Gäste können mit nur einem Klick zusagen – kein lästiger Gruppenchat mehr, in dem jeder sein „Vielleicht“ hinterlassen kann.
 
@@ -48,6 +48,6 @@ Spiele sind der Schlüssel zu einer unvergesslichen Babyparty! Überlege dir ein
 
 ### **Fazit**
 
-Die Planung deiner Babyparty kann eine aufregende und erfüllende Erfahrung sein. Mit einem klaren Thema, der richtigen Location, köstlichen Snacks und lustigen Spielen wird dein Fest zu einem unvergesslichen Ereignis. Vergiss nicht, deine Einladungen stilvoll und persönlich zu gestalten – eine digitale Einladung von [Invitivo](https://invitivo.com) ist die perfekte Wahl, um deinen Gästen den Anlass auf elegante Weise näherzubringen. 
+Die Planung deiner Babyparty kann eine aufregende und erfüllende Erfahrung sein. Mit einem klaren Thema, der richtigen Location, köstlichen Snacks und lustigen Spielen wird dein Fest zu einem unvergesslichen Ereignis. Vergiss nicht, deine Einladungen stilvoll und persönlich zu gestalten – eine digitale Einladung von [Invitivo](https://invitivo.com) ist die perfekte Wahl, um deinen Gästen den Anlass auf elegante Weise näherzubringen.
 
 Lass dich inspirieren, plane mit Freude und feiere diesen besonderen Moment in deinem Leben! Deine Babyparty wird ein Fest, das du und deine Gäste nie vergessen werden.

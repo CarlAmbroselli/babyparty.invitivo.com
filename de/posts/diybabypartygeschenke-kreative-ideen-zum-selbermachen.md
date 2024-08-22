@@ -14,11 +14,11 @@ layout: layouts/post.njk
 
 Eine Babyparty ist eine wunderbare Gelegenheit, um die Vorfreude auf das neue Leben gebührend zu feiern. Mit einem Hauch von Kreativität kannst du nicht nur die Feier selbst, sondern auch die Geschenke zu etwas ganz Besonderem machen. In diesem Beitrag zeigen wir dir, wie du mit DIY-Geschenken die Herzen deiner Gäste und der werdenden Eltern erobern kannst. Und nicht zu vergessen: Die Einladung zu diesem besonderen Ereignis verdient ebenso eine persönliche Note – hier kommt Invitivo ins Spiel.
 
-![DIY-Babyparty-Geschenke](/img/diy-babyparty-gifts.webp)
+![DIY-Babyparty-Geschenke](/img/picnic-park.webp)
 
 ### 1. **Personalisierte Babydecke – Ein kuscheliger Begleiter**
 
-Stell dir vor, wie das Baby sanft in einer liebevoll gestalteten Decke liegt, die du mit eigenen Händen gefertigt hast. Eine personalisierte Babydecke ist nicht nur praktisch, sondern auch ein emotionales Erinnerungsstück. Wähle einen weichen Stoff in den Lieblingsfarben der werdenden Eltern und nähe den Namen des Babys oder ein süßes Motiv darauf. 
+Stell dir vor, wie das Baby sanft in einer liebevoll gestalteten Decke liegt, die du mit eigenen Händen gefertigt hast. Eine personalisierte Babydecke ist nicht nur praktisch, sondern auch ein emotionales Erinnerungsstück. Wähle einen weichen Stoff in den Lieblingsfarben der werdenden Eltern und nähe den Namen des Babys oder ein süßes Motiv darauf.
 
 **Tipp:** Füge kleine Applikationen oder Stickereien hinzu, um die Decke noch individueller zu gestalten. Vielleicht ein kleiner Elefant oder ein niedlicher Stern, der die Träume des Babys bewacht.
 

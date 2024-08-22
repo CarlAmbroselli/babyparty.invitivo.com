@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur ein Fest, sondern auch eine wunderbare Möglichkeit, Familie und Freunde zusammenzubringen und den bevorstehenden neuen Lebensabschnitt mit ihnen zu feiern. Warum also nicht gleich von Anfang an sicherstellen, dass alle Gäste sich einbezogen fühlen? Mit kreativen Umfragen und einer ansprechenden digitalen Einladung kannst du das Erlebnis für alle Beteiligten unvergesslich machen.
 
-![Babyparty-Umfragen](/img/babyparty-surveys.webp)
+![Babyparty-Umfragen](/img/picnic-park.webp)
 
 ### 1. **Umfragen: Die Stimme deiner Gäste zählt!**
 
@@ -23,13 +23,13 @@ Umfragen sind eine großartige Möglichkeit, um die Meinungen deiner Gäste einz
 
 ### 2. **Die Macht der Gruppendynamik: Initiativen zur Mitgestaltung**
 
-Ein weiterer kreativer Ansatz, um deine Gäste aktiv einzubeziehen, ist, sie um Vorschläge für Geschenke oder Beiträge zu bitten. Du könntest eine Umfrage erstellen, in der jeder Gast angeben kann, was er zu der Babyparty beitragen möchte. So entsteht ein Gefühl von Gemeinschaft und Zusammengehörigkeit. 
+Ein weiterer kreativer Ansatz, um deine Gäste aktiv einzubeziehen, ist, sie um Vorschläge für Geschenke oder Beiträge zu bitten. Du könntest eine Umfrage erstellen, in der jeder Gast angeben kann, was er zu der Babyparty beitragen möchte. So entsteht ein Gefühl von Gemeinschaft und Zusammengehörigkeit.
 
 **Aktivität:** Organisiere eine "Bring dein Lieblingsspielzeug"-Aktion, bei der jeder Gast ein Spielzeug mitbringt, das er in seiner eigenen Kindheit geliebt hat. Das sorgt nicht nur für nostalgische Momente, sondern lässt auch viele Geschichten lebendig werden!
 
 ### **Digitale Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-All diese kreativen Umfragen und Aktivitäten benötigen eine Plattform, um sie zu kommunizieren. Statt einer weiteren chaotischen WhatsApp-Gruppe, solltest du die Vorteile von [digitalen Einladungen](https://invitivo.com/) nutzen. Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur ansprechend aussehen, sondern auch eine viel persönlichere Note haben. 
+All diese kreativen Umfragen und Aktivitäten benötigen eine Plattform, um sie zu kommunizieren. Statt einer weiteren chaotischen WhatsApp-Gruppe, solltest du die Vorteile von [digitalen Einladungen](https://invitivo.com/) nutzen. Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die nicht nur ansprechend aussehen, sondern auch eine viel persönlichere Note haben.
 
 Mit Invitivo kannst du deine Einladungen individuell gestalten und sogar Umfragen direkt in die Einladung integrieren. Das bedeutet, dass deine Gäste schon vor der Party mitentscheiden können, was auf dem Programm steht! Sie können einfach durch Anklicken teilnehmen, ohne dass du dich um lange Rückmeldungen kümmern musst.
 

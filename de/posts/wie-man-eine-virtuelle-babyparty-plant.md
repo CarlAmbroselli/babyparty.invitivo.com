@@ -14,17 +14,17 @@ layout: layouts/post.njk
 
 Die Vorfreude auf ein neues Familienmitglied ist mit den besten Freunden und der Familie zu teilen einfach unbezahlbar. Doch was, wenn sich die Liebsten nicht persönlich treffen können? Keine Sorge, eine virtuelle Babyparty kann genauso festlich und unvergesslich sein! In diesem Beitrag zeige ich dir, wie du eine unvergessliche Online-Feier planst und dabei den persönlichen Touch nicht vergisst – angefangen bei digitalen Einladungen bis hin zu lustigen Aktivitäten, die deine Gäste zum Lachen bringen werden.
 
-![Virtuelle Babyparty](/img/virtual-baby-shower.webp)
+![Virtuelle Babyparty](/img/picnic-park.webp)
 
 ### 1. **Die richtige Plattform auswählen**
 
-Bevor der Spaß richtig losgeht, gilt es, die passende Plattform auszuwählen. Zoom, Microsoft Teams, Google Meet? Die Entscheidung kann sich anfühlen wie der Versuch, das perfekte Outfit für dein Baby zu finden. Überlege dir, wie viele Gäste du einladen möchtest und welche Funktionen dir wichtig sind. Zoom eignet sich hervorragend für interaktive Spiele, während Google Meet eine unkomplizierte Lösung für kleinere Gruppen bietet. 
+Bevor der Spaß richtig losgeht, gilt es, die passende Plattform auszuwählen. Zoom, Microsoft Teams, Google Meet? Die Entscheidung kann sich anfühlen wie der Versuch, das perfekte Outfit für dein Baby zu finden. Überlege dir, wie viele Gäste du einladen möchtest und welche Funktionen dir wichtig sind. Zoom eignet sich hervorragend für interaktive Spiele, während Google Meet eine unkomplizierte Lösung für kleinere Gruppen bietet.
 
 **Tipp:** Mach einen Testlauf, um sicherzustellen, dass alles reibungslos funktioniert. So kannst du dir sicher sein, dass du am großen Tag nicht mit technischen Pannen kämpfen musst – denn Stress ist das Letzte, was du brauchst!
 
 ### 2. **Digitale Einladungen – Persönlicher als eine WhatsApp-Gruppe**
 
-Stress dich nicht mit langweiligen Textnachrichten oder dem Chaos einer neuen WhatsApp-Gruppe! Stattdessen probiere die wunderbare Welt der digitalen Einladungen aus. Mit [Invitivo](https://invitivo.com/create) kannst du stilvolle und persönliche Einladungen erstellen, die den Gästen gleich ein Lächeln ins Gesicht zaubern. 
+Stress dich nicht mit langweiligen Textnachrichten oder dem Chaos einer neuen WhatsApp-Gruppe! Stattdessen probiere die wunderbare Welt der digitalen Einladungen aus. Mit [Invitivo](https://invitivo.com/create) kannst du stilvolle und persönliche Einladungen erstellen, die den Gästen gleich ein Lächeln ins Gesicht zaubern.
 
 Stell dir vor, deine Freunde öffnen ihre E-Mails und finden eine wunderschön gestaltete Einladung, die sie sofort in Vorfreude versetzt. Du kannst sogar süße GIFs, das Thema deiner Babyparty und eine Liste der “Mitbringsel” einfügen. Mit einem einzigen Klick können alle zusagen oder absagen – und du behältst den Überblick ohne endlose Chats!
 
@@ -46,6 +46,6 @@ Auch wenn ihr nicht am gleichen Tisch sitzt, sollte das Essen nicht zu kurz komm
 
 ### **Fazit: Virtuelle Babypartys sind das neue Normal**
 
-Mit ein wenig Planung und Kreativität kann eine virtuelle Babyparty genauso festlich und herzliche Erinnerungen schaffen wie eine traditionelle Feier. Denke daran, deine Einladungen über [Invitivo](https://invitivo.com) zu versenden, um den digitalen Touch zu personalisieren und deinen Gästen ein unvergessliches Erlebnis zu bieten. 
+Mit ein wenig Planung und Kreativität kann eine virtuelle Babyparty genauso festlich und herzliche Erinnerungen schaffen wie eine traditionelle Feier. Denke daran, deine Einladungen über [Invitivo](https://invitivo.com) zu versenden, um den digitalen Touch zu personalisieren und deinen Gästen ein unvergessliches Erlebnis zu bieten.
 
 Egal, ob du mit Freunden in der ganzen Welt feierst oder nur mit deiner engsten Familie, die Vorfreude auf das Baby wird durch diese gemeinsame Zeit nur noch verstärkt. Also, schnapp dir dein Laptop, lade deine Liebsten ein und mach dich bereit für eine unvergessliche virtuelle Babyparty!

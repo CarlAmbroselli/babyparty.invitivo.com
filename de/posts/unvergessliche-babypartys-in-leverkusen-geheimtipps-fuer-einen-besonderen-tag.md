@@ -42,7 +42,7 @@ Das Schloss Morsbroich und sein weitläufiger Park sind ein wunderschöner Ort f
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um deine Babyparty nachhaltig zu gestalten, solltest du auch bei den Einladungen umweltbewusst denken. Anstelle einer weiteren WhatsApp-Gruppe, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) erstellen? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur ressourcenschonend sind, sondern auch eine viel persönlichere Note haben. 
+Um deine Babyparty nachhaltig zu gestalten, solltest du auch bei den Einladungen umweltbewusst denken. Anstelle einer weiteren WhatsApp-Gruppe, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) erstellen? Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur ressourcenschonend sind, sondern auch eine viel persönlichere Note haben.
 
 Diese Einladungen bieten eine ansprechende Gestaltung, die dem besonderen Anlass gerecht wird. Deine Gäste erhalten eine Einladung, die sie mit nur einem Klick annehmen können – alles ohne Papierabfall und unnötigen CO2-Fußabdruck.
 

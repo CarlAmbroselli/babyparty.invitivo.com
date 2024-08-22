@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur eine Feier des neuen Lebens, das bald beginnen wird, sondern auch eine Gelegenheit, Erinnerungen zu schaffen, die ein Leben lang halten. Doch was sind die besten Souvenirs, die deine Gäste nach der Feier mit nach Hause nehmen können? Hier sind einige kreative Ideen, die nicht nur schön sind, sondern auch einen sentimentalen Wert haben – und die jeder Gast garantiert lieben wird!
 
-![Babyparty Souvenirs](/img/babyparty-souvenirs.webp)
+![Babyparty Souvenirs](/img/picnic-park.webp)
 
 ### 1. **Personalisierte Babydecke – Kuschelige Erinnerungen**
 

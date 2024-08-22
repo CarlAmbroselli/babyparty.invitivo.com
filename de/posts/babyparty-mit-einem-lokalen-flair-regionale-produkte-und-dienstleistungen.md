@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist ein zauberhaftes Event, das voller Vorfreude und Freude steckt. Es ist der perfekte Moment, um mit Familie und Freunden zu feiern, während jeder auf das neue Leben wartet, das bald das Licht der Welt erblicken wird. Doch wie kannst du sicherstellen, dass deine Feier nicht nur unvergesslich, sondern auch nachhaltig und einzigartig ist? Der Schlüssel liegt in der Wahl regionaler Produkte und Dienstleistungen. Lass uns eintauchen in die Welt der lokalen Anbieter und entdecken, wie du deiner Babyparty ein ganz besonderes Flair verleihen kannst!
 
-![Babyparty mit lokalem Flair](/img/babyparty-local.webp)
+![Babyparty mit lokalem Flair](/img/picnic-park.webp)
 
 ### 1. **Catering von der Nachbarschaft – Lecker und frisch!**
 

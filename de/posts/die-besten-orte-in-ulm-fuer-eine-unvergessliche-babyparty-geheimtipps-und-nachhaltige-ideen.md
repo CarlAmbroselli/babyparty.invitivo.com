@@ -50,7 +50,7 @@ Der Münsterplatz ist ein zentraler Punkt in Ulm, ideal für eine größere Baby
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Wenn du eine Babyparty planst, ist es wichtig, auch bei den Einladungen an die Umwelt zu denken. Statt einer herkömmlichen WhatsApp-Gruppe kannst du eine [digitale Einladung für deine Babyparty](https://invitivo.com/) erstellen. Mit Invitivo hast du die Möglichkeit, wunderschöne, personalisierte digitale Einladungen zu gestalten, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben. 
+Wenn du eine Babyparty planst, ist es wichtig, auch bei den Einladungen an die Umwelt zu denken. Statt einer herkömmlichen WhatsApp-Gruppe kannst du eine [digitale Einladung für deine Babyparty](https://invitivo.com/) erstellen. Mit Invitivo hast du die Möglichkeit, wunderschöne, personalisierte digitale Einladungen zu gestalten, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben.
 
 Im Vergleich zu einer einfachen Nachricht auf dem Smartphone bietet eine digitale Einladung von Invitivo eine ansprechende Gestaltung, die dem besonderen Anlass gerecht wird. Deine Gäste können mit nur einem Klick zusagen, und du vermeidest unnötigen Papierabfall.
 

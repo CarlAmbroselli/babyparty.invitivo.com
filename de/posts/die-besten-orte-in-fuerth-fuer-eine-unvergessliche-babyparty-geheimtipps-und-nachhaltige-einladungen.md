@@ -17,7 +17,7 @@ Eine Babyparty ist ein wunderbarer Anlass, um den bevorstehenden neuen Lebensabs
 
 ### 1. **Stadtpark Fürth – Eine grüne Oase für Familienfeiern**
 
-Der Stadtpark Fürth ist ein beliebter Ort für Familien und bietet zahlreiche schattige Plätzchen, die sich ideal für eine Babyparty eignen. Die weitläufigen Wiesen und der malerische Teich schaffen eine entspannte Atmosphäre, in der du mit deinen Gästen feiern kannst. 
+Der Stadtpark Fürth ist ein beliebter Ort für Familien und bietet zahlreiche schattige Plätzchen, die sich ideal für eine Babyparty eignen. Die weitläufigen Wiesen und der malerische Teich schaffen eine entspannte Atmosphäre, in der du mit deinen Gästen feiern kannst.
 
 **Tipp für die Dekoration:** Nutze natürliche Materialien wie Holz und Blumen aus der Umgebung. Bunte Papierlaternen und Girlanden aus recyceltem Papier bringen Farbe in die Feier.
 
@@ -25,7 +25,7 @@ Der Stadtpark Fürth ist ein beliebter Ort für Familien und bietet zahlreiche s
 
 ### 2. **Der Fürther Rundgang – Kultur und Natur vereint**
 
-Warum nicht eine Babyparty mit einem kleinen Stadtrundgang verbinden? Der Fürther Rundgang führt durch die schönsten Ecken der Stadt und bietet die Möglichkeit, an verschiedenen Stationen kleine Feiern zu veranstalten. 
+Warum nicht eine Babyparty mit einem kleinen Stadtrundgang verbinden? Der Fürther Rundgang führt durch die schönsten Ecken der Stadt und bietet die Möglichkeit, an verschiedenen Stationen kleine Feiern zu veranstalten.
 
 **Tipp für die Dekoration:** Halte die Deko einfach und transportabel. Verwende kleine, tragbare Deko-Elemente, die sich leicht an verschiedenen Orten aufstellen lassen.
 
@@ -33,7 +33,7 @@ Warum nicht eine Babyparty mit einem kleinen Stadtrundgang verbinden? Der Fürth
 
 ### 3. **Der Alte Park – Historisches Flair für deine Feier**
 
-Der Alte Park in Fürth ist ein wunderbarer Ort, um eine Babyparty in einem historischen Ambiente zu feiern. Die alten Bäume und gepflegten Rasenflächen bieten viel Platz für Spiele und ein gemütliches Picknick. 
+Der Alte Park in Fürth ist ein wunderbarer Ort, um eine Babyparty in einem historischen Ambiente zu feiern. Die alten Bäume und gepflegten Rasenflächen bieten viel Platz für Spiele und ein gemütliches Picknick.
 
 **Tipp für die Dekoration:** Setze auf eine Vintage-Dekoration mit Baumwolltüchern, die wie Picknickdecken verwendet werden können, und Glasgefäßen für Blumen.
 
@@ -41,7 +41,7 @@ Der Alte Park in Fürth ist ein wunderbarer Ort, um eine Babyparty in einem hist
 
 ### 4. **Die Fürther Freiheit – Ein urbaner Spielplatz**
 
-Die Fürther Freiheit ist ein trendiger Ort, der sich hervorragend für eine Babyparty eignet. Hier kannst du eine Mischung aus urbanem Flair und grünem Raum genießen. 
+Die Fürther Freiheit ist ein trendiger Ort, der sich hervorragend für eine Babyparty eignet. Hier kannst du eine Mischung aus urbanem Flair und grünem Raum genießen.
 
 **Tipp für die Dekoration:** Verwende moderne, minimalistische Dekorationsideen, die dem urbanen Charakter des Ortes gerecht werden – zum Beispiel geometrische Formen und Pflanzen.
 
@@ -49,7 +49,7 @@ Die Fürther Freiheit ist ein trendiger Ort, der sich hervorragend für eine Bab
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty in Fürth kann nicht nur ein besonderes Erlebnis sein, sondern auch umweltbewusst gestaltet werden. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht einmal eine [digitale Einladung für deine Babyparty](https://invitivo.com/) nutzen? 
+Eine Babyparty in Fürth kann nicht nur ein besonderes Erlebnis sein, sondern auch umweltbewusst gestaltet werden. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht einmal eine [digitale Einladung für deine Babyparty](https://invitivo.com/) nutzen?
 
 Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die deinem besonderen Anlass gerecht werden. Diese Einladungen sind nicht nur umweltfreundlich, da sie keinen Papierabfall verursachen, sondern bieten auch eine persönliche Note, die eine einfache Nachricht nicht bieten kann.
 

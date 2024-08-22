@@ -13,11 +13,11 @@ layout: layouts/post.njk
 
 Die Vorfreude auf die Ankunft eines neuen Familienmitglieds ist ein Gefühl, das einfach in Bildern und Videos festgehalten werden muss. Eine Babyparty ist nicht nur ein Fest, sondern auch ein Meilenstein, den du für die Ewigkeit dokumentieren möchtest. Also, schnapp dir deine Kamera (oder dein Smartphone) und lass uns darüber sprechen, wie du diese besonderen Momente festhalten kannst. Aber Moment – bevor wir in die aufregende Welt der Fotografie eintauchen, lass uns über einen ebenso wichtigen Aspekt sprechen: die Einladungen!
 
-![Babyparty-Dokumentation](/img/babyparty-dokumentation.webp)
+![Babyparty-Dokumentation](/img/picnic-park.webp)
 
 ### 1. **Die perfekte digitale Einladung: Der erste Eindruck zählt!**
 
-Bevor die Feierlichkeiten beginnen, ist die Einladung das erste, was deine Gäste zu Gesicht bekommen. Anstatt eine weitere unpersönliche WhatsApp-Gruppe zu erstellen, warum nicht einmal etwas Kreatives und Einzigartiges ausprobieren? Mit [Invitivo](https://invitivo.com/) kannst du digitale Einladungen gestalten, die nicht nur schön, sondern auch praktisch sind. Stell dir vor, deine Gäste empfangen eine stilvoll gestaltete Einladung, die sie mit nur einem Klick annehmen können – und das ganz ohne den Papiermüll! 
+Bevor die Feierlichkeiten beginnen, ist die Einladung das erste, was deine Gäste zu Gesicht bekommen. Anstatt eine weitere unpersönliche WhatsApp-Gruppe zu erstellen, warum nicht einmal etwas Kreatives und Einzigartiges ausprobieren? Mit [Invitivo](https://invitivo.com/) kannst du digitale Einladungen gestalten, die nicht nur schön, sondern auch praktisch sind. Stell dir vor, deine Gäste empfangen eine stilvoll gestaltete Einladung, die sie mit nur einem Klick annehmen können – und das ganz ohne den Papiermüll!
 
 **Tipp:** Nutze die Möglichkeit, personalisierte Elemente wie GIFs oder kleine Umfragen hinzuzufügen. So kannst du sicherstellen, dass alle wissen, was mitgebracht werden soll, und gleichzeitig die Vorfreude anheizen!
 
@@ -44,7 +44,7 @@ Neben Fotos sind Videos eine großartige Möglichkeit, die Atmosphäre der Babyp
 
 ### **Einladung und Dokumentation mit [Invitivo](https://invitivo.com)**
 
-Die perfekte Babyparty-Dokumentation beginnt mit einer stilvollen Einladung. Mit [Invitivo](https://invitivo.com/) kannst du nicht nur die Einladungen erstellen, sondern auch die gesamte Organisation der Babyparty vereinfachen. Deine Gäste können unkompliziert zusagen, Geschenke koordinieren und sich über alle wichtigen Details informieren – alles an einem Ort. 
+Die perfekte Babyparty-Dokumentation beginnt mit einer stilvollen Einladung. Mit [Invitivo](https://invitivo.com/) kannst du nicht nur die Einladungen erstellen, sondern auch die gesamte Organisation der Babyparty vereinfachen. Deine Gäste können unkompliziert zusagen, Geschenke koordinieren und sich über alle wichtigen Details informieren – alles an einem Ort.
 
 Damit bleibt mehr Zeit für das Wesentliche: das Feiern und die schönen Momente mit Freunden und Familie!
 

@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur eine Feier, sondern ein kreatives Erlebnis, das die Vorfreude auf das neue Leben zelebriert. Und was könnte besser sein, als deinen Gästen die Möglichkeit zu geben, ihrer Kreativität freien Lauf zu lassen? Mit ein paar originellen Bastelstationen sorgst du nicht nur für Spaß, sondern schaffst auch bleibende Erinnerungen, die die Gäste mit nach Hause nehmen können. Lass uns einige zauberhafte Ideen erkunden, die deiner Babyparty den perfekten kreativen Touch geben!
 
-![Kreative Bastelstation](/img/babyparty-crafts.webp)
+![Kreative Bastelstation](/img/picnic-park.webp)
 
 ### 1. **Babybody-Bemalen – Ein Kleidungsstück mit Persönlichkeit**
 
@@ -36,7 +36,7 @@ Windel-Kunst ist eine unterhaltsame und nützliche Bastelstation! Die Gäste kö
 
 ### **Einladungen, die begeistern – Mit [Invitivo](https://invitivo.com/create)**
 
-Bevor die Bastelstationen richtig loslegen, ist eine schöne Einladung das A und O! Warum nicht einen Schritt weiter gehen, als einfach eine WhatsApp-Gruppe zu erstellen? Mit [Invitivo](https://invitivo.com/) kannst du ansprechende digitale Einladungen kreieren, die sowohl stilvoll als auch persönlich sind. 
+Bevor die Bastelstationen richtig loslegen, ist eine schöne Einladung das A und O! Warum nicht einen Schritt weiter gehen, als einfach eine WhatsApp-Gruppe zu erstellen? Mit [Invitivo](https://invitivo.com/) kannst du ansprechende digitale Einladungen kreieren, die sowohl stilvoll als auch persönlich sind.
 
 Stell dir vor, wie deine Gäste staunen werden, wenn sie eine liebevoll gestaltete Einladung in ihrem Postfach finden! Bei Invitivo kannst du die Einladungen ganz nach deinem Geschmack anpassen – ob mit fröhlichen Farben, einer süßen Babyillustration oder einem witzigen Spruch. So wird schon die Einladung zum ersten Highlight deiner Babyparty!
 

@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist der perfekte Anlass, um Freunde und Familie zusammenzubringen und das bevorstehende Abenteuer der Elternschaft zu feiern. Aber was wäre eine Babyparty ohne die richtigen Snacks? Wenn du auf der Suche nach veganen Leckereien bist, die nicht nur köstlich sind, sondern auch das Herz deiner Gäste erobern, dann bist du hier genau richtig! Lass uns gemeinsam in die bunte Welt der veganen Snacks eintauchen, die jede Babyparty zu einem kulinarischen Highlight machen.
 
-![Vegane Snacks für die Babyparty](/img/vegan-snacks.webp)
+![Vegane Snacks für die Babyparty](/img/picnic-park.webp)
 
 ### 1. **Mini-Gemüse-Quiches ohne Ei – Für den herzhaften Genuss**
 

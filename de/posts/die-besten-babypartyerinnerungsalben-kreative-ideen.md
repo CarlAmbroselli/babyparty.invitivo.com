@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur eine Feier, sondern ein magischer Moment, der voller Vorfreude und Liebe steckt. Und was könnte schöner sein, als diese besonderen Erinnerungen in einem einzigartigen Album festzuhalten, das für immer bestehen bleibt? Lass uns gemeinsam in die kreative Welt der Babyparty-Erinnerungsalben eintauchen und gleichzeitig einen Blick auf die digitale Einladung werfen, die deinem Fest den perfekten Start verleiht.
 
-![Babyparty Erinnerungsalbum](/img/babyparty-album.webp)
+![Babyparty Erinnerungsalbum](/img/picnic-park.webp)
 
 ### 1. **Das kreative Cover – Ein Meisterwerk gestalten**
 
@@ -47,6 +47,6 @@ Die digitale Einladung ermöglicht es dir, all deine Gäste auf einen Blick zu s
 
 ### **Fazit**
 
-Ein Erinnerungsalbum für die Babyparty ist eine wunderbare Möglichkeit, all die liebevollen Momente und kreativen Ideen festzuhalten. Denke daran, dass es nicht nur um die Fotos geht, sondern auch um die Geschichten, die du mit deinen Gästen teilst. Und vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com/) zu verschicken – so startest du die Feier mit einem Hauch von Stil und Individualität. 
+Ein Erinnerungsalbum für die Babyparty ist eine wunderbare Möglichkeit, all die liebevollen Momente und kreativen Ideen festzuhalten. Denke daran, dass es nicht nur um die Fotos geht, sondern auch um die Geschichten, die du mit deinen Gästen teilst. Und vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com/) zu verschicken – so startest du die Feier mit einem Hauch von Stil und Individualität.
 
 Mach deine Babyparty zu einem unvergesslichen Event, das in den Herzen aller Beteiligten weiterlebt – und in einem kreativen Erinnerungsalbum, das die Zeit überdauert!

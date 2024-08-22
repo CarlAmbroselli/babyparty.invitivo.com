@@ -42,7 +42,7 @@ Der Botanische Garten in Regensburg ist ein wahrer Geheimtipp, wenn es darum geh
 
 ### 4. **Der Alte Friedhof – Historischer Charme**
 
-Der Alte Friedhof in Regensburg hat nicht nur eine beeindruckende Geschichte, sondern auch eine wunderschöne, ruhige Atmosphäre. Die alten Bäume und die kunstvollen Grabsteine bieten eine einzigartige Kulisse für eine sehr persönliche Babyparty. 
+Der Alte Friedhof in Regensburg hat nicht nur eine beeindruckende Geschichte, sondern auch eine wunderschöne, ruhige Atmosphäre. Die alten Bäume und die kunstvollen Grabsteine bieten eine einzigartige Kulisse für eine sehr persönliche Babyparty.
 
 **Tipp für die Dekoration:** Setze auf eine elegante, nostalgische Deko mit Vintage-Elementen wie alten Büchern und Kerzen.
 
@@ -50,7 +50,7 @@ Der Alte Friedhof in Regensburg hat nicht nur eine beeindruckende Geschichte, so
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty im Freien ist nicht nur eine wunderbare Möglichkeit, den großen Tag zu feiern, sondern auch eine Gelegenheit, umweltbewusst zu handeln. Statt einer weiteren WhatsApp-Gruppe, warum nicht auf eine nachhaltige und kreative Art Einladungen verschicken? Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die sowohl umweltfreundlich als auch individuell sind. 
+Eine Babyparty im Freien ist nicht nur eine wunderbare Möglichkeit, den großen Tag zu feiern, sondern auch eine Gelegenheit, umweltbewusst zu handeln. Statt einer weiteren WhatsApp-Gruppe, warum nicht auf eine nachhaltige und kreative Art Einladungen verschicken? Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen erstellen, die sowohl umweltfreundlich als auch individuell sind.
 
 Im Vergleich zu einer einfachen Nachricht auf deinem Smartphone bieten digitale Einladungen von Invitivo eine ansprechende Gestaltung, die dem Anlass gerecht wird. Deine Gäste können die Einladung mit nur einem Klick annehmen, was nicht nur praktisch, sondern auch ressourcenschonend ist.
 

@@ -18,7 +18,7 @@ Eine Babyparty ist eine wunderschöne Gelegenheit, um das bevorstehende Wunder d
 
 ### 1. **Der Botanische Garten – Ein Paradies der Farben**
 
-Der Botanische Garten in Würzburg ist ein echter Geheimtipp für eine Babyparty. Mit seiner Vielfalt an Pflanzen und blühenden Beeten bietet dieser Ort eine malerische Kulisse für dein Event. Die ruhigen Ecken und idyllischen Wege laden zum Verweilen und Entspannen ein. 
+Der Botanische Garten in Würzburg ist ein echter Geheimtipp für eine Babyparty. Mit seiner Vielfalt an Pflanzen und blühenden Beeten bietet dieser Ort eine malerische Kulisse für dein Event. Die ruhigen Ecken und idyllischen Wege laden zum Verweilen und Entspannen ein.
 
 **Tipp für die Dekoration:** Nutze die natürliche Schönheit des Gartens und ergänze sie mit bunten, umweltfreundlichen Dekorationen wie recycelten Papierlaternen oder handgemachten Blumen.
 

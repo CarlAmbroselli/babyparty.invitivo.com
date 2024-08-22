@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist wie ein fröhlicher Countdown zum großen Tag – eine Feier der Vorfreude, der Liebe und der kleinen Wunder, die bald die Welt erobern werden. Wenn du auf der Suche nach dem perfekten Geschenk bist, das der werdenden Mutter ein Lächeln ins Gesicht zaubert, dann sind DIY-Geschenke der richtige Weg! Sie sind nicht nur einzigartig, sondern zeigen auch, dass du dir Gedanken gemacht hast. Lass uns gemeinsam einige kreative Ideen erkunden, die nicht nur praktisch, sondern auch von Herzen kommen.
 
-![DIY-Geschenke für werdende Mütter](/img/diy-baby-gifts.webp)
+![DIY-Geschenke für werdende Mütter](/img/picnic-park.webp)
 
 ### 1. **Personalisierte Babydecke – Kuschelige Erinnerungen**
 

@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf ein neues Leben, das in die Welt kommt, ist mit nichts zu vergleichen. Ein zartes Herz schlägt, und die Gedanken kreisen um die perfekten Vorbereitungen für die Babyparty – dem Ereignis, das die werdende Mutter in den Mittelpunkt stellt. Doch bevor wir uns in die Planung stürzen, sollten wir einen Blick auf eine der wichtigsten Entscheidungen werfen: die Farben der Einladungen. In diesem Jahr gibt es eine aufregende Palette, die nicht nur den Trend trifft, sondern auch die Herzen der Gäste im Sturm erobern wird.
 
-![Babyshower Einladungen 2023](/img/babyshower-invitations.webp)
+![Babyshower Einladungen 2023](/img/picnic-park.webp)
 
 ### 1. **Pastellträume – Zart und zeitlos**
 
@@ -35,14 +35,14 @@ Wenn du etwas mehr Farbe ins Spiel bringen möchtest, dann sind kräftige Akzent
 
 ### **Digitale Einladungen: Warum nicht einfach mal anders?**
 
-Und während du über die perfekten Farben nachdenkst, lass uns das Thema Einladungen nicht vergessen! Anstatt eine weitere WhatsApp-Gruppe zu starten, warum nicht auf etwas Persönlicheres setzen? Digitale Einladungen über [Invitivo](https://invitivo.com/) bieten nicht nur wunderschöne Designs, sondern auch viele praktische Funktionen. So kannst du beispielsweise mühelos anpassbare Einladungen gestalten, die deinem Stil und deinem Farbkonzept entsprechen. 
+Und während du über die perfekten Farben nachdenkst, lass uns das Thema Einladungen nicht vergessen! Anstatt eine weitere WhatsApp-Gruppe zu starten, warum nicht auf etwas Persönlicheres setzen? Digitale Einladungen über [Invitivo](https://invitivo.com/) bieten nicht nur wunderschöne Designs, sondern auch viele praktische Funktionen. So kannst du beispielsweise mühelos anpassbare Einladungen gestalten, die deinem Stil und deinem Farbkonzept entsprechen.
 
 Stell dir vor, wie deine Gäste ohne langes Hin und Her ihre Zusagen direkt über die Einladung abgeben können. Kein nerviges "Wer bringt was mit?" mehr in Gruppenchats! Stattdessen hast du alles auf einen Blick – von den Zusagen bis zu den Geschenkideen. So bleibt der Fokus auf der Feier und nicht auf dem Organisieren!
 
 ### **Fazit**
 
-Die Farbtrends für Babypartys im Jahr 2023 sind vielfältig und inspirierend. Ob du dich für sanfte Pastelltöne, natürliche Erdfarben oder leuchtende Akzente entscheidest, wichtig ist, dass die Einladungen deine Persönlichkeit und die Vorfreude auf das neue Leben widerspiegeln. 
+Die Farbtrends für Babypartys im Jahr 2023 sind vielfältig und inspirierend. Ob du dich für sanfte Pastelltöne, natürliche Erdfarben oder leuchtende Akzente entscheidest, wichtig ist, dass die Einladungen deine Persönlichkeit und die Vorfreude auf das neue Leben widerspiegeln.
 
-Lass dich von unseren Tipps inspirieren und gestalte deine digitalen Einladungen mit [Invitivo](https://invitivo.com/). So wird deine Babyparty nicht nur ein Fest für das Herz, sondern auch ein visuelles Erlebnis, das alle Gäste begeistert. 
+Lass dich von unseren Tipps inspirieren und gestalte deine digitalen Einladungen mit [Invitivo](https://invitivo.com/). So wird deine Babyparty nicht nur ein Fest für das Herz, sondern auch ein visuelles Erlebnis, das alle Gäste begeistert.
 
 Bist du bereit, deine Farben auszuwählen und deine Einladungen zu gestalten? Lass uns gemeinsam feiern!

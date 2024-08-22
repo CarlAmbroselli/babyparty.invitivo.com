@@ -30,7 +30,7 @@ Der Petersberg mit seiner beeindruckenden Festungsanlage bietet nicht nur eine a
 
 **Tipp für die Dekoration:** Wähle eine rustikale Deko mit Holzelementen und natürlichen Stoffen, die die historische Umgebung unterstreichen. Einfache, handgemachte Tischkarten aus recyceltem Papier können einen persönlichen Touch verleihen.
 
-**Aktivitäten im Freien:** Plane eine kleine Schatzsuche für die Kinder oder ein gemeinsames Spiel, das die Gäste zum Lachen bringt. 
+**Aktivitäten im Freien:** Plane eine kleine Schatzsuche für die Kinder oder ein gemeinsames Spiel, das die Gäste zum Lachen bringt.
 
 ### 3. **Krämerbrücke – Feiern im Herzen der Altstadt**
 

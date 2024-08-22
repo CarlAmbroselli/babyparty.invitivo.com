@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf ein neues Leben ist ein ganz besonderes Gefühl, das nicht nur das Herz der werdenden Eltern höher schlagen lässt, sondern auch das ihrer Freunde und Familie. Eine Babyparty ist die perfekte Gelegenheit, um diese Freude zu teilen und gemeinsam wundervolle Erinnerungen zu schaffen. Dabei dürfen Rituale nicht fehlen – sie verleihen der Feier eine besondere Note und schaffen unvergessliche Momente. Aber was sind die besten Rituale für eine Babyparty? Lass uns gemeinsam in die Welt der Traditionen und kreativen Ideen eintauchen!
 
-![Babyparty-Rituale](/img/babyparty-rituale.webp)
+![Babyparty-Rituale](/img/picnic-park.webp)
 
 ### 1. **Das „Wünsche für das Baby“-Buch**
 
@@ -36,7 +36,7 @@ Eine Zeitkapsel ist ein wunderschönes Ritual, das die Gäste dazu einlädt, Eri
 
 ### **Einladungen, die begeistern: Warum digitale Einladungen von [Invitivo](https://invitivo.com/create) eine großartige Wahl sind**
 
-Bevor die Vorbereitungen für die Babyparty in vollem Gange sind, solltest du dir Gedanken über die Einladungen machen. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht etwas Einzigartiges und Persönliches wählen? Digitale Einladungen von [Invitivo](https://invitivo.com) machen es einfach, deine Gäste stilvoll einzuladen. 
+Bevor die Vorbereitungen für die Babyparty in vollem Gange sind, solltest du dir Gedanken über die Einladungen machen. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht etwas Einzigartiges und Persönliches wählen? Digitale Einladungen von [Invitivo](https://invitivo.com) machen es einfach, deine Gäste stilvoll einzuladen.
 
 Stell dir vor: Anstelle eines flüchtigen Textes erhalten deine Freunde eine wunderschöne, individuell gestaltete Einladung, die sie mit nur einem Klick annehmen können. Du kannst sie mit liebevollen Details und sogar kleinen Animationen versehen, die das Thema deiner Babyparty widerspiegeln. So wird die Vorfreude gleich ins Unermessliche gesteigert!
 

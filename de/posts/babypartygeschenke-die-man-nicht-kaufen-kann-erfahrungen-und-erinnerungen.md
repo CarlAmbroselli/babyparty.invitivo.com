@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist wie der erste Schritt in ein neues Abenteuer – voller Vorfreude, Liebe und der Magie des Neubeginns. Während wir oft von den neuesten Spielzeugen und süßen Baby-Outfits umgeben sind, gibt es eine ganz andere Art von Geschenken, die einen bleibenden Eindruck hinterlassen können: Erlebnisse und gemeinsame Erinnerungen. Lass uns eintauchen in die Welt der unvergesslichen Geschenke zur Babyparty und erfahre, wie digitale Einladungen dabei helfen können, diese besonderen Momente zu feiern.
 
-![Babyparty-Erinnerungen](/img/babyparty-erinnerungen.webp)
+![Babyparty-Erinnerungen](/img/picnic-park.webp)
 
 ### 1. **Ein gemeinsames Koch- oder Backerlebnis**
 

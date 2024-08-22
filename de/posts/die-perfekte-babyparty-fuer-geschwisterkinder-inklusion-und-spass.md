@@ -14,19 +14,19 @@ layout: layouts/post.njk
 
 Eine Babyparty ist ein Fest voller Freude, Erwartungen und ein bisschen Aufregung. Doch während die Vorfreude auf das neue Baby groß ist, kann es schnell passieren, dass die Geschwisterkinder sich in der ganzen Aufregung übersehen fühlen. Deshalb ist es wichtig, auch sie in die Feierlichkeiten einzubeziehen! Hier sind einige kreative Ideen, wie du Geschwisterkinder in die Babyparty integrieren kannst, damit sich wirklich jeder besonders und geliebt fühlt.
 
-![Babyparty mit Geschwisterkindern](/img/siblings-baby-shower.webp)
+![Babyparty mit Geschwisterkindern](/img/picnic-park.webp)
 
 ### 1. **Die "Superhelden"-Einladung**
 
-Beginne mit einem kreativen Aufruf! Lade die Geschwisterkinder zu einer „Superhelden-Babyparty“ ein. Gestalte die Einladungen so, dass sie die kleinen Helden ansprechen – vielleicht mit einem Bild eines Baby-Superhelden und dem Slogan „Wir brauchen deine Superkräfte!“. 
+Beginne mit einem kreativen Aufruf! Lade die Geschwisterkinder zu einer „Superhelden-Babyparty“ ein. Gestalte die Einladungen so, dass sie die kleinen Helden ansprechen – vielleicht mit einem Bild eines Baby-Superhelden und dem Slogan „Wir brauchen deine Superkräfte!“.
 
 **Tipp für digitale Einladungen:** Nutze [Invitivo](https://invitivo.com/create) für diese besonderen Einladungen! Mit den anpassbaren Designs kannst du sicherstellen, dass die Einladungen sowohl für die Erwachsenen als auch für die Kinder ansprechend sind. So wird die Einladung nicht nur ein Stück Papier oder eine flüchtige WhatsApp-Nachricht, sondern ein aufregendes Erlebnis, das die Vorfreude auf die Party steigert.
 
 ### 2. **Aktivitäten für Geschwisterkinder**
 
-Planen Sie eine Vielzahl von Aktivitäten, die sowohl für die Erwachsenen als auch für die Geschwisterkinder geeignet sind. Eine Bastelstation, an der die Kinder kleine Geschenke für das Baby gestalten können, ist eine großartige Möglichkeit, sie in die Feier einzubeziehen. 
+Planen Sie eine Vielzahl von Aktivitäten, die sowohl für die Erwachsenen als auch für die Geschwisterkinder geeignet sind. Eine Bastelstation, an der die Kinder kleine Geschenke für das Baby gestalten können, ist eine großartige Möglichkeit, sie in die Feier einzubeziehen.
 
-**Aktivitätstipps:** 
+**Aktivitätstipps:**
 - **Baby-T-Shirts gestalten:** Lass die Kinder T-Shirts mit Stofffarben bemalen. So haben sie ein persönliches Geschenk für das Baby, das sie stolz präsentieren können.
 - **Schnitzeljagd:** Organisiere eine kleine Schnitzeljagd, bei der die Kinder „Baby-Gegenstände“ finden müssen. Das macht nicht nur Spaß, sondern hält sie auch beschäftigt!
 

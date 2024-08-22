@@ -14,11 +14,11 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur eine Feier für werdende Mütter, sondern auch ein freudiges Ereignis für die gesamte Familie, insbesondere für die Großeltern! Sie bringen nicht nur Lebenserfahrung und Weisheit in die Planung, sondern auch eine Menge Liebe, die das Fest noch besonderer macht. In diesem Artikel werfen wir einen Blick darauf, wie Großeltern aktiv an der Vorbereitung und Durchführung von Babypartys teilnehmen können, und wie digitale Einladungen das Ganze erheblich erleichtern.
 
-![Großeltern feiern eine Babyparty](/img/grandparents-babyparty.webp)
+![Großeltern feiern eine Babyparty](/img/picnic-park.webp)
 
 ### 1. **Großeltern als kreative Köpfe**
 
-Die Großeltern sind oft die wahren Meister der Kreativität. Sie haben unzählige Feste gefeiert und können mit ihren Ideen für Dekorationen und Spiele einen frischen Wind in deine Babyparty bringen. Vielleicht haben sie sogar alte Familienrezepte, die sie gerne als Snacks beisteuern möchten. Warum nicht einen kleinen Wettbewerb veranstalten, bei dem jeder seine beste Kreation präsentiert? Und das Beste: Die Großeltern können die kleinen Gäste mit Geschichten unterhalten, die sie selbst in ihrer Kindheit erlebt haben. 
+Die Großeltern sind oft die wahren Meister der Kreativität. Sie haben unzählige Feste gefeiert und können mit ihren Ideen für Dekorationen und Spiele einen frischen Wind in deine Babyparty bringen. Vielleicht haben sie sogar alte Familienrezepte, die sie gerne als Snacks beisteuern möchten. Warum nicht einen kleinen Wettbewerb veranstalten, bei dem jeder seine beste Kreation präsentiert? Und das Beste: Die Großeltern können die kleinen Gäste mit Geschichten unterhalten, die sie selbst in ihrer Kindheit erlebt haben.
 
 **Tipp für die Dekoration:** Lass die Großeltern beim Basteln von DIY-Dekorationen mithelfen! Ob handgemachte Girlanden oder selbstgebastelte Tischkarten – die persönliche Note wird die Atmosphäre auflockern.
 
@@ -36,7 +36,7 @@ Die Planung einer Babyparty kann manchmal überwältigend sein. Hier kommen die 
 
 ### **Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um die Planung noch einfacher und persönlicher zu gestalten, empfehlen wir, die Einladungen über eine Plattform wie [Invitivo](https://invitivo.com) zu verschicken. Vergiss die altmodischen WhatsApp-Gruppen, denn digitale Einladungen sind der neue Trend! Mit Invitivo kannst du wunderschöne, individuell gestaltbare Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben. 
+Um die Planung noch einfacher und persönlicher zu gestalten, empfehlen wir, die Einladungen über eine Plattform wie [Invitivo](https://invitivo.com) zu verschicken. Vergiss die altmodischen WhatsApp-Gruppen, denn digitale Einladungen sind der neue Trend! Mit Invitivo kannst du wunderschöne, individuell gestaltbare Einladungen erstellen, die nicht nur umweltfreundlich sind, sondern auch eine persönliche Note haben.
 
 Statt einer einfachen Nachricht erhalten deine Gäste eine ansprechende Einladung, die sie mit einem Klick annehmen können. So behältst du immer den Überblick über Zusagen und kannst alle wichtigen Informationen auf einen Blick bereitstellen – perfekt, um die Großeltern und andere Gäste stets auf dem Laufenden zu halten.
 

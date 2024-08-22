@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf ein neues Leben bringt so viel Freude mit sich! Doch während sich werdende Eltern auf die Ankunft ihres kleinen Wunders vorbereiten, stellt sich oft die Frage: Was schenkt man diesen besonderen Menschen, die schon alles haben? Keine Sorge, wir haben eine Liste von einzigartigen und nützlichen Geschenken zusammengestellt, die nicht nur praktisch sind, sondern auch das Herz erwärmen. Und während du darüber nachdenkst, wie du das perfekte Geschenk auswählst, vergiss nicht, dass auch die Einladung zur Babyparty eine besondere Note braucht!
 
-![Babyparty Geschenkideen](/img/babyparty-geschenke.webp)
+![Babyparty Geschenkideen](/img/picnic-park.webp)
 
 ### 1. **Personalisierte Babydecke – Kuschelige Erinnerungen**
 

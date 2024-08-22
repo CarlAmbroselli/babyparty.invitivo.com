@@ -42,7 +42,7 @@ Das Kulturzentrum Zakk in Neuss bietet nicht nur kulturelle Veranstaltungen, son
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty in Neuss kann nicht nur schön, sondern auch nachhaltig sein. Warum nicht auch bei den Einladungen umweltbewusst handeln? Statt eine weitere WhatsApp-Gruppe zu erstellen, lade deine Gäste mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/) ein. 
+Eine Babyparty in Neuss kann nicht nur schön, sondern auch nachhaltig sein. Warum nicht auch bei den Einladungen umweltbewusst handeln? Statt eine weitere WhatsApp-Gruppe zu erstellen, lade deine Gäste mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/) ein.
 
 Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur ressourcenschonend sind, sondern auch eine persönliche Note haben. Im Vergleich zu einer simplen Nachricht bieten diese Einladungen eine ansprechende Gestaltung, die dem besonderen Anlass gerecht wird.
 

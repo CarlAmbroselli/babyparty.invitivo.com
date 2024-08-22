@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur eine Feier, sondern auch ein liebevoller Abschied von der unbeschwerten Zeit, bevor das neue Leben den Alltag auf den Kopf stellt. Umso wichtiger ist es, diesen besonderen Moment gebührend einzuläuten – und das beginnt schon bei der Einladung! Warum also nicht kreativ werden und aus einer einfachen Nachricht ein unvergessliches Erlebnis schaffen? Lass uns gemeinsam die Reise von digitalen Einladungen zu handgemachten Meisterwerken antreten!
 
-![Kreative Babyparty-Einladungen](/img/babyparty-invitations.webp)
+![Kreative Babyparty-Einladungen](/img/picnic-park.webp)
 
 ### 1. **Die Magie der digitalen Einladungen: Schnell, stylisch und nachhaltig**
 

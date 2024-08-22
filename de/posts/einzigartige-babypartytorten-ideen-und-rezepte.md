@@ -13,11 +13,11 @@ layout: layouts/post.njk
 
 Eine Babyparty ist der perfekte Anlass, um kreativ zu werden – und was wäre eine Feier ohne eine atemberaubende Torte? Egal, ob du eine süße Überraschung für die werdende Mama planst oder einfach nur die Gäste mit einer unvergesslichen Kreation beeindrucken möchtest, wir haben die besten Ideen und Rezepte für dich! Lass uns gemeinsam in die bunte Welt der Babyparty-Torten eintauchen und gleichzeitig einen Blick auf die perfekte Einladung werfen, die deine Gäste gleich in Feierlaune versetzt.
 
-![Einzigartige Babyparty-Torten](/img/baby-shower-cakes.webp)
+![Einzigartige Babyparty-Torten](/img/picnic-park.webp)
 
 ### 1. **Die klassische Windeltorte – Praktisch und süß!**
 
-Die Windeltorte ist ein absoluter Klassiker auf jeder Babyparty. Sie sieht nicht nur toll aus, sondern ist auch ein praktisches Geschenk für die Eltern. Mit ein wenig Kreativität kannst du sie in ein wahres Kunstwerk verwandeln! 
+Die Windeltorte ist ein absoluter Klassiker auf jeder Babyparty. Sie sieht nicht nur toll aus, sondern ist auch ein praktisches Geschenk für die Eltern. Mit ein wenig Kreativität kannst du sie in ein wahres Kunstwerk verwandeln!
 
 **Tipp für die Gestaltung:** Wickel die Windeln in verschiedenen Farben und füge kleine Babyspielzeuge, Schnuller und sogar Mini-Bodys hinzu, um die Torte lebendig zu machen. Eine hübsche Schleife rundet das Ganze ab!
 
@@ -41,7 +41,7 @@ Tiermotive sind immer ein Hit, besonders wenn es um Babypartys geht. Eine Torte,
 
 ### **Digitale Einladungen für deine Babyparty mit [Invitivo](https://invitivo.com/create)**
 
-Während du deine perfekte Torte planst, solltest du auch an die Einladungen denken! Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht etwas Einzigartiges und Persönliches ausprobieren? Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne digitale Einladungen gestalten, die genau zu deinem Babyparty-Thema passen. 
+Während du deine perfekte Torte planst, solltest du auch an die Einladungen denken! Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht etwas Einzigartiges und Persönliches ausprobieren? Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne digitale Einladungen gestalten, die genau zu deinem Babyparty-Thema passen.
 
 Stell dir vor, deine Gäste erhalten eine liebevoll gestaltete Einladung, die sie sofort in Feierlaune versetzt. Du kannst kreative Designs wählen, die perfekt zu deinem Tortenthema passen und mit nur einem Klick können sie ihre Zusage geben. So hast du alles übersichtlich auf einen Blick!
 

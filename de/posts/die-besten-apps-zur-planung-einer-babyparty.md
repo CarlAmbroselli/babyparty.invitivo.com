@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty zu planen kann sich anfühlen wie das Jonglieren mit einem Dutzend Babyfläschchen gleichzeitig. Zwischen der Auswahl des perfekten Themas, der Organisation der Dekoration und der Regelung der Gästeliste kann der Stress schnell überhandnehmen. Aber keine Sorge! Mit den richtigen Apps wird das Planen deiner Babyparty zum Kinderspiel – und vielleicht sogar zum Spaß! Lass uns einen Blick auf die besten Apps werfen, die dir helfen, den großen Tag perfekt zu organisieren.
 
-![Babyparty Planung](/img/babyparty-planning.webp)
+![Babyparty Planung](/img/picnic-park.webp)
 
 ### 1. **Eventbrite – Die Alleskönner-App für Events**
 
@@ -36,7 +36,7 @@ Die Einladungen sind das erste, was deine Gäste von deiner Babyparty sehen, und
 
 ### 4. **Invitivo – Die perfekte Lösung für digitale Einladungen**
 
-Anstatt eine weitere WhatsApp-Gruppe zu gründen, warum nicht auf etwas Einzigartiges und Stilvolles setzen? Mit Invitivo kannst du digitale Einladungen erstellen, die nicht nur ansprechend, sondern auch super praktisch sind. Deine Gäste können mit nur einem Klick zusagen oder absagen, ohne dass endlose Nachrichten hin und her geschickt werden müssen. 
+Anstatt eine weitere WhatsApp-Gruppe zu gründen, warum nicht auf etwas Einzigartiges und Stilvolles setzen? Mit Invitivo kannst du digitale Einladungen erstellen, die nicht nur ansprechend, sondern auch super praktisch sind. Deine Gäste können mit nur einem Klick zusagen oder absagen, ohne dass endlose Nachrichten hin und her geschickt werden müssen.
 
 **Tipp:** Nutze die Möglichkeit, deine Einladung mit kleinen GIFs oder einer Mitbringliste zu ergänzen. So haben deine Gäste alle wichtigen Informationen auf einen Blick.
 

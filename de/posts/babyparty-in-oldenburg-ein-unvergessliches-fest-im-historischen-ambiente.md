@@ -42,7 +42,7 @@ Für eine abenteuerliche Babyparty bietet sich der Oldenburger Stadtwald an. Die
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Ein wichtiger Aspekt einer gelungenen Babyparty ist die Einladung. Warum also nicht auf umweltfreundliche digitale Einladungen setzen? Mit [Invitivo](https://invitivo.com/) kannst du individuelle, personalisierte Einladungen erstellen, die nicht nur schöner sind als eine einfache WhatsApp-Nachricht, sondern auch nachhaltig. 
+Ein wichtiger Aspekt einer gelungenen Babyparty ist die Einladung. Warum also nicht auf umweltfreundliche digitale Einladungen setzen? Mit [Invitivo](https://invitivo.com/) kannst du individuelle, personalisierte Einladungen erstellen, die nicht nur schöner sind als eine einfache WhatsApp-Nachricht, sondern auch nachhaltig.
 
 Statt Papierabfall zu produzieren, verschickst du eine digitale Einladung, die deine Gäste mit nur einem Klick annehmen können. Du kannst die Einladung ganz nach deinen Wünschen gestalten – mit hübschen Designs, Bildern und Texten, die das Thema deiner Babyparty widerspiegeln. Das macht nicht nur Eindruck, sondern schont auch die Umwelt.
 

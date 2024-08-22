@@ -42,7 +42,7 @@ Der Kunstgarten in Mainz ist eine inspirierende Location, die Kunst und Natur ve
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um deine Babyparty nachhaltig zu gestalten, sollte auch die Einladung umweltfreundlich sein. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, kannst du mit [Invitivo](https://invitivo.com/) wunderschöne digitale Einladungen kreieren. Diese Einladungen sind nicht nur ressourcenschonend, sondern bieten auch eine persönlichere Note, die den besonderen Anlass würdigt. 
+Um deine Babyparty nachhaltig zu gestalten, sollte auch die Einladung umweltfreundlich sein. Anstatt eine weitere WhatsApp-Gruppe zu erstellen, kannst du mit [Invitivo](https://invitivo.com/) wunderschöne digitale Einladungen kreieren. Diese Einladungen sind nicht nur ressourcenschonend, sondern bieten auch eine persönlichere Note, die den besonderen Anlass würdigt.
 
 Mit [Invitivo](https://invitivo.com/) kannst du individuelle Designs erstellen, die perfekt zu deiner Babyparty passen. Deine Gäste erhalten eine ansprechende Einladung, die sie mit nur einem Klick annehmen können – ohne Papierabfall und mit einem deutlich reduzierten CO2-Fußabdruck.
 

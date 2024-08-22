@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist ein fröhliches Fest, das den bevorstehenden Zuwachs feiert und alle Freunde und Familie zusammenbringt. Doch was ist, wenn unter den Gästen einige Schüchterne sind, die sich in lauten Spielen und großen Gruppen nicht wohlfühlen? Keine Sorge! Hier sind einige kreative Babyparty-Spiele, die auch die schüchternen Herzen zum Lachen bringen – ohne dass sie sich dabei unwohl fühlen müssen.
 
-![Babyparty Spiele](/img/babyparty-spiele.webp)
+![Babyparty Spiele](/img/picnic-park.webp)
 
 ### 1. **Die "Baby-Bingo"-Karte: Spannung in Stille**
 

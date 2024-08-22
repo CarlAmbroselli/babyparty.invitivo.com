@@ -49,7 +49,7 @@ Der Eiskanal ist nicht nur für Wassersportler ein beliebter Ort – auch für e
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Um deine Babyparty nachhaltig zu gestalten, denke auch an die Einladungen. Statt eine weitere WhatsApp-Gruppe zu erstellen, kannst du wunderschöne, personalisierte digitale Einladungen über [Invitivo](https://invitivo.com/) erstellen. Diese Einladungen sind nicht nur umweltfreundlich, sondern bringen auch eine persönliche Note in deine Feier. 
+Um deine Babyparty nachhaltig zu gestalten, denke auch an die Einladungen. Statt eine weitere WhatsApp-Gruppe zu erstellen, kannst du wunderschöne, personalisierte digitale Einladungen über [Invitivo](https://invitivo.com/) erstellen. Diese Einladungen sind nicht nur umweltfreundlich, sondern bringen auch eine persönliche Note in deine Feier.
 
 Mit Invitivo kannst du deine Einladungen individuell gestalten – inklusive hübscher Designs, GIFs und kreativer Textelemente, die genau zu deiner Babyparty passen. Deine Gäste erhalten eine ansprechende Einladung, die sie mit nur einem Klick annehmen können. So vermeidest du Papierabfall und reduzierst deinen CO2-Fußabdruck.
 

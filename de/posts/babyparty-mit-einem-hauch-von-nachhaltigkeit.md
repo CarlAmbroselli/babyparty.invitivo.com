@@ -14,17 +14,17 @@ layout: layouts/post.njk
 
 Eine Babyparty ist ein aufregendes Ereignis, das den Start eines neuen Lebensabschnitts feiert. Doch warum nicht auch bei der Feier auf Nachhaltigkeit setzen? Mit ein paar kreativen Ideen kannst du eine umweltfreundliche Babyparty gestalten, die sowohl deinen Gästen als auch der Erde gefällt. Hier sind fünf wertvolle Tipps, wie du dein Fest in vollen Zügen genießen kannst, ohne das Gewissen zu belasten.
 
-![Nachhaltige Babyparty](/img/sustainable-babyparty.webp)
+![Nachhaltige Babyparty](/img/picnic-park.webp)
 
 ### 1. **Wähle die richtige Location**
 
-Der erste Schritt zu einer nachhaltigen Babyparty ist die Wahl des Veranstaltungsorts. Statt ein teures Restaurant oder eine große Halle zu mieten, warum nicht im eigenen Garten oder in einem örtlichen Park feiern? Diese Optionen sind nicht nur umweltfreundlicher, sondern bieten auch eine entspannte Atmosphäre, die perfekt für eine Babyparty ist. 
+Der erste Schritt zu einer nachhaltigen Babyparty ist die Wahl des Veranstaltungsorts. Statt ein teures Restaurant oder eine große Halle zu mieten, warum nicht im eigenen Garten oder in einem örtlichen Park feiern? Diese Optionen sind nicht nur umweltfreundlicher, sondern bieten auch eine entspannte Atmosphäre, die perfekt für eine Babyparty ist.
 
 **Tipp:** Erkundige dich nach einem schönen, grünen Ort in deiner Nähe, der vielleicht sogar einen kleinen Spielplatz hat. So können auch die älteren Geschwister etwas Spaß haben!
 
 ### 2. **Nachhaltige Dekoration**
 
-Die Deko macht eine Babyparty erst richtig festlich. Setze dabei auf natürliche und wiederverwendbare Materialien. Statt Plastik und Einwegartikeln kannst du mit Blumen aus dem eigenen Garten, Stoffservietten und Holzdekorationen arbeiten. 
+Die Deko macht eine Babyparty erst richtig festlich. Setze dabei auf natürliche und wiederverwendbare Materialien. Statt Plastik und Einwegartikeln kannst du mit Blumen aus dem eigenen Garten, Stoffservietten und Holzdekorationen arbeiten.
 
 **Tipp:** Bastle aus recyceltem Papier Girlanden oder benutze alte Babyspielzeuge als Tischdeko. Es gibt unzählige Möglichkeiten, kreativ zu sein und gleichzeitig Müll zu vermeiden.
 
@@ -42,7 +42,7 @@ Nutze die Natur und organisiere einige Spiele und Aktivitäten im Freien. Von ei
 
 ### **Digitale Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Jetzt, wo du die Grundlagen für deine nachhaltige Babyparty hast, fehlt nur noch eine Sache: die Einladungen! Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht auf [digitale Einladungen setzen](https://invitivo.com/)? Mit Invitivo kannst du wunderschöne, personalisierte Einladungen gestalten, die sowohl ansprechend als auch umweltfreundlich sind. 
+Jetzt, wo du die Grundlagen für deine nachhaltige Babyparty hast, fehlt nur noch eine Sache: die Einladungen! Anstatt eine weitere WhatsApp-Gruppe zu erstellen, warum nicht auf [digitale Einladungen setzen](https://invitivo.com/)? Mit Invitivo kannst du wunderschöne, personalisierte Einladungen gestalten, die sowohl ansprechend als auch umweltfreundlich sind.
 
 Mit Invitivo hast du die Möglichkeit, deine Einladungen individuell zu gestalten: Farbpaletten, thematische Designs und sogar kleine GIFs können hinzugefügt werden. Und das Beste? Deine Gäste können ganz einfach zusagen oder absagen, ohne dass lange Chats entstehen. Alles ist an einem Ort, übersichtlich und unkompliziert!
 

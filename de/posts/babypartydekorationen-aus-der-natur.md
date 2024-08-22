@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist mehr als nur eine Feier – es ist ein liebevolles Willkommen für das neue Leben, das bald in unsere Welt tritt. Wenn du also darüber nachdenkst, eine Babyparty zu organisieren, warum nicht gleich den Fokus auf die Schönheit der Natur legen? Hier sind einige kreative Ideen für natürliche Dekorationen, die deine Gäste in Staunen versetzen werden – und die gleichzeitig umweltfreundlich sind!
 
-![Natürliche Dekoration für eine Babyparty](/img/natural-party-decor.webp)
+![Natürliche Dekoration für eine Babyparty](/img/picnic-park.webp)
 
 ### 1. **Blumenkränze – Ein Hauch von Natur über dem Fest**
 

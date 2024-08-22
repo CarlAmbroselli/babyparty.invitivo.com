@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist nicht nur eine Feier des neuen Lebens, das bald das Licht der Welt erblickt, sondern auch eine wunderbare Gelegenheit, die Menschen zu ehren, die diesen besonderen Moment mit uns teilen. Und nach all den Spielen, dem Lachen und den Geschenken ist es an der Zeit, Dankeschön zu sagen! Doch wie schreibt man eine Dankeskarte, die nicht nur formell ist, sondern auch das Herz berührt? Hier kommen einige kreative Tipps für herzliche Dankeskarten, die sicher einen bleibenden Eindruck hinterlassen.
 
-![Dankeskarten für die Babyparty](/img/babyparty-dankeskarten.webp)
+![Dankeskarten für die Babyparty](/img/picnic-park.webp)
 
 ### 1. **Persönliche Note hinzufügen**
 
@@ -36,12 +36,12 @@ Ein kleiner Scherz kann Wunder wirken und macht deine Dankeskarte unvergesslich.
 
 ### **Einladungen der besonderen Art mit [Invitivo](https://invitivo.com/)**
 
-Bevor du deine herzlichen Dankeskarten schreibst, denke daran, wie wichtig die Einladungen für die gesamte Feier waren. Statt auf eine unpersönliche WhatsApp-Gruppe zu setzen, hast du mit [Invitivo](https://invitivo.com/) eine digitale Einladung gewählt, die nicht nur schön aussieht, sondern auch viel einfacher zu handhaben ist. Deine Gäste konnten unkompliziert zusagen oder absagen, und du hattest immer den Überblick über alle Rückmeldungen. 
+Bevor du deine herzlichen Dankeskarten schreibst, denke daran, wie wichtig die Einladungen für die gesamte Feier waren. Statt auf eine unpersönliche WhatsApp-Gruppe zu setzen, hast du mit [Invitivo](https://invitivo.com/) eine digitale Einladung gewählt, die nicht nur schön aussieht, sondern auch viel einfacher zu handhaben ist. Deine Gäste konnten unkompliziert zusagen oder absagen, und du hattest immer den Überblick über alle Rückmeldungen.
 
 Mit Invitivo kannst du nicht nur Einladungen, sondern auch Dankeskarten ganz nach deinem Geschmack gestalten. In nur wenigen Klicks kannst du Designs wählen, die deine Persönlichkeit widerspiegeln. Das macht das Versenden der Dankeskarten nicht nur einfacher, sondern auch viel schöner.
 
 ### **Fazit**
 
-Das Schreiben von Dankeskarten nach der Babyparty muss kein Drahtseilakt sein. Mit ein wenig Kreativität, einer persönlichen Note und vielleicht einem Schuss Humor wird jede Karte zu einem kleinen Kunstwerk. Denke auch daran, wie viel Freude digitale Einladungen von [Invitivo](https://invitivo.com/) bringen können – für ein einheitliches und stilvolles Gesamtbild deiner Feier. 
+Das Schreiben von Dankeskarten nach der Babyparty muss kein Drahtseilakt sein. Mit ein wenig Kreativität, einer persönlichen Note und vielleicht einem Schuss Humor wird jede Karte zu einem kleinen Kunstwerk. Denke auch daran, wie viel Freude digitale Einladungen von [Invitivo](https://invitivo.com/) bringen können – für ein einheitliches und stilvolles Gesamtbild deiner Feier.
 
 Mach deine Dankeskarten zu etwas Besonderem und zeige deinen Gästen, wie sehr du ihre Anwesenheit und Geschenke schätzt. So bleibt die Erinnerung an eine wundervolle Babyparty nicht nur dir, sondern auch deinen Gästen lange in bester Erinnerung.

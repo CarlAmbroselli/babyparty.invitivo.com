@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist mehr als nur eine Feier – sie ist der erste Schritt in ein neues Abenteuer, das mit Liebe, Lachen und, ja, auch einer ordentlichen Portion Chaos verbunden ist. Warum also nicht gleich den Rahmen dieser besonderen Zeit aufpeppen? Anstatt sich auf die altbekannte Gartenparty zu beschränken, haben wir einige originelle und außergewöhnliche Locations für dich, die deinen Gästen noch lange im Gedächtnis bleiben werden. Und während wir über diese kreativen Orte sprechen, sollten wir auch nicht vergessen, wie wichtig die Einladung ist – lass uns die digitale Welt nutzen, um das Ganze noch persönlicher zu gestalten!
 
-![Ungewöhnliche Babyparty-Location](/img/unusual-babyparty-location.webp)
+![Ungewöhnliche Babyparty-Location](/img/picnic-park.webp)
 
 ### 1. **Ein alter Bahnhof – Nostalgie trifft auf Feierstimmung**
 
@@ -41,7 +41,7 @@ Ein Gewächshaus ist der perfekte Ort, um eine Babyparty inmitten von Blumen und
 
 ### **Digitale Einladungen für dein unvergessliches Event mit [Invitivo](https://invitivo.com/create)**
 
-Jetzt, wo du die perfekte Location gefunden hast, ist es an der Zeit, deine Gäste einzuladen! Vergiss die altmodischen Gruppen-Chats und setze auf eine digitale Einladung, die sowohl stilvoll als auch praktisch ist. Mit [Invitivo](https://invitivo.com/) kannst du individuelle digitale Einladungen gestalten, die nicht nur schön anzusehen sind, sondern auch den Nerv der Zeit treffen. 
+Jetzt, wo du die perfekte Location gefunden hast, ist es an der Zeit, deine Gäste einzuladen! Vergiss die altmodischen Gruppen-Chats und setze auf eine digitale Einladung, die sowohl stilvoll als auch praktisch ist. Mit [Invitivo](https://invitivo.com/) kannst du individuelle digitale Einladungen gestalten, die nicht nur schön anzusehen sind, sondern auch den Nerv der Zeit treffen.
 
 Deine Gäste werden die Möglichkeit lieben, ganz unkompliziert ihre Zusagen zu geben, ohne sich durch endlose Nachrichten wühlen zu müssen. Dabei kannst du all die wichtigen Details, wie Dresscode oder Mitbringlisten, ansprechend präsentieren – und das alles in einem ansprechenden Design, das zu deiner Babyparty passt.
 

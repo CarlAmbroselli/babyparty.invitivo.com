@@ -11,9 +11,9 @@ tags:
 layout: layouts/post.njk
 ---
 
-Ein ganzes Jahr voller Feiern – das klingt nach einem Traum, oder? Besonders wenn es um den kleinen Nachwuchs geht, der das Leben so sehr bereichert. Eine Babyparty ist der perfekte Anlass, um den neuen Erdenbürger willkommen zu heißen und gleichzeitig all jene wichtigen Daten festzuhalten, die das erste Jahr in der aufregenden Reise des Elternseins prägen werden. Aber wie behält man da den Überblick? Die Antwort: Ein Babyparty-Geburtstagskalender! 
+Ein ganzes Jahr voller Feiern – das klingt nach einem Traum, oder? Besonders wenn es um den kleinen Nachwuchs geht, der das Leben so sehr bereichert. Eine Babyparty ist der perfekte Anlass, um den neuen Erdenbürger willkommen zu heißen und gleichzeitig all jene wichtigen Daten festzuhalten, die das erste Jahr in der aufregenden Reise des Elternseins prägen werden. Aber wie behält man da den Überblick? Die Antwort: Ein Babyparty-Geburtstagskalender!
 
-![Babyparty-Kalender](/img/babyparty-calendar.webp)
+![Babyparty-Kalender](/img/picnic-park.webp)
 
 ### **Die Idee hinter der Kalenderwand**
 
@@ -41,6 +41,6 @@ Mit deinem kreativen Kalender und den stilvollen Einladungen bist du bestens ger
 
 ### **Fazit**
 
-Eine Babyparty-Kalenderwand ist nicht nur praktisch, sondern auch eine wunderschöne Möglichkeit, die besonderen Momente im ersten Jahr deines Babys festzuhalten. Kombiniere das Ganze mit stilvollen, personalisierten digitalen Einladungen über [Invitivo](https://invitivo.com) – und du wirst sehen, wie viel Freude das Planen und Feiern macht! 
+Eine Babyparty-Kalenderwand ist nicht nur praktisch, sondern auch eine wunderschöne Möglichkeit, die besonderen Momente im ersten Jahr deines Babys festzuhalten. Kombiniere das Ganze mit stilvollen, personalisierten digitalen Einladungen über [Invitivo](https://invitivo.com) – und du wirst sehen, wie viel Freude das Planen und Feiern macht!
 
 Also schnapp dir deine Bastelmaterialien, kreiere deinen Kalender und lade deine Liebsten ein. Mach dich bereit für ein Jahr voller Lachen, Feiern und unvergesslicher Erinnerungen!

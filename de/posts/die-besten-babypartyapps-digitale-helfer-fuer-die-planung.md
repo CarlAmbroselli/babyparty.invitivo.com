@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf die Ankunft eines kleinen Wunders ist unbeschreiblich. Doch bevor das Baby das Licht der Welt erblickt, gibt es eine ganz besondere Feier, die es zu planen gilt: die Babyparty! Egal, ob du die werdende Mutter mit einer Überraschungsparty beglücken oder einfach ein fröhliches Beisammensein mit Freunden organisieren möchtest – die richtige Planung ist das A und O. Hier kommen die besten Babyparty-Apps ins Spiel, die dir helfen, alles reibungslos zu gestalten. Lass uns auch einen Blick auf digitale Einladungen werfen, denn sie sind nicht nur praktisch, sondern auch ein echter Hingucker!
 
-![Babyparty-Apps](/img/babyparty-apps.webp)
+![Babyparty-Apps](/img/picnic-park.webp)
 
 ### 1. **Babylist – Der ultimative Geschenkleitfaden**
 
@@ -31,7 +31,7 @@ Eventbrite ist nicht nur für große Veranstaltungen geeignet. Auch für eine Ba
 
 Evite ist eine der bekanntesten Apps, wenn es um digitale Einladungen geht. Die App bietet eine Vielzahl von Vorlagen, die sich perfekt für eine Babyparty eignen. So kannst du die Einladung ganz nach deinem Stil gestalten und deine Gäste mit einem tollen Design überraschen.
 
-**Einladung mit einem Twist:** Warum nicht die Einladung in eine kleine Überraschung verwandeln? Mit Invitivo kannst du nicht nur schöne Designs wählen, sondern auch interaktive Elemente einfügen, wie z.B. eine Umfrage zu den Snacks oder Getränken, die deine Gäste mitbringen können. 
+**Einladung mit einem Twist:** Warum nicht die Einladung in eine kleine Überraschung verwandeln? Mit Invitivo kannst du nicht nur schöne Designs wählen, sondern auch interaktive Elemente einfügen, wie z.B. eine Umfrage zu den Snacks oder Getränken, die deine Gäste mitbringen können.
 
 ### 4. **Slack – Für die Organisation im Team**
 

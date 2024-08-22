@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Die Vorfreude auf den neuen kleinen Erdenbürger ist nicht nur für die werdenden Eltern überwältigend, sondern auch für ihre besten Freunde! Eine Babyparty zu Ehren der zukünftigen Eltern ist eine wunderbare Möglichkeit, diese aufregende Zeit zu feiern und den Freunden eine besondere Rolle zu geben. Aber wie gestaltet man ein solches Event, das nicht nur unvergesslich ist, sondern auch den Freunden der Eltern gerecht wird? Lass uns ein paar kreative Ideen durchgehen!
 
-![Babyparty mit Freunden](/img/babyparty-freunde.webp)
+![Babyparty mit Freunden](/img/picnic-park.webp)
 
 ### 1. **Das Thema: Freundschaft im Fokus**
 

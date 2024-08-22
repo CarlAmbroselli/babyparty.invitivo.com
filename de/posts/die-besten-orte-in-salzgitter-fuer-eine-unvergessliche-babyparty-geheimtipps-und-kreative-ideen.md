@@ -50,7 +50,7 @@ Der Waldpark in Salzgitter ist perfekt für alle, die eine ruhige und entspannte
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Bei der Planung deiner Babyparty in Salzgitter solltest du auch an die Einladungen denken. Anstatt einer weiteren WhatsApp-Gruppe, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) erstellen? Auf Invitivo kannst du wunderschöne, personalisierte Einladungen gestalten, die umweltfreundlich sind und gleichzeitig eine persönliche Note bieten. 
+Bei der Planung deiner Babyparty in Salzgitter solltest du auch an die Einladungen denken. Anstatt einer weiteren WhatsApp-Gruppe, warum nicht eine [digitale Einladung für deine Babyparty](https://invitivo.com/) erstellen? Auf Invitivo kannst du wunderschöne, personalisierte Einladungen gestalten, die umweltfreundlich sind und gleichzeitig eine persönliche Note bieten.
 
 Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen individuell anpassen, mit schönen Designs und Texten, die perfekt zu deiner Feier passen. So erhalten deine Gäste nicht nur eine Einladung, sondern auch ein kleines Kunstwerk, das sie gerne aufbewahren.
 

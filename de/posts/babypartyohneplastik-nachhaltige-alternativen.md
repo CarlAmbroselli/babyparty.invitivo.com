@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist ein ganz besonderer Anlass, der den Beginn eines neuen Lebens feiert. Doch während wir uns auf das freudige Ereignis vorbereiten, stellt sich die Frage: Wie können wir dieses Fest umweltfreundlich gestalten? Mit ein paar kreativen Ideen und nachhaltigen Alternativen kannst du eine Babyparty ohne Plastik organisieren, die nicht nur umweltbewusst, sondern auch unvergesslich wird. Lass uns gemeinsam in die bunte Welt der nachhaltigen Feiern eintauchen!
 
-![Nachhaltige Babyparty](/img/sustainable-babyparty.webp)
+![Nachhaltige Babyparty](/img/picnic-park.webp)
 
 ### 1. **Dekoration mit natürlichen Materialien**
 

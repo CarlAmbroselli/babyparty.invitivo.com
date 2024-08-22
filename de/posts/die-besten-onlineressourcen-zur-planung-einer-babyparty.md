@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist mehr als nur eine Feier – es ist eine herzliche Umarmung der Vorfreude, ein freudiges „Willkommen“ für das neue Leben, das bald in die Welt tritt. Doch wo fängt man an, wenn es darum geht, diesen besonderen Tag zu planen? Keine Sorge! Hier sind einige der besten Online-Ressourcen, die dir helfen, die perfekte Babyparty zu organisieren, dazu einige kreative Ideen und einen besonderen Tipp für digitale Einladungen, die das Ganze noch einzigartiger machen.
 
-![Babyparty Planung](/img/babyparty-planning.webp)
+![Babyparty Planung](/img/picnic-park.webp)
 
 ### 1. **Pinterest – Inspiration ohne Ende**
 
@@ -30,7 +30,7 @@ Eventbrite ist nicht nur für große Veranstaltungen geeignet, sondern bietet au
 
 ### 3. **Etsy – Handgemachtes für deine Babyparty**
 
-Etsy ist der perfekte Ort, um einzigartige, handgemachte Artikel zu finden, die deiner Babyparty eine persönliche Note verleihen. Ob es sich um individuelle Dekoration, personalisierte Geschenke oder spezielle Babyparty-Spiele handelt, hier wirst du fündig. 
+Etsy ist der perfekte Ort, um einzigartige, handgemachte Artikel zu finden, die deiner Babyparty eine persönliche Note verleihen. Ob es sich um individuelle Dekoration, personalisierte Geschenke oder spezielle Babyparty-Spiele handelt, hier wirst du fündig.
 
 **Tipp:** Suche nach lokalen Anbietern, um Versandkosten zu sparen und gleichzeitig die Kreativität in deiner Region zu unterstützen.
 

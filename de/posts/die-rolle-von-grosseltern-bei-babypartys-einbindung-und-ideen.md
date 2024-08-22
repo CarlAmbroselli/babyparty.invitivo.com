@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 Wenn ein kleines Wunder in die Familie kommt, wird nicht nur das Leben der frischgebackenen Eltern auf den Kopf gestellt – auch die Großeltern geraten in einen süßen Strudel aus Vorfreude und Aufregung. Babypartys sind nicht nur ein Fest für die werdende Mutter, sondern auch eine hervorragende Gelegenheit, die Großeltern aktiv in die Feierlichkeiten einzubinden. Lass uns gemeinsam erkunden, wie du die „alten Hasen“ der Familie mit einbeziehen kannst, um eine unvergessliche Babyparty zu gestalten!
 
-![Großeltern und Baby](/img/grandparents-baby.webp)
+![Großeltern und Baby](/img/picnic-park.webp)
 
 ### 1. **Die Planung – Ein Familienprojekt**
 
@@ -35,7 +35,7 @@ Planst du Aktivitäten, die sowohl für die große Generation als auch für die 
 
 ### **Einladungen mit Stil – Wähle [Invitivo](https://invitivo.com/create)**
 
-Um die Großeltern in die Feier einzubinden, ist die richtige Einladung das A und O. Statt einer weiteren chaotischen WhatsApp-Gruppe, wie wäre es mit einer stilvollen digitalen Einladung über [Invitivo](https://invitivo.com/)? Diese Plattform ermöglicht es dir, wunderschöne, personalisierte Einladungen zu erstellen, die dem besonderen Anlass gerecht werden. 
+Um die Großeltern in die Feier einzubinden, ist die richtige Einladung das A und O. Statt einer weiteren chaotischen WhatsApp-Gruppe, wie wäre es mit einer stilvollen digitalen Einladung über [Invitivo](https://invitivo.com/)? Diese Plattform ermöglicht es dir, wunderschöne, personalisierte Einladungen zu erstellen, die dem besonderen Anlass gerecht werden.
 
 Mit [Invitivo](https://invitivo.com/) kannst du das Design ganz nach deinem Geschmack anpassen und sogar GIFs oder persönliche Botschaften hinzufügen. Deine Gäste können einfach und unkompliziert zusagen oder absagen – ohne lange Nachrichten hin und her zu schicken. So behältst du den Überblick und jeder kann sich auf die Feier freuen!
 

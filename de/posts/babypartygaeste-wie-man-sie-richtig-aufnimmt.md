@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist wie der erste Sonnenstrahl nach einem langen Winter: voller Licht und Freude, und ein Moment, der das Herz erwärmt. Doch wie sorgt man dafür, dass sich die Gäste von der ersten Sekunde an willkommen fühlen? Hier sind einige kreative Tipps, um deine Babyparty zu einem unvergesslichen Erlebnis zu machen – für dich und deine Gäste!
 
-![Babyparty Empfang](/img/babyparty-welcome.webp)
+![Babyparty Empfang](/img/picnic-park.webp)
 
 ### 1. **Der herzliche Empfang – das A und O**
 

@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Wenn es darum geht, eine Babyparty zu organisieren, ist das Motto das Herzstück deiner Feier. Es gibt unzählige Standardoptionen, aber wir sind hier, um dir einige kreative und nischige Mottos vorzustellen, die deine Gäste begeistern und das Event unvergesslich machen werden. Lass uns in die magische Welt der Babyparty-Mottos eintauchen!
 
-![Kreative Babyparty Mottos](/img/babyparty-mottos.webp)
+![Kreative Babyparty Mottos](/img/picnic-park.webp)
 
 ### 1. **Unter dem Meer – Ein maritimes Abenteuer**
 

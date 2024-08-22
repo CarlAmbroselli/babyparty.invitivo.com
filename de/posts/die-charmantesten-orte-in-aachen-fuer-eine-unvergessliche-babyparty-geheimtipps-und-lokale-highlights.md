@@ -50,7 +50,7 @@ Entlang der Rur gibt es viele versteckte Plätze, die sich hervorragend für ein
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Eine Babyparty in Aachen ist eine großartige Gelegenheit, um nachhaltig zu feiern. Warum nicht auch bei den Einladungen auf Umweltfreundlichkeit setzen? Anstatt eine weitere WhatsApp-Gruppe zu erstellen, probiere es mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/). Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur ressourcenschonend sind, sondern auch eine persönliche Note verleihen. 
+Eine Babyparty in Aachen ist eine großartige Gelegenheit, um nachhaltig zu feiern. Warum nicht auch bei den Einladungen auf Umweltfreundlichkeit setzen? Anstatt eine weitere WhatsApp-Gruppe zu erstellen, probiere es mit einer [digitalen Einladung für deine Babyparty](https://invitivo.com/). Mit Invitivo kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur ressourcenschonend sind, sondern auch eine persönliche Note verleihen.
 
 Die Einladungen von [Invitivo](https://invitivo.com/) bieten eine hochwertige Gestaltung, die dem besonderen Anlass gerecht wird. Deine Gäste können ihre Teilnahme mit nur einem Klick bestätigen – ganz ohne Papierabfall und unnötigen CO2-Fußabdruck.
 

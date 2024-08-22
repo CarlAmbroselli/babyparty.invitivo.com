@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist eine wunderbare Gelegenheit, um das bevorstehende Abenteuer der Elternschaft zu feiern. Aber warum nicht auch etwas Gutes tun, während wir feiern? Eine Babyparty mit einem karitativen Ansatz verbindet das Vergnügen des Feierns mit der Möglichkeit, anderen zu helfen. Hier sind einige Tipps, wie du deine Babyparty nicht nur zu einem unvergesslichen Ereignis, sondern auch zu einem Beitrag für einen guten Zweck machen kannst.
 
-![Babyparty für einen guten Zweck](/img/baby-shower-charity.webp)
+![Babyparty für einen guten Zweck](/img/picnic-park.webp)
 
 ### 1. **Wähle ein Herzensprojekt**
 

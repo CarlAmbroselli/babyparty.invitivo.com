@@ -34,7 +34,7 @@ Der Stadtpark Nürnberg ist nicht nur ein beliebter Ort für die Nürnberger, so
 
 ### 3. **Die Kaiserburg – Historisches Flair für besondere Anlässe**
 
-Wenn du etwas ganz Besonderes suchst, kann die Kaiserburg zu einem unvergesslichen Ort für deine Babyparty werden. Ihr historisches Ambiente und die beeindruckende Aussicht auf die Stadt machen sie zu einem idealen Ort für eine intime Feier. 
+Wenn du etwas ganz Besonderes suchst, kann die Kaiserburg zu einem unvergesslichen Ort für deine Babyparty werden. Ihr historisches Ambiente und die beeindruckende Aussicht auf die Stadt machen sie zu einem idealen Ort für eine intime Feier.
 
 **Tipp für die Dekoration:** Halte die Dekoration einfach und elegant. Verwende Kerzen, kleine Vasen mit Wildblumen und einladende Tischdecken, um das historische Flair zu unterstreichen.
 

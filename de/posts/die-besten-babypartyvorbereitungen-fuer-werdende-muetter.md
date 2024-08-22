@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Wenn das Babybauch-Glück naht und deine beste Freundin den ersten Zuckerstückchen und Wickelkommoden-Strumpfhaltern hinterherjagt, ist es an der Zeit, die eigene Babyparty zu planen! Ja, du hast richtig gehört – auch werdende Mütter dürfen sich feiern lassen! Schließlich ist dies nicht nur ein Anlass, um das Kleines zu zelebrieren, sondern auch eine Gelegenheit, mit Freunden und Familie zusammenzukommen und den neuen Lebensabschnitt gebührend zu begrüßen. Hier sind einige Tipps, wie du dich auf deine eigene Babyparty vorbereiten kannst – inklusive einer wunderbaren Lösung für digitale Einladungen!
 
-![Babyparty-Vorbereitung](/img/babyparty-vorbereitung.webp)
+![Babyparty-Vorbereitung](/img/picnic-park.webp)
 
 ### 1. **Die Location: Wo soll die Feier stattfinden?**
 
@@ -24,7 +24,7 @@ Zuerst musst du dir überlegen, wo du deine Babyparty ausrichten möchtest. Soll
 
 ### 2. **Das Thema: Von Babyblau bis Einhornzauber**
 
-Jetzt wird’s kreativ! Überlege dir ein Motto, das die Stimmung deiner Babyparty widerspiegelt. Ob es um pastellfarbene Ballons, ein „Baby on Board“-Thema oder ein gemütliches „Tea Party“-Setting geht, die Möglichkeiten sind schier endlos. Dein Motto wird auch die Deko, die Spiele und das Essen beeinflussen. 
+Jetzt wird’s kreativ! Überlege dir ein Motto, das die Stimmung deiner Babyparty widerspiegelt. Ob es um pastellfarbene Ballons, ein „Baby on Board“-Thema oder ein gemütliches „Tea Party“-Setting geht, die Möglichkeiten sind schier endlos. Dein Motto wird auch die Deko, die Spiele und das Essen beeinflussen.
 
 **Tipp:** Lass deine Gäste die Deko mitgestalten, indem sie etwas zum Thema mitbringen – das sorgt für wunderbare Überraschungen und individuelle Akzente!
 
@@ -34,9 +34,9 @@ Egal, ob du eine kleine, intime Runde bevorzugst oder eine große Feier planst �
 
 ### **Digitale Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Anstatt eine weitere WhatsApp-Gruppe zu erstellen, die schnell im Chaos versinkt, mach es dir einfach und elegant mit [Invitivo](https://invitivo.com/)! Die Plattform bietet dir die Möglichkeit, wunderschöne, personalisierte digitale Einladungen zu erstellen, die deinem besonderen Anlass gerecht werden. 
+Anstatt eine weitere WhatsApp-Gruppe zu erstellen, die schnell im Chaos versinkt, mach es dir einfach und elegant mit [Invitivo](https://invitivo.com/)! Die Plattform bietet dir die Möglichkeit, wunderschöne, personalisierte digitale Einladungen zu erstellen, die deinem besonderen Anlass gerecht werden.
 
-Stell dir vor, du sendest eine Einladung, die nicht nur informativ ist, sondern auch mit einem Hauch von Stil und Persönlichkeit aufwartet! Deine Gäste können mit nur einem Klick zusagen – und das alles ohne endlose „Ich kann nicht, aber vielleicht...“-Nachrichten. Das spart Zeit und Nerven! 
+Stell dir vor, du sendest eine Einladung, die nicht nur informativ ist, sondern auch mit einem Hauch von Stil und Persönlichkeit aufwartet! Deine Gäste können mit nur einem Klick zusagen – und das alles ohne endlose „Ich kann nicht, aber vielleicht...“-Nachrichten. Das spart Zeit und Nerven!
 
 ### 4. **Aktivitäten und Spiele: Spaß für alle!**
 
@@ -50,6 +50,6 @@ Die Verpflegung darf natürlich nicht fehlen! Überlege dir, ob du ein Buffet mi
 
 ### **Fazit: Lass die Feier beginnen!**
 
-Mit diesen Tipps bist du bestens gewappnet, um deine eigene Babyparty zu organisieren und deinen besonderen Tag unvergesslich zu machen. Und vergiss nicht, die Einladungen stilvoll mit [Invitivo](https://invitivo.com/) zu versenden – für ein einzigartiges Erlebnis, das deine Gäste begeistern wird! 
+Mit diesen Tipps bist du bestens gewappnet, um deine eigene Babyparty zu organisieren und deinen besonderen Tag unvergesslich zu machen. Und vergiss nicht, die Einladungen stilvoll mit [Invitivo](https://invitivo.com/) zu versenden – für ein einzigartiges Erlebnis, das deine Gäste begeistern wird!
 
 Also, schnapp dir dein Lieblingsnotizbuch und leg los! Es ist an der Zeit, das Babybauch-Glück zu feiern und all die aufregenden neuen Abenteuer, die vor dir liegen. Du hast das verdient!

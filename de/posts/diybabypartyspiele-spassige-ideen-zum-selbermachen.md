@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist der perfekte Anlass, um mit Freunden und Familie zu feiern und die Vorfreude auf das neue Leben zu zelebrieren. Aber was wäre eine solche Feier ohne eine ordentliche Portion Spaß? DIY-Spiele bringen nicht nur Schwung in die Runde, sondern fördern auch das Miteinander und die Kreativität. Hier sind einige originelle Ideen, die auf jeder Babyparty für Unterhaltung sorgen werden.
 
-![DIY-Babyparty-Spiele](/img/diy-babyparty-games.webp)
+![DIY-Babyparty-Spiele](/img/picnic-park.webp)
 
 ### 1. **Babysocken-Wettrennen – Die Herausforderung für die Geschicklichkeit**
 
@@ -38,10 +38,10 @@ Für die künstlerisch Begabten unter den Gästen könnte ein „Baby-Kunstwerk�
 
 Damit deine Babyparty von Anfang an einen persönlichen Touch hat, sind digitale Einladungen eine großartige Wahl. Statt einer schnöden WhatsApp-Gruppe, die schnell in einem Meer von Nachrichten untergeht, kannst du mit Invitivo stilvolle und individuelle Einladungen erstellen. Diese digitalen Kunstwerke bieten nicht nur eine viel ansprechendere Gestaltung, sondern sie zeigen auch, wie viel dir an diesem besonderen Tag liegt.
 
-Mit Invitivo kannst du deine Einladungen anpassen und mit kreativen Elementen wie GIFs oder Mitbringlisten versehen – das sorgt dafür, dass deine Gäste alle Infos auf einen Blick haben. So sparst du dir lange Chats und die Unklarheit darüber, wer alles dabei ist. 
+Mit Invitivo kannst du deine Einladungen anpassen und mit kreativen Elementen wie GIFs oder Mitbringlisten versehen – das sorgt dafür, dass deine Gäste alle Infos auf einen Blick haben. So sparst du dir lange Chats und die Unklarheit darüber, wer alles dabei ist.
 
 ### **Fazit**
 
-DIY-Spiele sind das Herzstück jeder Babyparty und sorgen für jede Menge Spaß und Interaktion. Ob beim Babysocken-Wettrennen oder beim Baby Bingo – mit ein bisschen Kreativität wird deine Feier zu einem unvergesslichen Erlebnis. Und vergiss nicht, deine Einladungen mit einem Hauch von Persönlichkeit zu versehen. Mit digitalen Einladungen von Invitivo kannst du sicherstellen, dass der erste Eindruck deiner Babyparty genauso strahlend ist wie das Lächeln der werdenden Mama. 
+DIY-Spiele sind das Herzstück jeder Babyparty und sorgen für jede Menge Spaß und Interaktion. Ob beim Babysocken-Wettrennen oder beim Baby Bingo – mit ein bisschen Kreativität wird deine Feier zu einem unvergesslichen Erlebnis. Und vergiss nicht, deine Einladungen mit einem Hauch von Persönlichkeit zu versehen. Mit digitalen Einladungen von Invitivo kannst du sicherstellen, dass der erste Eindruck deiner Babyparty genauso strahlend ist wie das Lächeln der werdenden Mama.
 
 Also, lass deiner Kreativität freien Lauf und plane eine Babyparty, die alle Gäste noch lange in Erinnerung behalten werden!

@@ -44,7 +44,7 @@ Die Kaiserstraße ist das Herz von Kaiserslautern und bietet eine Vielzahl von k
 
 Für die Abenteuerlustigen unter euch bietet der Pfälzer Wald eine fantastische Kulisse für eine Babyparty im Freien. Mit seiner atemberaubenden Natur und den zahlreichen Wanderwegen könnt ihr einen aktiven Tag im Freien verbringen. Ideal für Familien, die die Natur lieben und eine entspannte Feier im Grünen wünschen.
 
-**Tipp für die Dekoration:** Halte es einfach und natürlich mit Holz- und Jute-Elementen, die sich harmonisch in die Umgebung einfügen. 
+**Tipp für die Dekoration:** Halte es einfach und natürlich mit Holz- und Jute-Elementen, die sich harmonisch in die Umgebung einfügen.
 
 **Aktivitäten im Freien:** Organisiere eine geführte Wanderung oder ein Picknick mit regionalen Spezialitäten, das die Gäste gemeinsam genießen können.
 

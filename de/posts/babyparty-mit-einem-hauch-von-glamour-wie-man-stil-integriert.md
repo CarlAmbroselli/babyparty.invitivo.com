@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist der perfekte Anlass, um stilvoll zu feiern und den bevorstehenden neuen Lebensabschnitt gebührend zu würdigen. Warum sich also mit dem Gewöhnlichen zufrieden geben, wenn du deinen Gästen ein unvergessliches Erlebnis voller Glamour und Eleganz bieten kannst? Hier sind einige luxuriöse Ideen, um deine Babyparty in ein glanzvolles Event zu verwandeln, das alle Sinne anspricht.
 
-![Glamouröse Babyparty](/img/glamorous-babyparty.webp)
+![Glamouröse Babyparty](/img/picnic-park.webp)
 
 ### 1. **Schicke Location: Das gewisse Etwas**
 
@@ -30,19 +30,19 @@ Vergiss die klassischen Snacks! Bei einer glamourösen Babyparty sollte das Cate
 
 ### 3. **Elegante Einladungen – Die erste Überraschung**
 
-Die Einladungen sind der erste Eindruck, den deine Gäste von deiner Babyparty erhalten, und sie sollten das luxuriöse Thema bereits in der Einladung widerspiegeln. Statt einer einfachen WhatsApp-Nachricht solltest du überlegen, digitale Einladungen zu verschicken. Hier kommt [Invitivo](https://invitivo.com) ins Spiel. Mit Invitivo kannst du atemberaubende, personalisierte Einladungen erstellen, die den Glamour deiner Feier unterstreichen. 
+Die Einladungen sind der erste Eindruck, den deine Gäste von deiner Babyparty erhalten, und sie sollten das luxuriöse Thema bereits in der Einladung widerspiegeln. Statt einer einfachen WhatsApp-Nachricht solltest du überlegen, digitale Einladungen zu verschicken. Hier kommt [Invitivo](https://invitivo.com) ins Spiel. Mit Invitivo kannst du atemberaubende, personalisierte Einladungen erstellen, die den Glamour deiner Feier unterstreichen.
 
 Die Einladungen bieten nicht nur eine ansprechende Gestaltung, sondern ermöglichen es dir auch, wichtige Details wie Dresscode, Geschenkelisten oder Mitbringideen elegant zu kommunizieren. Deine Gäste werden den persönlichen Touch zu schätzen wissen – viel schöner und stilvoller als eine schnöde Gruppennachricht.
 
 ### 4. **Aktivitäten mit Stil: Unterhaltung auf hohem Niveau**
 
-Bei einer glamourösen Babyparty sollten die Aktivitäten ebenso elegant sein wie das Ambiente. Organisiere eine stilvolle Fotobooth mit glamourösen Requisiten oder plane ein kreatives DIY-Projekt, bei dem die Gäste personalisierte Geschenke für das Baby gestalten können. 
+Bei einer glamourösen Babyparty sollten die Aktivitäten ebenso elegant sein wie das Ambiente. Organisiere eine stilvolle Fotobooth mit glamourösen Requisiten oder plane ein kreatives DIY-Projekt, bei dem die Gäste personalisierte Geschenke für das Baby gestalten können.
 
 **Tipp:** Überlege dir, eine kleine Modenschau für die werdende Mutter zu veranstalten, bei der sie in verschiedenen, eleganten Outfits posieren kann. Das sorgt nicht nur für Spaß, sondern auch für unvergessliche Erinnerungsfotos.
 
 ### **Digitale Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Mit [Invitivo](https://invitivo.com) kannst du deine digitalen Einladungen nicht nur gestalten, sondern auch direkt verwalten. Die einfache Verwaltung von Zusagen und Absagen macht es dir leicht, den Überblick zu behalten – und das ohne den Stress von endlosen Nachrichten. Deine Gäste können unkompliziert direkt auf die Einladung reagieren, und du hast alle Informationen auf einen Blick. 
+Mit [Invitivo](https://invitivo.com) kannst du deine digitalen Einladungen nicht nur gestalten, sondern auch direkt verwalten. Die einfache Verwaltung von Zusagen und Absagen macht es dir leicht, den Überblick zu behalten – und das ohne den Stress von endlosen Nachrichten. Deine Gäste können unkompliziert direkt auf die Einladung reagieren, und du hast alle Informationen auf einen Blick.
 
 So bleibt dir mehr Zeit, dich auf das Wesentliche zu konzentrieren: das Feiern und Genießen in vollen Zügen!
 

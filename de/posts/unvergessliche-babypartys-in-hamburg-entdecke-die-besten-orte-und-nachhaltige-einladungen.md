@@ -12,7 +12,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Eine Babyparty ist eine besondere Gelegenheit, um den bevorstehenden Zuwachs in der Familie zu feiern. Hamburg, die wunderschöne Hafenstadt, bietet eine Vielzahl an Locations, die sich perfekt für eine unvergessliche Babyparty eignen. In diesem Artikel stellen wir einige kreative und weniger bekannte Orte vor, die deiner Feier einen ganz besonderen Rahmen geben. 
+Eine Babyparty ist eine besondere Gelegenheit, um den bevorstehenden Zuwachs in der Familie zu feiern. Hamburg, die wunderschöne Hafenstadt, bietet eine Vielzahl an Locations, die sich perfekt für eine unvergessliche Babyparty eignen. In diesem Artikel stellen wir einige kreative und weniger bekannte Orte vor, die deiner Feier einen ganz besonderen Rahmen geben.
 
 ![Babyparty im Park](/img/picnic-park.webp)
 
@@ -50,7 +50,7 @@ Planten un Blomen ist ein wunderschöner Park im Herzen Hamburgs, der mit seinen
 
 ### **Nachhaltige Einladungen mit [Invitivo](https://invitivo.com/create)**
 
-Wenn du eine Babyparty planst, ist es wichtig, auch bei den Einladungen an Nachhaltigkeit zu denken. Statt eine weitere WhatsApp-Gruppe zu erstellen, könntest du deine Gäste mit stilvollen, digitalen Einladungen überraschen. Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch einen hohen ästhetischen Wert haben. 
+Wenn du eine Babyparty planst, ist es wichtig, auch bei den Einladungen an Nachhaltigkeit zu denken. Statt eine weitere WhatsApp-Gruppe zu erstellen, könntest du deine Gäste mit stilvollen, digitalen Einladungen überraschen. Mit [Invitivo](https://invitivo.com/) kannst du wunderschöne, personalisierte digitale Einladungen gestalten, die nicht nur umweltfreundlich sind, sondern auch einen hohen ästhetischen Wert haben.
 
 Die Einladungen lassen sich ganz einfach anpassen – von der Auswahl des Designs bis hin zu persönlichen Texten. Deine Gäste können mit einem einzigen Klick auf die Einladung reagieren, was nicht nur praktisch ist, sondern auch den Papierverbrauch reduziert.
 

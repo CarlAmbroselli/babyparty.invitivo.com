@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Babypartys sind wie die ersten Schritte eines Babys – oft wackelig, manchmal chaotisch, aber immer voller Freude und unerwarteter Überraschungen. In diesem Blogbeitrag werfen wir einen Blick auf einige der skurrilsten und lustigsten Geschichten von Gastgebern, die den Mut hatten, eine Babyparty zu organisieren. Und während wir uns in die amüsanten Anekdoten vertiefen, schauen wir uns auch an, wie digitale Einladungen – zum Beispiel von Invitivo – das Planen und Feiern so viel einfacher und persönlicher machen können.
 
-![Feiernde Freunde bei einer Babyparty](/img/babyparty-friends.webp)
+![Feiernde Freunde bei einer Babyparty](/img/picnic-park.webp)
 
 ### 1. **Die Babyparty im Zoo – Ein tierisches Abenteuer!**
 
@@ -24,7 +24,7 @@ Stell dir vor, du planst eine Babyparty im Zoo. Genau das hat Maria getan, und s
 
 ### 2. **Die Überraschung der Überraschung – Eine Babyparty in der falschen Stadt!**
 
-Paul hatte sich vorgenommen, eine unvergessliche Babyparty für seine Frau zu organisieren. Er plante alles bis ins kleinste Detail, inklusive einer Überraschungsgäste-Liste. Doch als die Gäste eintrafen, stellte sich heraus, dass die Einladung versehentlich an die falsche Gruppe gesendet worden war! Statt der besten Freunde seiner Frau kamen ihre ehemaligen Kollegen aus der Stadt, die sie vor Jahren verlassen hatte. Die Party verwandelte sich schnell in ein nostalgisches Wiedersehen – mit Geschichten aus der alten Zeit, die sowohl Paul als auch seine Frau überraschten. 
+Paul hatte sich vorgenommen, eine unvergessliche Babyparty für seine Frau zu organisieren. Er plante alles bis ins kleinste Detail, inklusive einer Überraschungsgäste-Liste. Doch als die Gäste eintrafen, stellte sich heraus, dass die Einladung versehentlich an die falsche Gruppe gesendet worden war! Statt der besten Freunde seiner Frau kamen ihre ehemaligen Kollegen aus der Stadt, die sie vor Jahren verlassen hatte. Die Party verwandelte sich schnell in ein nostalgisches Wiedersehen – mit Geschichten aus der alten Zeit, die sowohl Paul als auch seine Frau überraschten.
 
 **Einladungen, die Erinnerungen wecken:** Mit einer digitalen Einladung von [Invitivo](https://invitivo.com/) kannst du sicherstellen, dass deine Gäste die richtige Adresse erhalten. Die Einladung kann auch eine persönliche Note haben, die alle an die guten alten Zeiten erinnert!
 

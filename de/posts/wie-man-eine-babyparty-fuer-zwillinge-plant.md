@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty zu planen, ist schon aufregend genug – doch was, wenn gleich zwei kleine Wunder das Licht der Welt erblicken? Eine Babyparty für Zwillinge ist nicht nur eine Feier, sie ist ein Doppelschlag an Vorfreude! Doch wie stellt man sicher, dass diese Feier nicht nur die werdenden Eltern, sondern auch die Gäste begeistert? Hier sind einige kreative Tipps und Ideen, um eine unvergessliche Babyparty für Zwillinge zu gestalten.
 
-![Babyparty für Zwillinge](/img/twin-babyparty.webp)
+![Babyparty für Zwillinge](/img/picnic-park.webp)
 
 ### 1. **Doppelte Dekoration – Weniger ist mehr**
 
@@ -32,7 +32,7 @@ Spiele sind das Herzstück jeder Babyparty. Bei Zwillingen kannst du die Spiele 
 
 Statt die Gäste in einer weiteren überfüllten WhatsApp-Gruppe zu versammeln, warum nicht mit stilvollen digitalen Einladungen punkten? Eine Einladung, die das Thema Zwillinge aufgreift, wird nicht nur die Vorfreude steigern, sondern auch einen persönlichen Touch verleihen. Mit Invitivo kannst du attraktive und kreative digitale Einladungen erstellen, die das Besondere dieser Feier perfekt widerspiegeln.
 
-**Warum digitale Einladungen?** Mit Invitivo hast du die Möglichkeit, deine Einladungen mit lustigen GIFs und persönlichen Texten zu versehen, die direkt auf das Zwillingsthema eingehen. So können die Gäste einfach und unkompliziert zusagen oder absagen – ganz ohne endlose Chats und Missverständnisse. 
+**Warum digitale Einladungen?** Mit Invitivo hast du die Möglichkeit, deine Einladungen mit lustigen GIFs und persönlichen Texten zu versehen, die direkt auf das Zwillingsthema eingehen. So können die Gäste einfach und unkompliziert zusagen oder absagen – ganz ohne endlose Chats und Missverständnisse.
 
 ### 4. **Das perfekte Buffet für zwei**
 

@@ -14,7 +14,7 @@ layout: layouts/post.njk
 
 Eine Babyparty ist mehr als nur eine Feier – es ist der Auftakt zu einem neuen Abenteuer, das voller Vorfreude und Liebe steckt. Doch wie schaffst du es, dass deine Gäste nicht nur passiv am Tisch sitzen und den Kuchen bewundern? Die Antwort: Interaktive Stationen! Sie sorgen nicht nur für Spaß und Spiel, sondern bringen auch alle in Feierlaune. Lass uns gemeinsam die besten Ideen für deine Babyparty-Stationen erkunden!
 
-![Babyparty-Stationen](/img/babyparty-stationen.webp)
+![Babyparty-Stationen](/img/picnic-park.webp)
 
 ### 1. **Die Kreativwerkstatt – Basteln für kleine Wunder**
 
@@ -36,7 +36,7 @@ Erstelle Bingo-Karten mit typischen Babyartikeln und lasse die Gäste während d
 
 ### **Digitale Einladungen, die begeistern: [Invitivo](https://invitivo.com/create)**
 
-Bevor das große Fest beginnt, solltest du natürlich an die Einladungen denken. Statt einer weiteren langweiligen WhatsApp-Gruppe, warum nicht eine stilvolle digitale Einladung nutzen? Mit [Invitivo](https://invitivo.com/) hast du die Möglichkeit, wunderschöne, personalisierte digitale Einladungen zu erstellen, die sowohl umweltfreundlich als auch ansprechend sind. 
+Bevor das große Fest beginnt, solltest du natürlich an die Einladungen denken. Statt einer weiteren langweiligen WhatsApp-Gruppe, warum nicht eine stilvolle digitale Einladung nutzen? Mit [Invitivo](https://invitivo.com/) hast du die Möglichkeit, wunderschöne, personalisierte digitale Einladungen zu erstellen, die sowohl umweltfreundlich als auch ansprechend sind.
 
 Mit Invitivo kannst du deine Einladungen so gestalten, dass sie das Thema deiner Babyparty widerspiegeln – sei es in Form von knalligen Farben oder einem sanften Pastell-Look. Deine Gäste werden die Möglichkeit lieben, direkt und unkompliziert zuzusagen, ohne dass es zu chaotischen Nachrichtenverläufen kommt. Und wenn sich etwas ändert? Kein Problem! Du kannst die Einladung in wenigen Klicks anpassen und alle Gäste erhalten automatisch die neuesten Infos.
 
