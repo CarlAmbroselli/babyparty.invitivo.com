@@ -12,13 +12,13 @@ tags:
 layout: layouts/post.njk
 ---
 
-Eine Babyparty zu planen, ist wie ein aufregendes Abenteuer – voller Freude, Erwartungen und ja, auch einer guten Portion Stress. Wie bei jeder Reise kann es jedoch auch hier eine Herausforderung sein, das Budget im Auge zu behalten. Keine Sorge! Wir haben einige kreative Tipps für dich, wie du eine großartige Babyparty organisieren kannst, ohne dein Haushaltsbudget zu sprengen. 
+Eine Babyparty zu planen, ist wie ein aufregendes Abenteuer – voller Freude, Erwartungen und ja, auch einer guten Portion Stress. Wie bei jeder Reise kann es jedoch auch hier eine Herausforderung sein, das Budget im Auge zu behalten. Keine Sorge! Wir haben einige kreative Tipps für dich, wie du eine großartige Babyparty organisieren kannst, ohne dein Haushaltsbudget zu sprengen.
 
-![Babyparty Budget](https://example.com/babyparty-budget.webp)
+![Babyparty Budget](/img/picnic-park.webp)
 
 ### 1. **Die Location: Zuhause ist es am schönsten**
 
-Der erste Schritt beim Sparen ist die Wahl des Veranstaltungsortes. Warum nicht einfach zu Hause feiern? Dein eigenes Wohnzimmer kann ganz schnell in einen festlichen Raum verwandelt werden. Mit ein paar bunten Ballons, einer kreativen Tischdekoration und ein paar Lichtern wird dein Zuhause zum perfekten Ort, um Freunde und Familie zu empfangen. 
+Der erste Schritt beim Sparen ist die Wahl des Veranstaltungsortes. Warum nicht einfach zu Hause feiern? Dein eigenes Wohnzimmer kann ganz schnell in einen festlichen Raum verwandelt werden. Mit ein paar bunten Ballons, einer kreativen Tischdekoration und ein paar Lichtern wird dein Zuhause zum perfekten Ort, um Freunde und Familie zu empfangen.
 
 **Tipp für die Dekoration:** Nutze Dinge, die du bereits hast. Ein paar frische Blumen aus dem Garten oder ein selbstgemachtes Banner können wahre Wunder wirken.
 
@@ -38,11 +38,11 @@ Statt teurer Unterhaltung kannst du die Gäste selbst aktiv einbeziehen. Organis
 
 Jetzt kommen wir zu einem Punkt, der oft übersehen wird: die Einladungen! Anstatt in Papier und Briefmarken zu investieren, warum nicht auf eine digitale Einladung setzen? Mit [Invitivo](https://invitivo.com/) kannst du stilvolle, personalisierte Einladungen erstellen, die ganz einfach per E-Mail oder über soziale Medien verschickt werden können.
 
-Diese digitalen Einladungen sind nicht nur umweltfreundlich, sondern auch super praktisch. Deine Gäste können mit nur einem Klick zusagen oder absagen, und du hast alles auf einen Blick – keine nervigen Gruppenchats mehr, in denen jeder sein „Ich kann nicht“ oder „Ich komme“ posten muss. Und das Beste? Du kannst die Einladung jederzeit anpassen, falls sich etwas ändert! 
+Diese digitalen Einladungen sind nicht nur umweltfreundlich, sondern auch super praktisch. Deine Gäste können mit nur einem Klick zusagen oder absagen, und du hast alles auf einen Blick – keine nervigen Gruppenchats mehr, in denen jeder sein „Ich kann nicht“ oder „Ich komme“ posten muss. Und das Beste? Du kannst die Einladung jederzeit anpassen, falls sich etwas ändert!
 
 ### **Fazit: Sparen mit Stil**
 
-Mit ein wenig Kreativität und Planung kannst du deine Babyparty zu einem unvergesslichen Ereignis machen, ohne dein Haushaltsbudget zu überstrapazieren. Denk daran, dass es nicht um die Größe oder den Preis der Feier geht, sondern um die Menschen, die daran teilnehmen. 
+Mit ein wenig Kreativität und Planung kannst du deine Babyparty zu einem unvergesslichen Ereignis machen, ohne dein Haushaltsbudget zu überstrapazieren. Denk daran, dass es nicht um die Größe oder den Preis der Feier geht, sondern um die Menschen, die daran teilnehmen.
 
 Und vergiss nicht die Einladungen! Setze auf eine digitale Lösung wie [Invitivo](https://invitivo.com/), um deinen Gästen einen modernen, stilvollen Empfang zu bereiten. So bleibt mehr Geld für die schönen Dinge – und vielleicht ein paar Windeln für die frischen Eltern!
 
