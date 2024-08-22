@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Tipps zur Babyparty-Nachbereitung: So bleibst du organisiert und hältst die Erinnerungen fest!"
 description: Entdecke, wie du nach deiner Babyparty alles im Griff behältst und die schönsten Erinnerungen festhältst – inklusive Tipps für digitale Einladungen, die den Unterschied machen!
@@ -51,4 +50,3 @@ Mit [Invitivo](https://invitivo.com/) hast du die Freiheit, deine Einladungen na
 Die Nachbereitung deiner Babyparty muss nicht chaotisch oder stressig sein. Mit ein wenig Organisation, kreativen Ideen und den richtigen Tools kannst du die schönsten Erinnerungen festhalten und alles im Blick behalten. Denke daran, auch bei den Dankeskarten auf digitale Einladungen zurückzugreifen – so bleibt alles stilvoll und umweltfreundlich.
 
 Bist du bereit, deine Babyparty unvergesslich zu machen? Lass dich von unseren Tipps inspirieren und mach die Nachbereitung zu einem Teil des wunderbaren Abenteuers, das das Elternsein mit sich bringt!
-```

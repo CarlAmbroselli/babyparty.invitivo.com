@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty-Umfragen: Kreative Möglichkeiten, deine Gäste einzubeziehen"
 description: Entdecke innovative Ideen, um deine Gäste durch umfragen bei der Babyparty einzubinden und wie digitale Einladungen von Invitivo das Ganze noch persönlicher machen.
@@ -39,4 +38,3 @@ Mit Invitivo kannst du deine Einladungen individuell gestalten und sogar Umfrage
 Durch kreative Umfragen und die Einbeziehung deiner Gäste in die Planung wird deine Babyparty nicht nur ein Fest, sondern ein gemeinschaftliches Erlebnis. Und mit den digitalen Einladungen von [Invitivo](https://invitivo.com) wird die gesamte Organisation zum Kinderspiel. Deine Einladungen werden nicht nur nachhaltig sein, sondern auch den Gästen das Gefühl geben, dass ihre Meinung zählt.
 
 Mach deine Babyparty zu einem unvergesslichen Ereignis, bei dem jeder Gast sich willkommen und wichtig fühlt. Nutze die Möglichkeiten von Umfragen, um aktiv und kreativ zu planen, und setze dabei auf die stilvollen und persönlichen Einladungen von Invitivo. So wird dein Fest nicht nur schön, sondern auch voller Herz und Gemeinschaft.
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten DIY-Babyparty-Einladungen: Kreative Ideen, die begeistern!"
 description: Entdecke individuelle und kreative Anleitungen zur Erstellung von DIY-Babyparty-Einladungen, inklusive Tipps für digitale Einladungen mit Invitivo.
@@ -62,4 +61,3 @@ Mit Invitivo hast du die Möglichkeit, deine Einladungen individuell zu gestalte
 Einladungen sind der erste Eindruck, den deine Gäste von deiner Babyparty bekommen – also lass sie strahlen! Ob du nun DIY-Einladungen bastelst oder die eleganten digitalen Einladungen von [Invitivo](https://invitivo.com/) nutzt, wichtig ist, dass sie von Herzen kommen. Mach deine Babyparty zu einem unvergesslichen Erlebnis, das alle in guter Erinnerung behalten werden.
 
 Hast du eigene Ideen für Einladungen oder möchtest du die perfekte digitale Einladung gestalten? Lass deiner Kreativität freien Lauf und mache deine Babyparty zu einem besonderen Moment für alle!
-```

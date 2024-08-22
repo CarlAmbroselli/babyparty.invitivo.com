@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Geschenke für eine Babyparty: Über den Windeln und Bodys hinaus"
 description: Entdecke kreative und durchdachte Geschenkideen für eine Babyparty, die über die üblichen Basics hinausgehen, inklusive Tipps für persönliche digitale Einladungen.
@@ -51,4 +50,3 @@ Stell dir vor, du versendest eine wunderschöne Einladung, die nicht nur aussieh
 Eine Babyparty ist die perfekte Gelegenheit, um mit kreativen und durchdachten Geschenken zu überraschen, die über die üblichen Basics hinausgehen. Denk an personalisierte Erinnerungen, spannende Lesestunden oder nützliche Kurse, die den Eltern helfen, sich auf ihr neues Abenteuer vorzubereiten. Vergiss dabei nicht, deine Einladungen mit [Invitivo](https://invitivo.com) stilvoll zu gestalten, um deinen Gästen einen Vorgeschmack auf die bevorstehende Feier zu geben.
 
 Bist du bereit, eine unvergessliche Babyparty zu planen? Lass dich von unseren Ideen inspirieren und mache diese Feier zu einem besonderen Erlebnis für alle Beteiligten!
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Babyparty-Mottos für kreative Köpfe: Von Einhörnern bis hin zu Astronauten"
 description: Entdecke kreative und außergewöhnliche Mottos für Babypartys, die deine Feier zu einem unvergesslichen Erlebnis machen. Plus: Personalisiere deine Einladungen mit einem besonderen Touch!
@@ -50,4 +49,3 @@ Warum sich mit einer weiteren WhatsApp-Gruppe abfinden, wenn du deine Einladunge
 Egal, für welches Motto du dich entscheidest, das Wichtigste ist, dass die Babyparty die Vorfreude auf das neue Leben zelebriert. Mit kreativen Ideen und einer besonderen digitalen Einladung von [Invitivo](https://invitivo.com) wird deine Feier zu einem unvergesslichen Erlebnis. Lass deiner Kreativität freien Lauf und mache aus deiner Babyparty ein Fest, das in Erinnerung bleibt – für dich und deine Gäste!
 
 Bist du bereit, eine magische Babyparty zu planen? Lass dich von unseren Ideen inspirieren und beginne mit der Gestaltung deiner perfekten Einladung!
-```

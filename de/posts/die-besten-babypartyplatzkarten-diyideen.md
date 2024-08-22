@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten DIY-Platzkarten für deine Babyparty: Kreativ und persönlich gestalten"
 description: Entdecke kreative DIY-Ideen für Platzkarten auf deiner Babyparty, die nicht nur schön aussehen, sondern auch eine persönliche Note verleihen. Plus: Warum digitale Einladungen der perfekte Start sind!
@@ -45,4 +44,3 @@ Mit Invitivo kannst du deine Einladungen individuell anpassen, einschließlich h
 Die Gestaltung von Platzkarten für deine Babyparty kann eine unterhaltsame und kreative Möglichkeit sein, um deiner Feier eine persönliche Note zu verleihen. Egal, ob du florale Gläser, tierische Figuren oder Überraschungskarten wählst, mit ein wenig Kreativität wirst du deine Gäste begeistern. Und vergiss nicht, den ersten Eindruck mit einer schönen digitalen Einladung über [Invitivo](https://invitivo.com/) zu setzen – es ist eine moderne und umweltfreundliche Art, deine Feier zu beginnen.
 
 Bist du bereit, deine Babyparty zu einem unvergesslichen Erlebnis zu machen? Lass dich von unseren Ideen inspirieren und gestalte eine Feier, die in Erinnerung bleibt – angefangen bei den Einladungen bis hin zu den liebevoll gestalteten Platzkarten!
-```

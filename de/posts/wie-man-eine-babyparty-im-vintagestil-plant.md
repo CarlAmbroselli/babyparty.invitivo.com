@@ -1,4 +1,3 @@
-```
 ---
 title: "Vintage-Chic: So planst du eine nostalgische Babyparty im Retro-Stil"
 description: Entdecke kreative Ideen und Tipps für eine unvergessliche Babyparty im Vintage-Look, inklusive personalisierter digitaler Einladungen, die den besonderen Flair deiner Feier unterstreichen.
@@ -46,4 +45,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du Designs auswählen, die den Retr
 Eine Babyparty im Vintage-Stil ist eine wunderbare Möglichkeit, eine nostalgische Atmosphäre zu schaffen und gleichzeitig neue Erinnerungen zu schaffen. Mit der richtigen Location, kreativen Deko-Ideen und köstlichen Leckereien wird deine Feier zu einem unvergesslichen Erlebnis. Vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten, um deinem Event den perfekten Start zu geben – nostalgisch und dennoch modern!
 
 Bist du bereit, deine nächste Babyparty im Vintage-Chic zu planen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem nostalgischen Fest voller Liebe, Lachen und unvergesslicher Momente!
-```

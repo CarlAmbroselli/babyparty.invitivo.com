@@ -1,4 +1,3 @@
-```
 ---
 title: "Eine winterliche Babyparty im Freien: Schnee, Spaß und digitale Einladungen"
 description: Tipps und Ideen für eine unvergessliche Babyparty im Freien im Winter, inklusive kreativer Dekoration und personalisierten digitalen Einladungen.
@@ -45,4 +44,3 @@ Mit Invitivo kannst du wunderschöne, individuell gestaltete Einladungen erstell
 Eine Babyparty im Freien im Winter kann ein zauberhaftes Erlebnis sein, wenn du die richtigen Ideen und eine einladende Atmosphäre schaffst. Mit winterlicher Dekoration, warmen Getränken und tollen Aktivitäten sorgst du dafür, dass deine Gäste sich wohlfühlen und die Feier in vollen Zügen genießen können. Vergiss nicht, deine Einladungen nachhaltig und kreativ zu gestalten – mit [Invitivo](https://invitivo.com) wird das ein Kinderspiel.
 
 Bist du bereit, deine winterliche Babyparty zu planen? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem unvergesslichen Ereignis, das niemand so schnell vergessen wird!
-```

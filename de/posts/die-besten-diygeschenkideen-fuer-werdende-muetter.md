@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten DIY-Geschenkideen für werdende Mütter: Kreative Überraschungen zur Babyparty"
 description: Entdecke originelle DIY-Geschenkideen für werdende Mütter, die während der Babyparty für Freude sorgen. Und erfahre, wie du mit digitalen Einladungen von Invitivo den perfekten Rahmen für deine Feier schaffst.
@@ -52,4 +51,3 @@ Mit Invitivo kannst du deine Einladungen individuell gestalten – von zauberhaf
 DIY-Geschenke sind eine liebevolle Art, werdenden Müttern zu zeigen, dass du an sie denkst. Mit ein wenig Kreativität und Herz kannst du Geschenke kreieren, die unvergesslich sind. Und vergiss nicht, deine Babyparty auch mit einer persönlichen digitalen Einladung von [Invitivo](https://invitivo.com) zu feiern. So wird dein Fest nicht nur gemütlich und unvergesslich, sondern auch stilvoll und organisiert.
 
 Planst du eine Babyparty? Lass dich von unseren Ideen inspirieren und mache das Event zu einem unvergesslichen Moment für alle Beteiligten – besonders für die werdende Mutter!
-```

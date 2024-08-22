@@ -1,4 +1,3 @@
-```
 ---
 title: "Die perfekte Babyparty für Zwillinge: Doppelt Freude, doppelt Spaß!"
 description: Entdecke kreative Ideen für die Planung einer unvergesslichen Babyparty für Zwillinge, inklusive einzigartiger Dekorationstipps und personalisierten digitalen Einladungen.
@@ -50,4 +49,3 @@ Eine Babyparty für Zwillinge zu planen, kann herausfordernd sein, aber mit den 
 Die Planung einer Babyparty für Zwillinge kann eine aufregende Herausforderung sein, die sich jedoch mit den richtigen Ideen und Tools in eine wunderbare Feier verwandeln lässt. Setze auf eine harmonische Dekoration, spiele doppelt so viele Spiele und gestalte alles rund um das Thema „Zwillinge“. Denke daran, deine Einladungen mit [Invitivo](https://invitivo.com) zu verschicken, um einen persönlichen und modernen Touch hinzuzufügen.
 
 Bist du bereit, die Vorfreude auf die Zwillinge zu feiern? Lass dich von unseren kreativen Tipps inspirieren und mache diese Babyparty zu einem unvergesslichen Erlebnis – für die werdenden Eltern und ihre Gäste!
-```

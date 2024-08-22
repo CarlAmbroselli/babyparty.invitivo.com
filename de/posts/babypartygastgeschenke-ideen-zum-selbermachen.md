@@ -1,4 +1,3 @@
-```
 ---
 title: "Kreative Gastgeschenke für die Babyparty: Ideen zum Selbermachen"
 description: Entdecke einzigartige und personalisierte DIY-Gastgeschenke für deine Babyparty, die deinen Gästen ein Lächeln ins Gesicht zaubern werden. Ergänze deine Feier mit stilvollen digitalen Einladungen!
@@ -46,4 +45,3 @@ Stell dir vor, deine Gäste öffnen ihre E-Mails und werden von einer liebevoll 
 Die Planung einer Babyparty kann eine aufregende, aber auch herausfordernde Aufgabe sein. Mit kreativen DIY-Gastgeschenken, die von Herzen kommen, und stilvollen digitalen Einladungen von [Invitivo](https://invitivo.com/) wird dein Fest unvergesslich. Denke daran, dass es die kleinen, persönlichen Gesten sind, die den Unterschied machen und deine Gäste in Staunen versetzen.
 
 Lass deiner Kreativität freien Lauf und mache deine Babyparty zu einem besonderen Erlebnis, das alle noch lange in Erinnerung behalten werden. Egal, ob du Pflanzen, Lesezeichen oder Seifen verschenkst – deine Gäste werden es lieben! Und mit einer digitalen Einladung ziehst du alle Blicke auf dich. Bereit, die Vorfreude zu feiern? Let’s go!
-```

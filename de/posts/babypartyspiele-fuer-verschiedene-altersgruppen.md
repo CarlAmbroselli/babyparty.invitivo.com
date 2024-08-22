@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty-Spiele für alle Altersgruppen: Spaß für Groß und Klein!"
 description: Entdecke kreative Spiele für deine Babyparty, die sich an verschiedene Altersgruppen anpassen lassen, und erfahre, wie du mit digitalen Einladungen von Invitivo den perfekten Rahmen schaffst.
@@ -52,4 +51,3 @@ Mit Invitivo kannst du deine Einladungen individuell gestalten, sei es mit einem
 Eine Babyparty ist eine wunderbare Gelegenheit, um mit Freunden und Familie zu feiern. Mit diesen kreativen Spielideen, die sich leicht an verschiedene Altersgruppen anpassen lassen, wird deine Feier garantiert ein Hit! Vergiss nicht, deine Gäste mit einer ansprechenden digitalen Einladung von [Invitivo](https://invitivo.com) zu überraschen. So kannst du sicherstellen, dass deine Babyparty nicht nur ein unvergessliches Event, sondern auch gut organisiert wird.
 
 Bist du bereit, das nächste Kapitel deines Lebens mit einer unvergesslichen Babyparty zu feiern? Lass dich von unseren Ideen inspirieren und mache deine Feier zu einem fröhlichen Erlebnis für Groß und Klein!
-```

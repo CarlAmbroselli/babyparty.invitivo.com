@@ -1,4 +1,3 @@
-```
 ---
 title: "Kulturelle Unterschiede bei Babypartys weltweit: Ein Fest der Vielfalt"
 description: Entdecke die faszinierenden Traditionen und Bräuche rund um Babypartys in verschiedenen Kulturen und erfahre, wie digitale Einladungen deine Feier persönlicher gestalten können.
@@ -51,4 +50,3 @@ Mit [Invitivo](https://invitivo.com/) hast du die Möglichkeit, deine Einladunge
 Die Vielfalt der Babyparty-Traditionen weltweit zeigt, wie bunt und unterschiedlich wir feiern können. Egal, ob du eine amerikanische Baby Shower oder ein traditionelles ghanaisches Fest planst – es gibt unzählige Möglichkeiten, diesen besonderen Moment zu zelebrieren. Denke daran, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten, um deinen Gästen ein unvergessliches Erlebnis zu bieten. 
 
 Bist du bereit, deine eigene Babyparty zu planen? Lass dich von den Traditionen inspirieren und mache deine Feier zu einem einzigartigen Fest der Kultur und Gemeinschaft!
-```

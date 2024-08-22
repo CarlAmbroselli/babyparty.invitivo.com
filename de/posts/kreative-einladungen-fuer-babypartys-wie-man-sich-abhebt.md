@@ -1,4 +1,3 @@
-```
 ---
 title: "Kreative Einladungen für Babypartys: So hebst du dich von der Masse ab!"
 description: Entdecke kreative Ideen für Einladungen zu deiner Babyparty, die Vorfreude wecken und deine Gäste begeistern. Lass dich inspirieren, auch mit digitalen Einladungen von Invitivo.
@@ -47,4 +46,3 @@ Die Einladung zur Babyparty ist der erste Schritt, um deine Gäste in die Vorfre
 Denke daran: Eine kreative Einladung ist nicht nur ein Stück Papier, sondern der erste Eindruck eines festlichen Anlasses. Also, mach dich bereit, deine Freunde und Familie mit einer Einladung zu überraschen, die sie nicht vergessen werden!
 
 Planst du eine Babyparty? Lass dich von diesen Ideen inspirieren und gestalte deine Einladungen so einzigartig wie das bevorstehende Baby!
-```

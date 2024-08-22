@@ -1,4 +1,3 @@
-```
 ---
 title: "Die perfekte Playlist für deine Babyparty: Musik, die das Feiern unvergesslich macht!"
 description: Entdecke die besten Musikempfehlungen für eine fröhliche Babyparty, inklusive Tipps für digitale Einladungen, die deine Gäste begeistern werden.
@@ -45,4 +44,3 @@ Stell dir vor, deine Gäste erhalten eine Einladung, die sie sowohl visuell als 
 Die perfekte Playlist ist der Schlüssel zu einer unvergesslichen Babyparty. Mit einer Mischung aus fröhlichen Hits, emotionalen Balladen und energiegeladenen Partykrachern wird deine Feier garantiert ein Erfolg. Und vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com/) zu versenden – so machst du den ersten Schritt in eine traumhafte Feier, die deine Gäste lieben werden.
 
 Mach dich bereit für eine unvergessliche Babyparty, bei der Musik, Freude und unzählige schöne Momente im Vordergrund stehen!
-```

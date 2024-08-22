@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Fotomomente auf Babypartys festhalten: Kreative Tipps für unvergessliche Erinnerungen"
 description: Entdecke kreative Fototipps, um die schönsten Momente deiner Babyparty festzuhalten, und erfahre, wie digitale Einladungen von Invitivo die Planung erleichtern.
@@ -51,4 +50,3 @@ Mit Invitivo kannst du deine Einladungen individuell gestalten und alle wichtige
 Die besten Babyparty-Momente sind die, die du mit viel Liebe und Kreativität festhältst. Mit den richtigen Fototipps kannst du sicherstellen, dass diese besonderen Augenblicke für immer in Erinnerung bleiben. Und vergiss nicht, deine Gäste auf kreative Weise einzuladen – mit einer digitalen Einladung von [Invitivo](https://invitivo.com) machst du den ersten Schritt in Richtung einer unvergesslichen Feier.
 
 Planst du eine Babyparty? Lass dich von unseren Tipps inspirieren und mache deine Feier zu einem besonderen Erlebnis für alle Beteiligten. Die besten Erinnerungen sind die, die du mit deinen Lieben teilst – also halte sie fest und genieße jeden Moment!
-```

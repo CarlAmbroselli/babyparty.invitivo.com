@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Apps zur Planung einer Babyparty: Digitale Helfer für deinen großen Tag"
 description: Entdecke nützliche Apps, die dir bei der Organisation einer unvergesslichen Babyparty helfen, inklusive personalisierten digitalen Einladungen für einen stressfreien Ablauf.
@@ -46,4 +45,3 @@ Anstatt eine weitere WhatsApp-Gruppe zu gründen, warum nicht auf etwas Einzigar
 Die Planung einer Babyparty muss nicht chaotisch sein. Mit den richtigen Apps an deiner Seite wird alles viel einfacher und unterhaltsamer. Von der Gästelistenverwaltung bis hin zu inspirierenden Ideen – die digitale Welt bietet dir viele Werkzeuge, um deinen großen Tag zu einem unvergesslichen Erlebnis zu machen. Vergiss nicht, deine Einladungen mit einem Hauch von Kreativität zu gestalten, und ziehe Invitivo in Betracht, um deine Party stilvoll zu beginnen.
 
 Mach dich bereit, deine Babyparty zu einem unvergesslichen Fest zu machen – mit all den digitalen Helfern, die dir zur Seite stehen!
-```

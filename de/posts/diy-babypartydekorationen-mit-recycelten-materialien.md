@@ -1,4 +1,3 @@
-```
 ---
 title: "DIY Babyparty-Dekorationen aus Recycling-Materialien: Kreativ und Nachhaltig Feiern"
 description: Entdecke kreative Anleitungen für einzigartige Dekorationen zu deiner Babyparty aus recycelten Materialien und erfahre, wie digitale Einladungen deine Feier persönlicher machen können.
@@ -61,4 +60,3 @@ Mit Invitivo kannst du deine Einladungen individuell gestalten, inklusive schön
 Eine Babyparty muss nicht nur schön, sondern auch nachhaltig gestaltet werden. Mit DIY-Dekorationen aus recycelten Materialien zauberst du eine einzigartige Atmosphäre, die deine Gäste zum Staunen bringt. Vergiss nicht, auch die Einladungen stilvoll und umweltfreundlich zu gestalten. Mit [Invitivo](https://invitivo.com) schaffst du eine persönliche Note, die zu deinem besonderen Anlass passt.
 
 Bist du bereit, deine Babyparty unvergesslich zu machen? Lass deiner Kreativität freien Lauf und genieße das Feiern in vollen Zügen – nachhaltig und einzigartig!
-```

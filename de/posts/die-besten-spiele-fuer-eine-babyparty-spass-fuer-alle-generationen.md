@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Spiele für eine Babyparty: Spaß für alle Generationen"
 description: Entdecke kreative und lustige Spiele, die sowohl für werdende Eltern als auch für ihre Gäste geeignet sind, und erfahre, wie digitale Einladungen von Invitivo deine Feier noch besonderer machen können.
@@ -51,4 +50,3 @@ Mit Invitivo kannst du deine Einladungen ganz nach deinem Geschmack gestalten �
 Spiele sind das Herzstück jeder Babyparty und bringen nicht nur Spaß, sondern auch eine Gelegenheit, Erinnerungen zu schaffen, die ein Leben lang halten. Von Baby Bingo bis zu kreativen Charades – die Möglichkeiten sind endlos! Und vergiss nicht, deine Einladungen mit [Invitivo](https://invitivo.com/) zu gestalten, um deiner Feier das gewisse Etwas zu verleihen. 
 
 Bist du bereit, die beste Babyparty aller Zeiten zu planen? Lass dich inspirieren und mach diese Feier zu einem unvergesslichen Erlebnis für alle Generationen!
-```

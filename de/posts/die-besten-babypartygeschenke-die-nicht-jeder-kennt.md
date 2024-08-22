@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Babyparty-Geschenke, die nicht jeder kennt: Einzigartige Ideen für werdende Eltern"
 description: Entdecke eine Liste von kreativen und nützlichen Geschenken für werdende Eltern, die über die klassischen Optionen hinausgehen, und erfahre, wie du deine Einladungen mit digitalen Designs von Invitivo personalisieren kannst.
@@ -47,4 +46,3 @@ Mit Invitivo kannst du deine Einladungen individuell gestalten und dabei eine pe
 Die Auswahl der Geschenke zur Babyparty kann eine Herausforderung sein, doch mit diesen einzigartigen Ideen schaffst du es, den werdenden Eltern eine riesige Freude zu bereiten. Wenn du dann auch noch deine Einladungen mit einem digitalen Design von Invitivo versendest, wird deine Babyparty ein voller Erfolg. Mach diesen besonderen Tag unvergesslich für alle Beteiligten – denn schließlich beginnt hier eine ganz neue Reise!
 
 Bist du bereit, deine Babyparty zu planen? Lass dich von unseren Geschenkideen inspirieren und vergiss nicht, die perfekten Einladungen zu gestalten – für ein einmaliges Fest, das in Erinnerung bleibt!
-```

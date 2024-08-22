@@ -1,4 +1,3 @@
-```
 ---
 title: "Kreative Babyparty-Aktivitäten für werdende Väter: Spaß und Spiele für den neuen Lebensabschnitt"
 description: Entdecke originelle Aktivitäten und Spiele für werdende Väter bei Babypartys, inklusive Tipps für digitale Einladungen, die deine Gäste begeistern werden!
@@ -46,4 +45,3 @@ Auf [Invitivo](https://invitivo.com/) kannst du deine Einladungen so gestalten, 
 Eine Babyparty für werdende Väter muss nicht langweilig sein – mit kreativen Aktivitäten und Spielen wird sie zu einem unvergesslichen Erlebnis. Von Koch-Challenges über Geschichten erzählen bis hin zu DIY-Bastelstationen gibt es viele Möglichkeiten, um den werdenden Vätern einen gebührenden Empfang zu bereiten.
 
 Vergiss nicht, deine Einladungen auf eine moderne und ansprechende Weise zu gestalten – mit [Invitivo](https://invitivo.com/) machst du alles richtig. So wird deine Babyparty nicht nur ein Fest der Vorfreude, sondern auch ein Event, das lange in Erinnerung bleibt. Planst du eine Babyparty? Lass dich von diesen Ideen inspirieren und feiere auf kreative Weise den bevorstehenden neuen Lebensabschnitt!
-```

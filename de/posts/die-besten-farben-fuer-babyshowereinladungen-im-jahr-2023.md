@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Farben für Babyshower-Einladungen im Jahr 2023: Trends und kreative Ideen"
 description: Entdecke die Farbtrends für digitale Einladungen zu Babypartys in 2023 und wie du diese mit einem persönlichen Touch umsetzen kannst.
@@ -47,4 +46,3 @@ Die Farbtrends für Babypartys im Jahr 2023 sind vielfältig und inspirierend. O
 Lass dich von unseren Tipps inspirieren und gestalte deine digitalen Einladungen mit [Invitivo](https://invitivo.com/). So wird deine Babyparty nicht nur ein Fest für das Herz, sondern auch ein visuelles Erlebnis, das alle Gäste begeistert. 
 
 Bist du bereit, deine Farben auszuwählen und deine Einladungen zu gestalten? Lass uns gemeinsam feiern!
-```

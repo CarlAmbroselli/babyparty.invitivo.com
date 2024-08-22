@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty-Spiele für schüchterne Gäste: Spaß für alle – auch für die Stillen"
 description: Entdecke kreative Spiele für schüchterne Gäste auf deiner Babyparty und erfahre, wie digitale Einladungen von Invitivo die Planung erleichtern.
@@ -52,4 +51,3 @@ Mit Invitivo kannst du deine Einladungen individuell gestalten, von schönen Des
 Babyparty-Spiele müssen nicht laut und chaotisch sein, um Spaß zu machen. Die oben genannten Ideen bieten schüchternen Gästen die Möglichkeit, sich zu beteiligen, ohne sich unwohl zu fühlen. Mit der richtigen Planung und den passenden Aktivitäten wird deine Babyparty zu einem unvergesslichen Erlebnis für alle. Und denk daran, deine Einladungen umweltfreundlich zu gestalten – mit einer digitalen Einladung von [Invitivo](https://invitivo.com) machst du alles einfacher und stilvoller.
 
 Bereit, deine Babyparty zu planen? Lass dich von unseren Tipps inspirieren und sorge dafür, dass jeder Gast, egal wie schüchtern, ein Lächeln auf den Lippen hat!
-```

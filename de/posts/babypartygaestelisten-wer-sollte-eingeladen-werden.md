@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty-Gästelisten: So stellst du die perfekte Einladung zusammen!"
 description: Entdecke nützliche Tipps zur Zusammenstellung der optimalen Gästeliste für deine Babyparty und erfahre, wie du mit digitalen Einladungen von Invitivo deinen Gästen eine persönliche Note verleihst.
@@ -52,4 +51,3 @@ Wenn die Einladungen verschickt sind, ist es an der Zeit, die Rückmeldungen zu 
 Die Zusammenstellung der Gästeliste für deine Babyparty kann eine Herausforderung sein, aber mit den richtigen Tipps und einem klaren Plan wird es zum Kinderspiel. Denke daran, deine Einladungen digital zu gestalten und die Vorfreude mit [Invitivo](https://invitivo.com) zu steigern. Auf diese Weise schaffst du nicht nur eine persönliche Note, sondern auch eine wunderbare Erinnerung für alle Beteiligten.
 
 Bist du bereit, deine Babyparty zu planen? Lass die Vorbereitungen beginnen und feiere diesen besonderen Moment mit all den Menschen, die dir am Herzen liegen!
-```

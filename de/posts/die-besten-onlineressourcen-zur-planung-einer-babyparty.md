@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Online-Ressourcen zur Planung einer Babyparty: Tipps und Tools für eine unvergessliche Feier"
 description: Entdecke nützliche Websites und Plattformen für die perfekte Babyparty-Planung, inklusive kreativer Ideen und personalisierten digitalen Einladungen.
@@ -48,4 +47,3 @@ Die Planung einer Babyparty kann überwältigend sein, aber mit den richtigen On
 Und vergiss nicht, deinen Gästen die digitale Einladung über [Invitivo](https://invitivo.com/) zu schicken! Mit einem Hauch von Stil und einer persönlichen Note wird deine Feier nicht nur gut organisiert, sondern auch ein echter Hingucker.
 
 Bist du bereit, deine Babyparty zu planen? Lass dich von diesen Tipps inspirieren und mache deinen besonderen Tag zu einem unvergesslichen Erlebnis – voller Freude, Liebe und jeder Menge Spaß!
-```

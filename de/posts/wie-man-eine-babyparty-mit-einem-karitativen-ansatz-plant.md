@@ -1,4 +1,3 @@
-```
 ---
 title: "Wie man eine Babyparty mit einem karitativen Ansatz plant: Feiern für einen guten Zweck"
 description: Entdecke kreative Ideen für eine Babyparty, die nicht nur feierlich, sondern auch wohltätig ist, inklusive Tipps für digitale Einladungen, die deinen Gästen ein Lächeln ins Gesicht zaubern.
@@ -46,4 +45,3 @@ Mit Invitivo kannst du wunderschöne, individuell gestaltete digitale Einladunge
 Eine Babyparty mit einem karitativen Ansatz schafft nicht nur unvergessliche Erinnerungen für die werdenden Eltern, sondern bringt auch Freude und Unterstützung für die, die es am meisten brauchen. Mit kreativen Ideen, einer klaren Mission und digitalen Einladungen von [Invitivo](https://invitivo.com) machst du deine Feier zu einem besonderen Erlebnis.
 
 Lass dich von diesen Tipps inspirieren und plane eine Babyparty, die nicht nur das neue Leben feiert, sondern auch das Leben anderer bereichert. Es ist die perfekte Gelegenheit, um Liebe und Unterstützung in die Welt zu tragen – und das alles mit einem fröhlichen Fest!
-```

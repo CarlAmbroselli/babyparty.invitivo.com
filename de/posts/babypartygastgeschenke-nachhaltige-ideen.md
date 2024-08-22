@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babyparty-Gastgeschenke: Umweltfreundliche Ideen für unvergessliche Feiern"
 description: Entdecke kreative und nachhaltige Gastgeschenke für deine Babyparty, die nicht nur den Planeten schonen, sondern auch deine Gäste begeistern werden, inklusive Tipps für digitale Einladungen mit persönlicher Note.
@@ -46,4 +45,3 @@ Stell dir vor, deine Gäste erhalten eine elegant gestaltete Einladung mit all d
 Eine Babyparty bietet nicht nur die Möglichkeit, das bevorstehende Leben zu feiern, sondern auch, umweltbewusste Entscheidungen zu treffen. Mit diesen nachhaltigen Gastgeschenken kannst du sicherstellen, dass deine Feier nicht nur unvergesslich, sondern auch umweltfreundlich ist. Vergiss nicht, deine Einladungen über [Invitivo](https://invitivo.com) zu verschicken – so wird der Einstieg in die Feier genauso besonders wie die Geschenke selbst.
 
 Bist du bereit, deine Babyparty zu planen? Lass dich inspirieren und setze auf Nachhaltigkeit und Kreativität, um ein wunderbares Erlebnis für alle zu schaffen! 
-```

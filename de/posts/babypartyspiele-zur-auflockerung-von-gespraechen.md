@@ -1,4 +1,3 @@
-```
 ---
 title: "Gesellige Babyparty-Spiele zur Auflockerung der Stimmung: So bringst du deine Gäste ins Gespräch"
 description: Entdecke kreative und unterhaltsame Spiele für deine Babyparty, die helfen, die Stimmung zu heben und Gespräche zu fördern – inklusive Tipps für persönliche digitale Einladungen!
@@ -45,4 +44,3 @@ Die Einladungen sind nicht nur umweltfreundlich, sondern ermöglichen es dir auc
 Eine Babyparty ist der perfekte Anlass, um Spaß zu haben und die Gäste miteinander ins Gespräch zu bringen. Mit den richtigen Spielen wird die Feier lebendig und unvergesslich. Denke daran, auch deine Einladungen auf eine kreative und persönliche Weise zu gestalten – mit [Invitivo](https://invitivo.com) wird dies zum Kinderspiel. 
 
 Plane deine Babyparty, lache mit Freunden und genieße die Vorfreude auf das neue Leben. Lass die Spiele beginnen!
-```

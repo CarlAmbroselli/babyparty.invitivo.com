@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Spiele für große Babypartys: Spaß für alle Generationen!"
 description: Entdecke unterhaltsame und kreative Spiele, die sich perfekt für große Babypartys eignen, und erfahre, wie du mit digitalen Einladungen von Invitivo den perfekten Rahmen für dein Event schaffen kannst.
@@ -52,4 +51,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du kreative Designs auswählen und 
 Eine Babyparty für große Gruppen kann eine Herausforderung sein, aber mit den richtigen Spielen und Aktivitäten wird sie garantiert zu einem unvergesslichen Erlebnis. Denke daran, deine Einladungen kreativ und digital zu gestalten, um den perfekten Rahmen für dein Event zu schaffen. Nutze [Invitivo](https://invitivo.com/), um deine Einladungen zu personalisieren und den Stress der Planung zu minimieren.
 
 Mach dich bereit, mit deiner bunten Auswahl an Spielen und einer stilvollen Einladung einen Abend voller Spaß und Freude zu gestalten. Lass die Spiele beginnen und genieße die Zeit mit Freunden und Familie, während ihr gemeinsam auf das neue Leben anstoßt!
-```

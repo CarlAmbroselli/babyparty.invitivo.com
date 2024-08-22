@@ -1,4 +1,3 @@
-```
 ---
 title: "Wie du dein Babyparty-Haushaltsbudget clever managst: Sparen mit Stil!"
 description: Entdecke kreative Spartipps für eine unvergessliche Babyparty, die dein Budget schont, inklusive personalisierter digitaler Einladungen für einen modernen Touch.
@@ -48,4 +47,3 @@ Mit ein wenig Kreativität und Planung kannst du deine Babyparty zu einem unverg
 Und vergiss nicht die Einladungen! Setze auf eine digitale Lösung wie [Invitivo](https://invitivo.com/), um deinen Gästen einen modernen, stilvollen Empfang zu bereiten. So bleibt mehr Geld für die schönen Dinge – und vielleicht ein paar Windeln für die frischen Eltern!
 
 Planst du deine Babyparty? Lass dich von unseren Tipps inspirieren und mache sie zu einem unvergesslichen Erlebnis – ganz ohne finanzielle Kopfschmerzen!
-```

@@ -1,4 +1,3 @@
-```
 ---
 title: "Nachhaltige Babyparty: 5 Tipps für ein umweltfreundliches Fest"
 description: Entdecke kreative Ideen für eine nachhaltige Babyparty, die sowohl umweltfreundlich als auch unvergesslich ist – inklusive digitaler Einladungen für einen persönlichen Touch.
@@ -58,4 +57,3 @@ Geschenke sind ein wichtiger Teil jeder Babyparty, aber auch hier kannst du nach
 Eine nachhaltige Babyparty zu organisieren, ist nicht nur möglich, sondern auch eine wunderbare Möglichkeit, den neuen Lebensabschnitt zu feiern. Mit der richtigen Planung, kreativen Ideen und einer persönlichen Note durch digitale Einladungen von [Invitivo](https://invitivo.com) wird dein Fest zu einem unvergesslichen Erlebnis für alle – und das mit einem guten Gewissen.
 
 Mach dich bereit, deine Babyparty in eine umweltfreundliche Feier zu verwandeln, die nicht nur die werdende Mutter, sondern auch die Erde feiert!
-```

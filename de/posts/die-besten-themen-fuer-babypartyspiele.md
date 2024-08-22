@@ -1,4 +1,3 @@
-```
 ---
 title: "Die besten Themen für Babyparty-Spiele: Kreative Ideen für unvergessliche Momente"
 description: Entdecke kreative Themen für Babyparty-Spiele, die für Spaß und Spannung sorgen, und erfahre, wie digitale Einladungen von Invitivo deine Feier noch persönlicher machen.
@@ -51,4 +50,3 @@ Mit Invitivo hast du die Möglichkeit, deine Einladungen individuell zu gestalte
 Eine Babyparty ist die perfekte Gelegenheit, um Spaß zu haben und unvergessliche Erinnerungen zu schaffen. Mit kreativen Themen und Spielen wird deine Feier zu einem echten Highlight! Vergiss dabei nicht, deine Einladungen mit [Invitivo](https://invitivo.com) zu gestalten, um deinen Gästen einen ersten Eindruck von der besonderen Atmosphäre zu vermitteln. Lass die Spiele beginnen und genieße jeden Moment dieser zauberhaften Zeit!
 
 Planst du deine nächste Babyparty? Lass dich von unseren Ideen inspirieren und mache deine Feier zu einem unvergesslichen Erlebnis voller Lachen und Freude!
-```

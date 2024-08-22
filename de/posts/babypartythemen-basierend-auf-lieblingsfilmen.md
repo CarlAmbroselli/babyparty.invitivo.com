@@ -1,4 +1,3 @@
-```
 ---
 title: "Babyparty-Themen inspiriert von deinen Lieblingsfilmen: Kreative Ideen für unvergessliche Feiern"
 description: Entdecke originelle Themen für Babypartys, die von beliebten Filmen inspiriert sind, inklusive Tipps für digitale Einladungen, die das Event auf ein neues Level heben.
@@ -60,4 +59,3 @@ Mit [Invitivo](https://invitivo.com/) kannst du deine Einladungen kreativ gestal
 Eine Babyparty, die von deinen Lieblingsfilmen inspiriert ist, wird nicht nur die werdende Mutter erfreuen, sondern auch alle Gäste zum Schmunzeln bringen. Mit kreativen Dekorationsideen, unterhaltsamen Aktivitäten und einzigartigen digitalen Einladungen von [Invitivo](https://invitivo.com) wird deine Feier sicherlich unvergesslich. 
 
 Mach dich bereit für eine feierliche Zeitreise durch die Filmwelt und plane deine nächste Babyparty mit einem Thema, das sowohl Spaß als auch eine persönliche Note bietet. Wer weiß, vielleicht wird deine Feier zum Hit des Jahres!
-```
