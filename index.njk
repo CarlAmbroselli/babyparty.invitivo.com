@@ -1,14 +1,35 @@
 ---
 title: Tipps für deine Babyparty
 layout: layouts/home.njk
-description: Description. Update me.
-image: https://upload.wikimedia.org/wikipedia/en/a/a9/Example.jpg
+description: Nützliche Tipps zur Planung deiner Babyparty, inkl. Ideen für digitale Einladungen.
+image: https://babyparty.invitivo.com/img/picnic-park.webp
 date: Last Modified
+pagination:
+  data: collections.posts
+  size: 15
+  alias: posts
 ---
 
+<p style="text-align: center;">Hier findest du tolle <span style="font-weight: bold;">Ideen für Babyparties</span> und hilfreiche Tipps zur Planung der perfekten Babyparty!</p>
 
 <div id="posts">
-  <h2>Posts</h2>
-  {% set postslist = collections.posts %}
+  <h2>Neuste Beiträge</h2>
+  {% set postslist = posts %}
   {% include "postslist.njk" %}
 </div>
+
+{# Pagination Navigation #}
+{% if pagination.href.previous or pagination.href.next %}
+  <nav aria-label="Pagination" style="display: flex; justify-content: space-between;">
+    <div>
+      {%- if pagination.href.previous %}
+        <a href="{{ pagination.href.previous }}">&laquo; Vorherige Seite</a>
+      {% endif %}
+    </div>
+    <div>
+      {%- if pagination.href.next %}
+        <a href="{{ pagination.href.next }}">Nächste Seite &raquo;</a>
+      {% endif %}
+    </div>
+  </nav>
+{% endif %}
